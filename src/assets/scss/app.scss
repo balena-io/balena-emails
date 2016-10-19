@@ -1,8 +1,8 @@
 @import 'settings';
 @import 'foundation-emails';
 @import 'mixins';
-// BASIC
 
+// BASIC
 hr {
   border-style: solid;
   color: $light-gray;
@@ -22,15 +22,28 @@ hr {
 .link-plain {
   color: inherit;
 }
-// HEADER
 
+.container-border {
+  padding: $global-padding;
+  border: 5px solid $light-gray;
+  @include border-radius(5px);
+  .wrapper-inner {
+    padding: $global-padding;
+    .columns {
+      padding-bottom: 0;
+    }
+  }
+}
+// BASIC
+
+// HEADER
 .header {
   background: $black;
   border-bottom: 1px solid lighten($black, 10%);
 }
 
 .header .wrapper-inner {
-  padding: $global-padding/2; /*controls the height of the header*/
+  padding: $global-padding/2 0; /*controls the height of the header*/
 }
 
 .header .container {
@@ -60,11 +73,9 @@ hr {
     margin: auto;
   }
 }
-
 // HEADER
 
 // FOOTER
-
 .footer {
   background: $black;
   border-bottom: 1px solid $dark-gray;
@@ -95,13 +106,14 @@ hr {
 }
 .post__tag {
   display: inline-block;
+  margin-left: 0 !important;
   .secondary {
     margin-bottom: 0;
   }
 }
-
 // POSTS
 
+// FEATURED
 .featured {
   background: $black;
 }
@@ -113,42 +125,25 @@ hr {
 .featured__text {
   color: $white;
 }
+// FEATURED
 
-// POSTS
-
+// EVENTS
 .events__header .columns {
   padding-bottom: 0;
 }
-
-// SOCIAL
-
-.container-border {
-  padding: $global-padding;
-  border: 5px solid $light-gray;
-  @include border-radius(5px);
-  .wrapper-inner {
-    padding: $global-padding;
-    .columns {
-      padding-bottom: 0;
-    }
-  }
-}
-
-// SOCIAL
+// EVENTS
 
 // UNSUBSCRIBE
-
 .unsubscribe__text {
   color: $dark-gray;
   font-size: 12px;
 }
-
 // UNSUBSCRIBE
 
-// AD
-
-.ad {
-  background: $light-gray;
+// SOCIAL
+@media only screen and (max-width: #{$global-breakpoint}) {
+  .social__button {
+    display: block;
+  }
 }
-
-// AD
+// SOCIAL
