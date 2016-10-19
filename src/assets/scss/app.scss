@@ -1,0 +1,154 @@
+@import 'settings';
+@import 'foundation-emails';
+@import 'mixins';
+// BASIC
+
+hr {
+  border-style: solid;
+  color: $light-gray;
+}
+
+.icon {
+  max-width: 30px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: $global-margin/2;
+}
+
+.icon--large {
+  max-width: 100px;
+}
+
+.link-plain {
+  color: inherit;
+}
+// HEADER
+
+.header {
+  background: $black;
+  border-bottom: 1px solid lighten($black, 10%);
+}
+
+.header .wrapper-inner {
+  padding: $global-padding/2; /*controls the height of the header*/
+}
+
+.header .container {
+  background: $black;
+}
+
+.header__columns {
+  padding: $global-padding/2 $global-padding !important;
+  vertical-align: middle;
+}
+
+.header__title {
+  color: $dark-gray;
+  font-weight: 100;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.header__brand {
+  max-width: 40px;
+}
+
+@media only screen and (max-width: #{$global-breakpoint}) {
+  .header__title, .header__brand {
+    text-align: center !important;
+    float: none !important;
+    margin: auto;
+  }
+}
+
+// HEADER
+
+// FOOTER
+
+.footer {
+  background: $black;
+  border-bottom: 1px solid $dark-gray;
+}
+
+.footer__columns {
+}
+
+.footer__text {
+  color: $dark-gray;
+  font-weight: 100;
+}
+
+.footer__brand {
+  max-width: 55px;
+}
+// FOOTER
+
+// POSTS
+.post__title {
+  margin-bottom: 0;
+}
+.post__tags {
+  list-style: none;
+  padding: 0;
+  letter-spacing: 1px;
+  margin: $global-margin/4 0
+}
+.post__tag {
+  display: inline-block;
+  .secondary {
+    margin-bottom: 0;
+  }
+}
+
+// POSTS
+
+.featured {
+  background: $black;
+}
+
+.featured__title {
+  color: $white;
+}
+
+.featured__text {
+  color: $white;
+}
+
+// POSTS
+
+.events__header .columns {
+  padding-bottom: 0;
+}
+
+// SOCIAL
+
+.container-border {
+  padding: $global-padding;
+  border: 5px solid $light-gray;
+  @include border-radius(5px);
+  .wrapper-inner {
+    padding: $global-padding;
+    .columns {
+      padding-bottom: 0;
+    }
+  }
+}
+
+// SOCIAL
+
+// UNSUBSCRIBE
+
+.unsubscribe__text {
+  color: $dark-gray;
+  font-size: 12px;
+}
+
+// UNSUBSCRIBE
+
+// AD
+
+.ad {
+  background: $light-gray;
+}
+
+// AD

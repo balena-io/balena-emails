@@ -1,0 +1,39 @@
+[
+  {
+    "title": "The making of a boombeastic",
+    "tags": ["projects"],
+    "text": "This months interesting resin.io use case! A high-quality, stand-alone, fast-prototyped, connected speaker",
+    "link": "https://resin.io/blog/the-making-of-boombeastic/",
+    "image": "https://ucarecdn.com/5e3ebe94-b494-478f-a280-85f88ac8eaeb/",
+    "button": "Read"
+  },
+  {
+    "title": "The perils of writing a disk images on windows",
+    "text": "This is a story about how we had to go into the guts of Windows to figure out how to write to a USB drive with JavaScript without getting a permission error. But let's take it from the top.",
+    "link": "https://resin.io/blog/the-perils-of-writing-disk-images-on-windows/",
+    "image": "https://resin.io/blog/content/images/2016/09/ba2baae2-7a89-11e6-97e9-4467a35ed61e.png",
+    "button": "Read"
+  },
+  {
+    "title": "ELCE 2016 in Review",
+    "tags": ["event"],
+    "text": "This is a story about how we had to go into the guts of Windows to figure out how to write to a USB drive with JavaScript without getting a permission error. But let's take it from the top.",
+    "link": "https://resin.io/blog/the-perils-of-writing-disk-images-on-windows/",
+    "image": "https://resin.io/blog/content/images/2016/10/resinos-beastdemo-min.jpg",
+    "button": "Read"
+  },
+  {
+    "title": "Resin.io's London office smart lock",
+    "text":"An RFID lock system to our local office",
+    "tags": ["projects"],
+    "link": "https://resin.io/blog/our-resinified-office-lock/",
+    "image": "https://resin.io/blog/content/images/2016/09/lockfront.jpg",
+    "button": "Read"
+  },
+  {
+    "title": "Big changes to resin sync, update your CLI!",
+    "text": "In the upcoming, 5.0.0 release of the resin-cli we are adding a number of changes that will enhance your resin sync experience. It will, however, be also a breaking change!",
+    "link": "https://resin.io/blog/resin-cli-5/",
+    "button": "Read"
+  }
+]
