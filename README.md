@@ -11,7 +11,13 @@ This is a generator for resin emails, it uses [zurb's email framework](http://fo
 
 ## Installation
 
-To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater. The template can be installed with the Foundation CLI, or downloaded and set up manually.
+To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater.
+```
+git pull https://github.com/resin-io/resin-emails
+```
+```
+npm i
+```
 
 ## Build Commands
 
