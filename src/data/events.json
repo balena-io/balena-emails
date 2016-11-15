@@ -1,20 +1,26 @@
 [
 	{
-		"title": "All Things Open 2016",
-		"date": "10/26-27/16",
-		"location": "Raleigh",
-		"link": "https://allthingsopen.org/"
+		"title": "IEEE Spark at UCL",
+		"date": "10/15/16",
+		"location": "London",
+		"link": "http://www.uclieee.co.uk/"
 	},
 	{
-		"title": "Industrial IoT: Connected Edge & Fog Computing",
-		"date": "10/27/16",
-		"location": "Seattle",
-		"link": "https://www.meetup.com/IoT-Hub/events/234932796/"
+		"title": "Mobile Developers Conference",
+		"date": "11/17/16",
+		"location": "Moscow",
+		"link": "http://mbltdev.ru/en"
 	},
 	{
-		"title": "IoT With The Best",
-		"date": "10/29-30/16",
-		"location": "Online event",
-		"link": "http://iot.withthebest.com/"
+		"title": "Enterprise Technology Meetup",
+		"date": "11/21/16",
+		"location": "London",
+		"link": "https://www.meetup.com/ln-enterprise-tech/events/235022335/"
+	},
+	{
+		"title": "AWS re:Invent",
+		"date": "11/28/16",
+		"location": "Las Vegas",
+		"link": "https://reinvent.awsevents.com/"
 	}
 ]

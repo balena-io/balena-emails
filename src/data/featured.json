@@ -1,6 +1,6 @@
 {
-	"link": "https://resin.io/blog/introducing-resinos/",
-	"image": "https://resinos.io/images/logos/project@2x.png",
-  "text": "We're very excited to introduce resinOS as a stand-alone OS tailored for containers, designed for reliability, proven in production",
-	"button": "Learn More"
+	"link": "https://resin.io/blog/samsung-artik-710/",
+	"image": "https://resin.io/blog/content/images/2016/10/ARTIK_710_blog.jpg",
+  "text": "Samsung ARTIK 710 Comes to Resin.io, The ARTIK 710 is also the first board on resin.io that is available with the latest resinOS 2.0",
+	"button": "Learn more"
 }

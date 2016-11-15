@@ -1,39 +1,24 @@
 [
   {
-    "title": "The making of a boombeastic",
+    "title": "Microsoft Azure IoT with resin.io",
     "tags": ["projects"],
-    "text": "This months interesting resin.io use case! A high-quality, stand-alone, fast-prototyped, connected speaker",
-    "link": "https://resin.io/blog/the-making-of-boombeastic/",
-    "image": "https://ucarecdn.com/5e3ebe94-b494-478f-a280-85f88ac8eaeb/",
+    "text": "Microsoft has published an open-source SDK for their Azure IoT Gateway that enables gateway-connected devices to communicate with Azure IoT Hub. Lets wrap it up with resin.io",
+    "link": "https://resin.io/blog/microsoft-azure-iot/",
+    "image": "https://resin.io/blog/content/images/2016/11/azure2-1.png",
     "button": "Check it out"
   },
   {
-    "title": "The perils of writing a disk images on windows",
-    "text": "This is a story about how we had to go into the guts of Windows to figure out how to write to a USB drive with JavaScript without getting a permission error. But let's take it from the top.",
-    "link": "https://resin.io/blog/the-perils-of-writing-disk-images-on-windows/",
-    "image": "https://resin.io/blog/content/images/2016/09/ba2baae2-7a89-11e6-97e9-4467a35ed61e.png",
-    "button": "Read"
-  },
-  {
-    "title": "Our New Community Central",
-    "tags": ["announcement"],
-    "text": "Community Central is a place for members of the resin.io community to learn, contribute, chat, and meet.",
-    "link": "https://resin.io/blog/our-new-community-central/",
-    "image": "https://resin.io/blog/content/images/2016/10/CommunityCentral.png",
-    "button": "Read"
-  },
-  {
-    "title": "Resin.io's London office smart lock",
-    "text":"An RFID lock system to our local office",
+    "title": "Etcher-headless [WIP]",
     "tags": ["projects"],
-    "link": "https://resin.io/blog/our-resinified-office-lock/",
-    "image": "https://resin.io/blog/content/images/2016/09/lockfront.jpg",
+    "text": "An Etcher based automatic drive flashing device. This project was hacked in a beautiful night during the resin.io 2016 session - aiming to be a proof-of-concept for automated multi-flashing device.",
+    "link": "https://github.com/resin-io-playground/etcher-headless",
+    "image": "https://camo.githubusercontent.com/86c6c21b0dfed78473e9434b105748e2960e065f/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43772d5042316b57384141454668502e6a70673a6c61726765",
     "button": "Check it out"
   },
   {
-    "title": "Big changes to resin sync, update your CLI!",
-    "text": "In the upcoming, 5.0.0 release of the resin-cli we are adding a number of changes that will enhance your resin sync experience. It will, however, be also a breaking change!",
-    "link": "https://resin.io/blog/resin-cli-5/",
+    "title": "Staged rollouts POC on the resin.io Forum",
+    "text": "@imrehg has put together a script that leverages update locking to issue updates to subset of your applications device",
+    "link": "https://talk.resin.io/t/staged-roll-out-helper-script/368",
     "button": "Learn more"
   }
 ]
