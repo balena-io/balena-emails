@@ -94,7 +94,7 @@ hr {
 }
 
 .footer__postcard {
-  .footer__text;
+  @extend .footer__text;
   font-style: italic;
 }
 // FOOTER

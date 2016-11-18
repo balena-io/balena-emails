@@ -1,8 +1,15 @@
 [
   {
-    "title": "Microsoft Azure IoT with resin.io",
-    "tags": ["projects"],
-    "text": "Microsoft has published an open-source SDK for their Azure IoT Gateway that enables gateway-connected devices to communicate with Azure IoT Hub. Lets wrap it up with resin.io",
+    "title": "resin&#173;.io 2016 Summit",
+    "text": "Once a year the team gets together for a week of talks, discussions, hacks, and beer!",
+    "link": "https://resin.io/blog/summit-2016/",
+    "image": "https://imgur.com/mxIYdBD.jpg",
+    "button": "Check it out"
+  },
+  {
+    "title": "Microsoft Azure IoT with resin&#173;.io",
+    "tags": ["tutorial"],
+    "text": "Microsoft has published an open-source SDK for their Azure IoT Gateway that enables gateway-connected devices to communicate with Azure IoT Hub. Lets wrap it up with resin&#173;.io.",
     "link": "https://resin.io/blog/microsoft-azure-iot/",
     "image": "https://resin.io/blog/content/images/2016/11/azure2-1.png",
     "button": "Check it out"
@@ -10,14 +17,14 @@
   {
     "title": "Etcher-headless [WIP]",
     "tags": ["projects"],
-    "text": "An Etcher based automatic drive flashing device. This project was hacked in a beautiful night during the resin.io 2016 session - aiming to be a proof-of-concept for automated multi-flashing device.",
+    "text": "An Etcher based automatic drive flashing device. This project was hacked in a beautiful night during the resin&#173;.io 2016 session - aiming to be a proof-of-concept for automated multi-flashing device.",
     "link": "https://github.com/resin-io-playground/etcher-headless",
     "image": "https://camo.githubusercontent.com/86c6c21b0dfed78473e9434b105748e2960e065f/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43772d5042316b57384141454668502e6a70673a6c61726765",
     "button": "Check it out"
   },
   {
-    "title": "Staged rollouts POC on the resin.io Forum",
-    "text": "@imrehg has put together a script that leverages update locking to issue updates to subset of your applications device",
+    "title": "Staged rollouts POC on the resin&#173;.io Forum",
+    "text": "<a href='https://twitter.com/imrehg'>@imrehg</a> has put together a script that leverages update locking to issue updates to subset of your applications device.",
     "link": "https://talk.resin.io/t/staged-roll-out-helper-script/368",
     "button": "Learn more"
   }
