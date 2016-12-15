@@ -1,31 +1,31 @@
 [
   {
-    "title": "resin&#173;.io 2016 Summit",
-    "text": "Once a year the team gets together for a week of talks, discussions, hacks, and beer!",
-    "link": "https://resin.io/blog/summit-2016/",
-    "image": "https://imgur.com/mxIYdBD.jpg",
-    "button": "Check it out"
-  },
-  {
-    "title": "Microsoft Azure IoT with resin&#173;.io",
+    "title": "Use the API, Luke!",
     "tags": ["tutorial"],
-    "text": "Microsoft has published an open-source SDK for their Azure IoT Gateway that enables gateway-connected devices to communicate with Azure IoT Hub. Lets wrap it up with resin&#173;.io.",
-    "link": "https://resin.io/blog/microsoft-azure-iot/",
-    "image": "https://resin.io/blog/content/images/2016/11/azure2-1.png",
+    "text": "Build the tools you need but don't yet exist with the resin.io API.",
+    "link": "https://resin.io/blog/use-the-api-luke/",
+    "image": "https://resin.io/blog/content/images/2016/12/Luke_Skywalker-1.jpg",
     "button": "Check it out"
   },
   {
-    "title": "Etcher-headless [WIP]",
+    "title": "Resin.io's system time managed Explained",
     "tags": ["projects"],
     "text": "An Etcher based automatic drive flashing device. This project was hacked in a beautiful night during the resin&#173;.io 2016 session - aiming to be a proof-of-concept for automated multi-flashing device.",
-    "link": "https://github.com/resin-io-playground/etcher-headless",
-    "image": "https://camo.githubusercontent.com/86c6c21b0dfed78473e9434b105748e2960e065f/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43772d5042316b57384141454668502e6a70673a6c61726765",
+    "link": "https://resin.io/blog/tick-tock-says-the-system-clock/",
+    "image": "https://resin.io/blog/content/images/2016/12/business_clock.jpg",
     "button": "Check it out"
   },
   {
-    "title": "Staged rollouts POC on the resin&#173;.io Forum",
-    "text": "<a href='https://twitter.com/imrehg'>@imrehg</a> has put together a script that leverages update locking to issue updates to subset of your applications device.",
-    "link": "https://talk.resin.io/t/staged-roll-out-helper-script/368",
+    "title": "Our Dockerfile Tips & Tricks",
+    "text": "Docker related best practices, tips, and tricks which can dramatically improve the resin.io developer experience.",
+    "link": "https://resin.io/blog/our-dockerfile-tips-tricks/",
     "button": "Learn more"
+  },
+  {
+    "title": "Interact with resin supervisor via node-red",
+    "tags": ["projects"],
+    "text": "A set of nodes to interact with resin.io supervisor from node-red",
+    "link": "https://github.com/resin-io-projects/node-red-contrib-resinio",
+    "button": "Check it out"
   }
 ]
