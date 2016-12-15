@@ -1,8 +1,8 @@
 {
-  "name": "foundation-emails-template",
+  "name": "resin-emails",
   "version": "1.0.0",
-  "description": "Basic template for a Foundation for Emails project.",
-  "repository": "zurb/foundation-emails-template",
+  "description": "resin.io email generator.",
+  "repository": "resin-io/resin-emails",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
@@ -10,7 +10,7 @@
     "zip": "gulp zip --production",
     "litmus": "gulp litmus --production"
   },
-  "author": "ZURB <foundation@zurb.com>",
+  "author": "Craig Mulligan <craig@resin.io>",
   "license": "MIT",
   "dependencies": {
     "foundation-emails": "^2.2.1"
