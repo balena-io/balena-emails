@@ -8,15 +8,16 @@
     "button": "Check it out"
   },
   {
-    "title": "Resin.io's system time managed Explained",
-    "tags": ["projects"],
-    "text": "An Etcher based automatic drive flashing device. This project was hacked in a beautiful night during the resin&#173;.io 2016 session - aiming to be a proof-of-concept for automated multi-flashing device.",
+    "title": "Resin.io's system time explained",
+    "tags": ["tutorial"],
+    "text": "It all boils down to using systemd for time management and interacting with the time service over dbus messaging.",
     "link": "https://resin.io/blog/tick-tock-says-the-system-clock/",
     "image": "https://resin.io/blog/content/images/2016/12/business_clock.jpg",
     "button": "Check it out"
   },
   {
     "title": "Our Dockerfile Tips & Tricks",
+    "tags": ["tutorial"],
     "text": "Docker related best practices, tips, and tricks which can dramatically improve the resin.io developer experience.",
     "link": "https://resin.io/blog/our-dockerfile-tips-tricks/",
     "button": "Learn more"
