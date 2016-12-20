@@ -35,5 +35,11 @@
     "text": "The prepublish script in npm has been contentious for quite some time, and in npm 4 it's finally been deprecated, in the first step on the long road to a real fix.",
     "link": "https://resin.io/blog/safely-migrating-away-from-prepublish-with-npm-4/",
     "button": "Read more"
+  },
+  {
+    "title": "Etcher 1.0.0-beta17 Release",
+    "text": "The latest Etcher beta is out, get it from <a href='https://etcher.io/'>etcher.io</a>",
+    "link": "https://forums.resin.io/t/etcher-1-0-0-beta17-release/426",
+    "button": "Learn more"
   }
 ]
