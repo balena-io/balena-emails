@@ -23,6 +23,10 @@ hr {
   color: inherit;
 }
 
+.black {
+  color:$black
+}
+
 .container-border {
   padding: $global-padding;
   border: 5px solid $light-gray;

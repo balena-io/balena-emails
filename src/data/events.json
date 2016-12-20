@@ -1,20 +1,8 @@
 [
 	{
-		"title": "Mobile Developers Conference",
-		"date": "11/17/16",
-		"location": "Moscow",
-		"link": "http://mbltdev.ru/en"
-	},
-	{
-		"title": "Enterprise Technology Meetup",
-		"date": "11/21/16",
-		"location": "London",
-		"link": "https://www.meetup.com/ln-enterprise-tech/events/235022335/"
-	},
-	{
-		"title": "AWS re:Invent",
-		"date": "11/28/16",
-		"location": "Las Vegas",
-		"link": "https://reinvent.awsevents.com/"
+		"title": "Embedded Linux Conference",
+		"date": "21-23/02/17",
+		"location": "Portland",
+		"link": "http://events.linuxfoundation.org/events/embedded-linux-conference"
 	}
 ]

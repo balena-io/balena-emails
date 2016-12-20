@@ -1,7 +1,7 @@
 {
-	"title": "Samsung ARTIK 710 Comes to resin&#173;.io",
-	"link": "https://resin.io/blog/samsung-artik-710/",
-	"image": "https://resin.io/blog/content/images/2016/10/ARTIK_710_blog.jpg",
-  "text": "The ARTIK 710 is also the first board on resin&#173;.io that is available with the latest resinOS 2.0",
-	"button": "Learn more"
+	"title": "Christmas = New Features!",
+	"text": "We are adding a Host OS watchdog feature, which helps keep your devices in a healthy state!",
+	"link": "https://resin.io/blog/keeping-your-system-running-watchdog/",
+	"image":"https://cdn-standard4.discourse.org/uploads/resin/original/1X/f55f3dc3e4dc81152bb2fcab3ecd82ed15e0b7e3.JPG",
+	"button": "Check it out"
 }
