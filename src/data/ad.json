@@ -1,6 +1,6 @@
 {
-  "title": "Forum thread of the month",
-  "text": "<b>Beta testers wanted: remote host OS updates </b></br>Experimental remote OS updates for Raspberry Pi (all types), Intel NUC, and BeagleBone Black.",
+  "title": "<b>Beta testers wanted: remote host OS updates </b>",
+  "text": "Experimental remote OS updates for Raspberry Pi (all types), Intel NUC, and BeagleBone Black.",
   "link": "https://forums.resin.io/t/beta-testers-remote-host-os-updates/483/9",
   "image": "https://resin.io/blog/content/images/2016/05/getting-started-1.png"
 }
