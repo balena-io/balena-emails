@@ -1,7 +1,7 @@
 {
-	"title": "Christmas = New Features!",
-	"text": "We are adding a Host OS watchdog feature, which helps keep your devices in a healthy state!",
-	"link": "https://resin.io/blog/keeping-your-system-running-watchdog/",
-	"image":"https://cdn-standard4.discourse.org/uploads/resin/original/1X/f55f3dc3e4dc81152bb2fcab3ecd82ed15e0b7e3.JPG",
-	"button": "Check it out"
+	"title": "The Evolution of the Beast Continues",
+	"text": "We built Beast v1, with 120 Raspberry Pis, back in 2014 and started working on the next iteration, Beast v2, with 144 Raspberry Pis, about a year later. Now we're designing Beast v3!",
+	"link": "https://resin.io/blog/the-evolution-of-the-beast-continues/",
+	"image":"https://resin.io/blog/content/images/2017/01/Screen-Shot-2017-01-06-at-3-17-10-PM.png",
+	"button": "Take a look"
 }

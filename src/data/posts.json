@@ -1,45 +1,39 @@
 [
   {
-    "title": "Use the API, Luke!",
+    "title": "Wifi, Wifi Everywhere!",
     "tags": ["tutorial"],
-    "text": "Build the tools you need but don't yet exist with the resin&#173;.io API.",
-    "link": "https://resin.io/blog/use-the-api-luke/",
-    "image": "https://resin.io/blog/content/images/2016/12/Luke_Skywalker-1.jpg",
+    "text": "resin-wifi-connect application brings up an access point with a web interface where you can configure the new wifi credentials.",
+    "link": "https://resin.io/blog/wifi-wifi-everywhere/",
+    "image": "https://resin.io/blog/content/images/2016/12/20161213_163703-min.jpg",
     "button": "Check it out"
   },
   {
-    "title": "Resin&#173;.io's System Time Explained",
-    "tags": ["tutorial"],
-    "text": "It all boils down to using systemd for time management and interacting with the time service over dbus messaging.",
-    "link": "https://resin.io/blog/tick-tock-says-the-system-clock/",
-    "image": "https://resin.io/blog/content/images/2016/12/business_clock.jpg",
+    "title": "Enerbrain",
+    "tags": ["case study"],
+    "text": "Enerbrain believes that buildings are central to sustainable development and is on a mission to make them smarter, healthier and more energy efficient.",
+    "link": "https://resin.io/blog/enerbrain-case-study/",
+    "image": "https://resin.io/blog/content/images/2017/01/energy-node-1.jpeg",
     "button": "Check it out"
   },
   {
-    "title": "Our Dockerfile Tips & Tricks",
-    "tags": ["tutorial"],
-    "text": "Docker related best practices, tips, and tricks which can dramatically improve the resin&#173;.io developer experience.",
-    "link": "https://resin.io/blog/our-dockerfile-tips-tricks/",
-    "button": "Learn more"
-  },
-  {
-    "title": "Interact with the resin&#173;.io Supervisor via Node-RED",
-    "tags": ["projects"],
-    "text": "A set of nodes to interact with resin&#173;.io supervisor from node-red",
-    "link": "https://github.com/resin-io-projects/node-red-contrib-resinio",
+    "title": "Smart Plants",
+    "tags": ["case study"],
+    "text": "Smart Plants is enabling remote and autonomous management of critical industrial infrastructure.",
+    "link": "https://resin.io/blog/smart-plants-case-study/",
+    "image": "https://resin.io/blog/content/images/2017/01/image--7-.png",
     "button": "Check it out"
   },
   {
-    "title": "Safely Migrating Away From 'prepublish' with npm 4",
-    "tags": ["open-source"],
-    "text": "The prepublish script in npm has been contentious for quite some time, and in npm 4 it's finally been deprecated, in the first step on the long road to a real fix.",
-    "link": "https://resin.io/blog/safely-migrating-away-from-prepublish-with-npm-4/",
-    "button": "Read more"
+    "title": "Open Source Guide #1: Documentation and JSDoc",
+    "tags": ["tutorial"],
+    "text": "This is the first post in a series on best practices and tools for open-sourcing a project, based on our experience with Etcher and other such projects.",
+    "link": "https://resin.io/blog/open-source-guide-1-documentation-and-jsdoc/",
+    "button": "Read in full"
   },
   {
-    "title": "Etcher 1.0.0-beta17 Release",
-    "text": "The latest Etcher beta is out, get it from <a href='https://etcher.io/'>etcher.io</a>",
-    "link": "https://forums.resin.io/t/etcher-1-0-0-beta17-release/426",
+    "title": "Etcher 1.0.0-beta.18 Release",
+    "text": "The latest Etcher beta is out, get it from <a href='https://etcher.io/'>etcher.io</a>!",
+    "link": "https://forums.resin.io/t/etcher-v1-0-0-beta-18-release/507",
     "button": "Learn more"
   }
 ]
