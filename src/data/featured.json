@@ -1,7 +1,7 @@
 {
-	"title": "The Evolution of the Beast Continues",
-	"text": "We built Beast v1, with 120 Raspberry Pis, back in 2014 and started working on the next iteration, Beast v2, with 144 Raspberry Pis, about a year later. Now we're designing Beast v3!",
-	"link": "https://resin.io/blog/the-evolution-of-the-beast-continues/",
-	"image":"https://resin.io/blog/content/images/2017/01/Screen-Shot-2017-01-06-at-3-17-10-PM.png",
-	"button": "Take a look"
+	"title": "Spring Hackathon in London",
+	"text": "We are holding our first hackathon in a long while, on Saturday, 11th March, hosted by Campus London. The theme is multi-device Internet of Things, and we're bringing a lot of hardware to build on!",
+	"link": "https://resin.io/blog/resinhack2017/",
+	"image":"https://resin.io/blog/content/images/2017/02/hackathon-2017-logo-1.png",
+	"button": "Join us!"
 }

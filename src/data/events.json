@@ -1,20 +1,26 @@
 [
 	{
-		"title": "Embedded Linux Conference",
-		"date": "2017 Feb 21-23",
-		"location": "Portland, OR, USA",
-		"link": "http://events.linuxfoundation.org/events/embedded-linux-conference"
-	},
-	{
 		"title": "TopConf",
 		"date": "2017 Feb 28-Mar 2",
 		"location": "Linz, Austria",
 		"link": "https://www.topconf.com/conference/linz-2017/"
 	},
 	{
+		"title": "SCALE 15x",
+		"date": "2017 Mar 2",
+		"location": "Pasadena, California",
+		"link": "http://www.socallinuxexpo.org/scale/15x"
+	},
+	{
 		"title": "Spring Hackathon",
 		"date": "2017 Mar 11",
 		"location": "London, UK",
 		"link": "https://resinio-2017-spring-hackathon.eventbrite.com"
+	},
+	{
+		"title": "Embedded World 2017",
+		"date": "2017 Mar 14-16",
+		"location": "Nuremberg, Germany",
+		"link": "https://www.embedded-world.de/en"
 	}
 ]

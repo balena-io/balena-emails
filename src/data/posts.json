@@ -1,39 +1,26 @@
 [
   {
-    "title": "Wifi, Wifi Everywhere!",
-    "tags": ["tutorial"],
-    "text": "resin-wifi-connect application brings up an access point with a web interface where you can configure the new wifi credentials.",
-    "link": "https://resin.io/blog/wifi-wifi-everywhere/",
-    "image": "https://resin.io/blog/content/images/2016/12/20161213_163703-min.jpg",
+    "title": "The Future of Etcher",
+    "tags": ["etcher"],
+    "text": "Our near future and longer term plans for Etcher, and the great use cases that it should enable!",
+    "link": "https://resin.io/blog/the-future-of-etcher/",
+    "image": "https://resin.io/blog/content/images/2017/02/etcher-logo-1.jpg",
     "button": "Check it out"
   },
   {
-    "title": "Enerbrain",
+    "title": "Tabster",
     "tags": ["case study"],
-    "text": "Enerbrain believes that buildings are central to sustainable development and is on a mission to make them smarter, healthier and more energy efficient.",
-    "link": "https://resin.io/blog/enerbrain-case-study/",
-    "image": "https://resin.io/blog/content/images/2017/01/energy-node-1.jpeg",
-    "button": "Check it out"
+    "text": "Tabster is eliminating the hassle of payment in bars and restaurants, allowing friends to enjoy their time together without worrying about dividing up the bill.",
+    "link": "https://resin.io/blog/tabster-case-study/",
+    "image": "http://www.rtlz.nl/sites/default/files/styles/topstory_large/public/content/images/2014/07/31/ANP-TERRAS-ZON-ALCOHOL-ZOMER-TERRASJES-DRANK_0.jpg",
+    "button": "Read more"
   },
   {
-    "title": "Smart Plants",
-    "tags": ["case study"],
-    "text": "Smart Plants is enabling remote and autonomous management of critical industrial infrastructure.",
-    "link": "https://resin.io/blog/smart-plants-case-study/",
-    "image": "https://resin.io/blog/content/images/2017/01/image--7-.png",
-    "button": "Check it out"
-  },
-  {
-    "title": "Open Source Guide #1: Documentation and JSDoc",
+    "title": "ResinOS Updates from the Dashboard",
     "tags": ["tutorial"],
-    "text": "This is the first post in a series on best practices and tools for open-sourcing a project, based on our experience with Etcher and other such projects.",
-    "link": "https://resin.io/blog/open-source-guide-1-documentation-and-jsdoc/",
-    "button": "Read in full"
-  },
-  {
-    "title": "Etcher 1.0.0-beta.18 Release",
-    "text": "The latest Etcher beta is out, get it from <a href='https://etcher.io/'>etcher.io</a>!",
-    "link": "https://forums.resin.io/t/etcher-v1-0-0-beta-18-release/507",
-    "button": "Learn more"
+    "text": "An experimental feature added to resin.io recently is the ability to run resinOS updates for your devices (for some hardware types) right from the dashboard! ",
+    "link": "https://forums.resin.io/t/resinos-updates-from-the-dashboard/547",
+    "image": "https://cdn-business2.discourse.org/uploads/resin/optimized/1X/38ab34cee05b272d43b5de5273d5c2c445fa349d_1_690x256.png",
+    "button": "Try it out"
   }
 ]
