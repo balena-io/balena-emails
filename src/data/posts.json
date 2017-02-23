@@ -18,9 +18,17 @@
   {
     "title": "ResinOS Updates from the Dashboard",
     "tags": ["tutorial"],
-    "text": "An experimental feature added to resin.io recently is the ability to run resinOS updates for your devices (for some hardware types) right from the dashboard! ",
+    "text": "An experimental feature added to resin.io recently is the ability to run resinOS updates for your devices (for some hardware types) right from the dashboard!",
     "link": "https://forums.resin.io/t/resinos-updates-from-the-dashboard/547",
     "image": "https://cdn-business2.discourse.org/uploads/resin/optimized/1X/38ab34cee05b272d43b5de5273d5c2c445fa349d_1_690x256.png",
     "button": "Try it out"
+  },
+    {
+    "title": "Work with us!",
+    "tags": ["jobs"],
+    "text": "We are actively recruiting for Teachnical Content Lead, Solution Architect, Security Engineer, and other roles.",
+    "link": "https://resin.workable.com/",
+    "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
+    "button": "See all the positions"
   }
 ]
