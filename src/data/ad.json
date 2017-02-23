@@ -1,6 +1,6 @@
 {
-  "title": "<b>Beta testers wanted: remote host OS updates </b>",
-  "text": "Experimental remote OS updates for Raspberry Pi (all types), Intel NUC, and BeagleBone Black.",
-  "link": "https://forums.resin.io/t/beta-testers-remote-host-os-updates/483/9",
-  "image": "https://resin.io/blog/content/images/2016/05/getting-started-1.png"
+  "title": "OpenWhisk and resin.io for edge computing",
+  "text": "A pair of writeups for using resin.io with OpenWhisk as a distributed compute service",
+  "link": "https://forums.resin.io/t/openwhisk-writeup/593",
+  "image": "https://cdn-images-1.medium.com/max/1200/1*EEJjDyoHUnuY90zm2d3Uqw.png"
 }
