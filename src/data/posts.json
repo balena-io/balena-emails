@@ -1,13 +1,5 @@
 [
   {
-    "title": "ElectronJS with Raspberry Pi Made Easy As Pie",
-    "tags": ["tutorial"],
-    "text": "Showcasing the opportunities of ElectronJS with a Raspberry Pi to create digital signage and interactive displays, including example projects!",
-    "link": "https://resin.io/blog/electronjs-the-ultimate-guide/",
-    "image": "https://resin.io/blog/content/images/2017/03/IMG_6276-min.JPG",
-    "button": "Check it out"
-  },
-  {
     "title": "New board support: the UP board",
     "tags": ["announcement"],
     "text": "The UP board is x86-based with a Raspberry Pi compatible 40-pin connector, designed for 'professional makers' who need a reliable, high-performing device to build and grow their projects.",
@@ -16,12 +8,12 @@
     "button": "Read more"
   },
   {
-    "title": "resinOS 2.0, 3G Dongle and SORACOM SIM card",
-    "tags": ["tutorial"],
-    "text": "With this setup, youll be able to ship out devices that work anywhere in the world.",
-    "link": "https://resin.io/blog/p/eada5855-880b-4df2-b071-03d6527d35cd/",
-    "image": "https://resin.io/blog/content/images/2017/03/image00-min-1.jpg",
-    "button": "Connect"
+    "title": "Case Study: Open ROV",
+    "tags": ["case study"],
+    "text": "Using resin.io on underwater remote controlled drones.",
+    "link": "https://vimeo.com/208753228",
+    "image": "https://i.vimeocdn.com/video/624266745_1280x720.jpg",
+    "button": "Dive in"
   },
   {
     "title": "Spring IoT Hackathon Recap",

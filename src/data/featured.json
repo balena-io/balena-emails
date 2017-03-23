@@ -1,7 +1,8 @@
 {
-	"title": "Resin.io 2.0 release",
-	"text": "",
-	"link": "",
-	"image":"",
-	"button": "More info"
+	"title": "ElectronJS with Raspberry Pi Made Easy As Pie",
+	"tags": ["tutorial"],
+	"text": "Showcasing the opportunities of ElectronJS with a Raspberry Pi to create digital signage and interactive displays, including example projects!",
+	"link": "https://resin.io/blog/electronjs-the-ultimate-guide/",
+	"image": "http://i.imgur.com/8GWASHi.jpg",
+	"button": "Deploy it"
 }
