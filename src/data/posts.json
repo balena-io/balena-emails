@@ -1,32 +1,40 @@
 [
   {
-    "title": "The Future of Etcher",
-    "tags": ["etcher"],
-    "text": "Our near future and longer term plans for Etcher, and the great use cases that it should enable!",
-    "link": "https://resin.io/blog/the-future-of-etcher/",
-    "image": "https://resin.io/blog/content/images/2017/02/etcher-logo-1.jpg",
+    "title": "ElectronJS with Raspberry Pi Made Easy As Pie",
+    "tags": ["tutorial"],
+    "text": "Showcasing the opportunities of ElectronJS with a Raspberry Pi to create digital signage and interactive displays, including example projects!",
+    "link": "https://resin.io/blog/electronjs-the-ultimate-guide/",
+    "image": "https://resin.io/blog/content/images/2017/03/IMG_6276-min.JPG",
     "button": "Check it out"
   },
   {
-    "title": "Tabster",
-    "tags": ["case study"],
-    "text": "Tabster is eliminating the hassle of payment in bars and restaurants, allowing friends to enjoy their time together without worrying about dividing up the bill.",
-    "link": "https://resin.io/blog/tabster-case-study/",
-    "image": "http://www.rtlz.nl/sites/default/files/styles/topstory_large/public/content/images/2014/07/31/ANP-TERRAS-ZON-ALCOHOL-ZOMER-TERRASJES-DRANK_0.jpg",
+    "title": "New board support: the UP board",
+    "tags": ["announcement"],
+    "text": "The UP board is x86-based with a Raspberry Pi compatible 40-pin connector, designed for 'professional makers' who need a reliable, high-performing device to build and grow their projects.",
+    "link": "https://resin.io/blog/up-board-support/",
+    "image": "https://resin.io/blog/content/images/2017/03/UPSlide3Right-EVT-3.png",
     "button": "Read more"
   },
   {
-    "title": "ResinOS Updates from the Dashboard",
+    "title": "resinOS 2.0, 3G Dongle and SORACOM SIM card",
     "tags": ["tutorial"],
-    "text": "An experimental feature added to resin.io recently is the ability to run resinOS updates for your devices (for some hardware types) right from the dashboard!",
-    "link": "https://forums.resin.io/t/resinos-updates-from-the-dashboard/547",
-    "image": "https://cdn-business2.discourse.org/uploads/resin/optimized/1X/38ab34cee05b272d43b5de5273d5c2c445fa349d_1_690x256.png",
-    "button": "Try it out"
+    "text": "With this setup, youll be able to ship out devices that work anywhere in the world.",
+    "link": "https://resin.io/blog/p/eada5855-880b-4df2-b071-03d6527d35cd/",
+    "image": "https://resin.io/blog/content/images/2017/03/image00-min-1.jpg",
+    "button": "Connect"
   },
-    {
+  {
+    "title": "Spring IoT Hackathon Recap",
+    "tags": ["event"],
+    "text": "This month we hosted our first hackathon in a long while at Campus London, with the theme of \"Multi-Device Internet of Things\".",
+    "link": "https://resin.io/blog/resinhack17-recap/",
+    "image": "https://resin.io/blog/content/images/2017/03/2017-03-11-14-46-11-wb-min.jpg",
+    "button": "Reminisce"
+  },
+  {
     "title": "Work with us!",
     "tags": ["jobs"],
-    "text": "We are actively recruiting for a Technical Content Lead, Solution Architect, Security Engineer, and other roles.",
+    "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, and other roles.",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
     "button": "See all positions"
