@@ -1,26 +1,26 @@
 [
 	{
-		"title": "TopConf",
-		"date": "2017 Feb 28-Mar 2",
-		"location": "Linz, Austria",
-		"link": "https://www.topconf.com/conference/linz-2017/"
+		"title": "DockerCon 17",
+		"date": "2017 April 17-20",
+		"location": "Austin, TX",
+		"link": "http://2017.dockercon.com/"
 	},
 	{
-		"title": "SCALE 15x",
-		"date": "2017 Mar 2",
-		"location": "Pasadena, California",
-		"link": "http://www.socallinuxexpo.org/scale/15x"
+		"title": "Code Europe",
+		"date": "2017 April 26",
+		"location": "Kraków, Poland",
+		"link": "https://www.codeeurope.pl/en"
 	},
 	{
-		"title": "Spring Hackathon",
-		"date": "2017 Mar 11",
-		"location": "London, UK",
-		"link": "https://resinio-2017-spring-hackathon.eventbrite.com"
+		"title": "LinuxFest NorthWest 2017",
+		"date": "2017 May 6-7",
+		"location": "Bellingham, WA",
+		"link": "https://www.linuxfestnorthwest.org/2017"
 	},
 	{
-		"title": "Embedded World 2017",
-		"date": "2017 Mar 14-16",
-		"location": "Nuremberg, Germany",
-		"link": "https://www.embedded-world.de/en"
+		"title": "Maker Faire Bay Area",
+		"date": "2017 May 19-21",
+		"location": "San Mateo, CA",
+		"link": "http://makerfaire.com/bay-area/"
 	}
 ]
