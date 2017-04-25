@@ -1,32 +1,47 @@
 [
   {
-    "title": "New board support: the UP board",
-    "tags": ["announcement"],
-    "text": "The UP board is x86-based with a Raspberry Pi compatible 40-pin connector, designed for 'professional makers' who need a reliable, high-performing device to build and grow their projects.",
-    "link": "https://resin.io/blog/up-board-support/",
-    "image": "https://resin.io/blog/content/images/2017/03/UPSlide3Right-EVT-3.png",
+    "title": "LEGO Macintosh Classic with e‑paper display",
+    "tags": ["project"],
+    "text": "An awesome, detailed community project of a wi-Fi enabled LEGO Macintosh Classic running Docker on a Raspberry Pi Zero with an e‑paper display",
+    "link": "https://jann.is/lego-macintosh-classic/",
+    "image": "https://c2.staticflickr.com/4/3762/33583084842_b2089a98f1_z.jpg",
+    "button": "Check it out"
+  },
+  {
+    "title": "Cellular connectivity with resinOS 2.0, 3G dongles, and SORACOM SIM cards",
+    "tags": ["tutorial"],
+    "text": "With this tutorial complete, you'll be able to ship out devices that work anywhere in the world.",
+    "link": "https://resin.io/blog/soracom_3g_dongle/",
+    "image": "https://resin.io/blog/content/images/2017/03/image00-min-1.jpg",
     "button": "Read more"
   },
   {
-    "title": "Case Study: Open ROV",
-    "tags": ["case study"],
-    "text": "Using resin.io on underwater remote controlled drones.",
-    "link": "https://vimeo.com/208753228",
-    "image": "https://i.vimeocdn.com/video/624266745_1280x720.jpg",
-    "button": "Dive in"
+    "title": "Resin SDK v6 released",
+    "tags": ["announcement"],
+    "text": "OS metadata, browser support, custom locations, and API changes.",
+    "link": "https://resin.io/blog/resin-sdk-v6-released/",
+    "image": "http://www.caves-corner.co.uk/ekmps/shops/cavescorner1/images/dominoes-3760-[4]-127-p.jpg",
+    "button": "See changes"
   },
   {
-    "title": "Spring IoT Hackathon Recap",
-    "tags": ["event"],
-    "text": "This month we hosted our first hackathon in a long while at Campus London, with the theme of \"Multi-Device Internet of Things\".",
-    "link": "https://resin.io/blog/resinhack17-recap/",
-    "image": "https://resin.io/blog/content/images/2017/03/2017-03-11-14-46-11-wb-min.jpg",
-    "button": "Reminisce"
+    "title": "Advanced Device Provisioning Workflow for Large Fleets: Preloading and Pre-provisioning",
+    "tags": ["tutorial"],
+    "text": "This tutorial will walk you through the steps required to provision a large fleet of devices, preload the latest version of your application container, and associate specific resin.io devices with the SD cards you've prepared.",
+    "link": "https://resin.io/blog/advanced-device-provisioning-workflow-for-large-fleets-preloading-and-pre-provisioning/",
+    "image": "https://asciinema.org/a/4ezzuzmec4t5gjinqrex4868p.png",
+    "button": "Let's deploy"
   },
   {
-    "title": "Work with us!",
+    "title": "The Raspberry Pi and other SBCs are the IBM PCs of our time",
+    "text": "From educational project to industry disruptor.",
+    "link": "https://resin.io/blog/the-raspberry-pi-and-other-sbcs-are-the-ibm-pcs-of-our-time-from-educational-project-to-industry-disruptor/",
+    "image": "http://cdn1.alphr.com/sites/alphr/files/6/14/raspberry_pi_b_2_0_0.jpg",
+    "button": "Read the post"
+  },
+  {
+    "title": "Come Work with Us!",
     "tags": ["jobs"],
-    "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, and other roles.",
+    "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, DevOps engineer, and Front-end Developer roles!",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
     "button": "See all positions"
