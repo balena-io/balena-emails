@@ -1,7 +1,6 @@
 [
   {
     "title": "LEGO Macintosh Classic with e‑paper display",
-    "tags": ["project"],
     "text": "An awesome, detailed community project of a wi-Fi enabled LEGO Macintosh Classic running Docker on a Raspberry Pi Zero with an e‑paper display",
     "link": "https://jann.is/lego-macintosh-classic/",
     "image": "https://c2.staticflickr.com/4/3762/33583084842_b2089a98f1_z.jpg",
@@ -40,7 +39,6 @@
   },
   {
     "title": "Come Work with Us!",
-    "tags": ["jobs"],
     "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, DevOps engineer, and Front-end Developer roles!",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
