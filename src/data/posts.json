@@ -1,21 +1,28 @@
 [
   {
-    "title": "LEGO Macintosh Classic with e‑paper display",
+    "title": "Build a LEGO Macintosh Classic with e-paper display",
     "text": "An awesome, detailed community project of a wi-Fi enabled LEGO Macintosh Classic running Docker on a Raspberry Pi Zero with an e‑paper display",
     "link": "https://jann.is/lego-macintosh-classic/",
     "image": "https://c2.staticflickr.com/4/3762/33583084842_b2089a98f1_z.jpg",
     "button": "Check it out"
   },
   {
-    "title": "Cellular connectivity with resinOS 2.0, 3G dongles, and SORACOM SIM cards",
+    "title": "Join the Seattle Workshop and Hackathon",
+    "text": "Build an IoT project from start to finish with the resin.io team for a day-long workshop and hackathon at our Seattle office. We'll provide everybody with a starter kit that's your to keep to continue hacking at home!",
+    "link": "https://www.eventbrite.com/e/resinio-seattle-workshop-and-hackathon-tickets-33624974203",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30339182%2F43951139340%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C720%2C360&s=65d5bfc1a6cedaeeffa2b740eaf6e39d",
+    "button": "Sign up"
+  },
+  {
+    "title": "Add cellular connectivity to your fleet with resinOS 2.0, 3G dongles, and SORACOM SIM cards",
     "tags": ["tutorial"],
-    "text": "With this tutorial complete, you'll be able to ship out devices that work anywhere in the world.",
+    "text": "A detailed example to set up a Raspberry Pi with 3G connectivity, including sample code and configuration.",
     "link": "https://resin.io/blog/soracom_3g_dongle/",
     "image": "https://resin.io/blog/content/images/2017/03/image00-min-1.jpg",
     "button": "Read more"
   },
   {
-    "title": "Resin SDK v6 released",
+    "title": "Use the resin SDK to manage your fleet - v6 just released!",
     "tags": ["announcement"],
     "text": "OS metadata, browser support, custom locations, and API changes.",
     "link": "https://resin.io/blog/resin-sdk-v6-released/",
@@ -23,7 +30,7 @@
     "button": "See changes"
   },
   {
-    "title": "Advanced Device Provisioning Workflow for Large Fleets: Preloading and Pre-provisioning",
+    "title": "Preload applications and pre-provision devices in your fleet",
     "tags": ["tutorial"],
     "text": "This tutorial will walk you through the steps required to provision a large fleet of devices, preload the latest version of your application container, and associate specific resin.io devices with the SD cards you've prepared.",
     "link": "https://resin.io/blog/advanced-device-provisioning-workflow-for-large-fleets-preloading-and-pre-provisioning/",
@@ -38,8 +45,15 @@
     "button": "Read the post"
   },
   {
+    "title": "Update to Etcher v1.0.0-rc.4",
+    "text": "The latest version of Etcher, an SD card burner app that is simple for end users, extensible for developers, and works on any platform.",
+    "link": "https://forums.resin.io/t/etcher-v1-0-0-rc-4/826",
+    "image": "https://resin.io/blog/content/images/2017/02/etcher-logo.jpg",
+    "button": "Check it out"
+  },
+  {
     "title": "Come Work with Us!",
-    "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, DevOps engineer, and Front-end Developer roles!",
+    "text": "We are actively recruiting for a Solution Architect, DevOps engineer, and Front-end Developer roles!",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
     "button": "See all positions"
