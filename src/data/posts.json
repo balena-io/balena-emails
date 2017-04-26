@@ -38,20 +38,6 @@
     "button": "Let's deploy"
   },
   {
-    "title": "The Raspberry Pi and other SBCs are the IBM PCs of our time",
-    "text": "From educational project to industry disruptor.",
-    "link": "https://resin.io/blog/the-raspberry-pi-and-other-sbcs-are-the-ibm-pcs-of-our-time-from-educational-project-to-industry-disruptor/",
-    "image": "http://cdn1.alphr.com/sites/alphr/files/6/14/raspberry_pi_b_2_0_0.jpg",
-    "button": "Read the post"
-  },
-  {
-    "title": "Update to Etcher v1.0.0-rc.4",
-    "text": "The latest version of Etcher, an SD card burner app that is simple for end users, extensible for developers, and works on any platform.",
-    "link": "https://forums.resin.io/t/etcher-v1-0-0-rc-4/826",
-    "image": "https://resin.io/blog/content/images/2017/02/etcher-logo.jpg",
-    "button": "Check it out"
-  },
-  {
     "title": "Come Work with Us!",
     "text": "We are actively recruiting for a Solution Architect, DevOps engineer, and Front-end Developer roles!",
     "link": "https://resin.workable.com/",
