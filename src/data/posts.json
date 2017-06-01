@@ -1,32 +1,32 @@
 [
   {
-    "title": "New board support: the UP board",
+    "title": "What's new with resin.io?",
     "tags": ["announcement"],
-    "text": "The UP board is x86-based with a Raspberry Pi compatible 40-pin connector, designed for 'professional makers' who need a reliable, high-performing device to build and grow their projects.",
-    "link": "https://resin.io/blog/up-board-support/",
-    "image": "https://resin.io/blog/content/images/2017/03/UPSlide3Right-EVT-3.png",
+    "text": "Get updates on new features in our weekly release notes. Last week we highlighted a significantly faster VPN and per-device API keys.",
+    "link": "https://forums.resin.io/t/weekly-release-notes-may-22-2017/997",
+    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
+    "button": "See updates"
+  },
+  {
+    "title": "New board support: Raspberry Pi Zero W",
+    "tags": ["announcement"],
+    "text": "resinOS v2.0.3 for Raspberry Pi now supports the wireless Raspberry Pi Zero.",
+    "link": "https://forums.resin.io/t/resinos-2-0-3-for-raspberry-pi-including-zerow/975",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Raspberry-Pi-Zero-FL.jpg",
     "button": "Read more"
   },
   {
-    "title": "Case Study: Open ROV",
-    "tags": ["case study"],
-    "text": "Using resin.io on underwater remote controlled drones.",
-    "link": "https://vimeo.com/208753228",
-    "image": "https://i.vimeocdn.com/video/624266745_1280x720.jpg",
-    "button": "Dive in"
-  },
-  {
-    "title": "Spring IoT Hackathon Recap",
-    "tags": ["event"],
-    "text": "This month we hosted our first hackathon in a long while at Campus London, with the theme of \"Multi-Device Internet of Things\".",
-    "link": "https://resin.io/blog/resinhack17-recap/",
-    "image": "https://resin.io/blog/content/images/2017/03/2017-03-11-14-46-11-wb-min.jpg",
-    "button": "Reminisce"
+    "title": "Resin-in-resin: a truly embedded device",
+    "tags": ["project"],
+    "text": "Resin.io helps manage devices that are hard to get to—even those encased in a block of resin.",
+    "link": "https://resin.io/blog/resin-in-resin-how-to-make-a-literal-embedded-device/",
+    "image": "https://resin.io/blog/content/images/2017/05/3.png",
+    "button": "Tell me how"
   },
   {
     "title": "Work with us!",
     "tags": ["jobs"],
-    "text": "We are actively recruiting for a Solution Architect, Rust Software Engineer, and other roles.",
+    "text": "We are actively recruiting for a Solutions Architect, DevOps Engineer, and other roles.",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
     "button": "See all positions"

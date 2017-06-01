@@ -1,26 +1,8 @@
 [
 	{
-		"title": "DockerCon 17",
-		"date": "2017 April 17-20",
-		"location": "Austin, TX",
-		"link": "http://2017.dockercon.com/"
-	},
-	{
-		"title": "Code Europe",
-		"date": "2017 April 26",
-		"location": "Kraków, Poland",
-		"link": "https://www.codeeurope.pl/en"
-	},
-	{
-		"title": "LinuxFest NorthWest 2017",
-		"date": "2017 May 6-7",
-		"location": "Bellingham, WA",
-		"link": "https://www.linuxfestnorthwest.org/2017"
-	},
-	{
-		"title": "Maker Faire Bay Area",
-		"date": "2017 May 19-21",
-		"location": "San Mateo, CA",
-		"link": "http://makerfaire.com/bay-area/"
+		"title": "GeekWire Cloud Tech Summit",
+		"date": "June 7, 2017",
+		"location": "Bellevue, WA",
+		"link": "https://www.geekwire.com/events/geekwire-cloud-tech-summit-2017/"
 	}
 ]
