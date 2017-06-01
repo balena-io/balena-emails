@@ -1,8 +1,8 @@
 {
-	"title": "ElectronJS with Raspberry Pi Made Easy As Pie",
-	"tags": ["tutorial"],
-	"text": "Showcasing the opportunities of ElectronJS with a Raspberry Pi to create digital signage and interactive displays, including example projects!",
-	"link": "https://resin.io/blog/electronjs-the-ultimate-guide/",
-	"image": "http://i.imgur.com/8GWASHi.jpg",
-	"button": "Deploy it"
+	"title": "Deploy resinOS 2.0 to your fleet",
+	"tags": ["announcement"],
+	"text": "Production version of resinOS 2.0 is available from the resin.io dashboard! Features better networking, local mode, stability fixes, and more!",
+	"link": "https://resin.io/blog/resinos-2-0-released-in-production/",
+	"image": "http://i.imgur.com/TuEld7T.png",
+	"button": "Read details"
 }
