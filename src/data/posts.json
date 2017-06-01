@@ -1,45 +1,32 @@
 [
   {
-    "title": "Build a LEGO Macintosh Classic with e-paper display",
-    "text": "An awesome, detailed community project of a wi-Fi enabled LEGO Macintosh Classic running Docker on a Raspberry Pi Zero with an e‑paper display",
-    "link": "https://jann.is/lego-macintosh-classic/",
-    "image": "https://c2.staticflickr.com/4/3762/33583084842_b2089a98f1_z.jpg",
-    "button": "Check it out"
+    "title": "What's new with resin.io?",
+    "tags": ["announcement"],
+    "text": "Get updates on new features in our weekly release notes. Last week we highlighted a significantly faster VPN and per-device API keys.",
+    "link": "https://forums.resin.io/t/weekly-release-notes-may-22-2017/997",
+    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
+    "button": "See updates"
   },
   {
-    "title": "Join the Seattle Workshop and Hackathon",
-    "text": "Build an IoT project from start to finish with the resin.io team for a day-long workshop and hackathon at our Seattle office. We'll provide everybody with a starter kit that's your to keep to continue hacking at home!",
-    "link": "https://www.eventbrite.com/e/resinio-seattle-workshop-and-hackathon-tickets-33624974203",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30339182%2F43951139340%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C720%2C360&s=65d5bfc1a6cedaeeffa2b740eaf6e39d",
-    "button": "Sign up"
-  },
-  {
-    "title": "Add cellular connectivity to your fleet with resinOS 2.0, 3G dongles, and SORACOM SIM cards",
-    "tags": ["tutorial"],
-    "text": "A detailed example to set up a Raspberry Pi with 3G connectivity, including sample code and configuration.",
-    "link": "https://resin.io/blog/soracom_3g_dongle/",
-    "image": "https://resin.io/blog/content/images/2017/03/image00-min-1.jpg",
+    "title": "New board support: Raspberry Pi Zero W",
+    "tags": ["announcement"],
+    "text": "resinOS v2.0.3 for Raspberry Pi now supports the wireless Raspberry Pi Zero.",
+    "link": "https://forums.resin.io/t/resinos-2-0-3-for-raspberry-pi-including-zerow/975",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Raspberry-Pi-Zero-FL.jpg",
     "button": "Read more"
   },
   {
-    "title": "Use the resin SDK to manage your fleet - v6 just released!",
-    "tags": ["announcement"],
-    "text": "OS metadata, browser support, custom locations, and API changes.",
-    "link": "https://resin.io/blog/resin-sdk-v6-released/",
-    "image": "https://resin.io/blog/content/images/2016/05/SDKs.png",
-    "button": "See changes"
+    "title": "Resin-in-resin: a truly embedded device",
+    "tags": ["project"],
+    "text": "Resin.io helps manage devices that are hard to get to—even those encased in a block of resin.",
+    "link": "https://resin.io/blog/resin-in-resin-how-to-make-a-literal-embedded-device/",
+    "image": "https://resin.io/blog/content/images/2017/05/3.png",
+    "button": "Tell me how"
   },
   {
-    "title": "Preload applications and pre-provision devices in your fleet",
-    "tags": ["tutorial"],
-    "text": "This tutorial will walk you through the steps required to provision a large fleet of devices, preload the latest version of your application container, and associate specific resin.io devices with the SD cards you've prepared.",
-    "link": "https://resin.io/blog/advanced-device-provisioning-workflow-for-large-fleets-preloading-and-pre-provisioning/",
-    "image": "https://asciinema.org/a/4ezzuzmec4t5gjinqrex4868p.png",
-    "button": "Let's deploy"
-  },
-  {
-    "title": "Come Work with Us!",
-    "text": "We are actively recruiting for a Solution Architect, DevOps engineer, and Front-end Developer roles!",
+    "title": "Work with us!",
+    "tags": ["jobs"],
+    "text": "We are actively recruiting for a Solutions Architect, DevOps Engineer, and other roles.",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
     "button": "See all positions"

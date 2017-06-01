@@ -1,44 +1,8 @@
 [
 	{
-		"title": "LinuxFest NorthWest 2017",
-		"date": "2017 May 6-7",
-		"location": "Bellingham, WA",
-		"link": "https://www.linuxfestnorthwest.org/2017"
-	},
-	{
-		"title": "Athens Mini Maker Faire",
-		"date": "2017 May 6-7",
-		"location": "Athens, Greece",
-		"link": "http://makerfaireathens.com/en/"
-	},
-	{
-		"title": "Resin.io Meetup Amsterdam",
-		"date": "2017 May 11",
-		"location": "Amsterdam, The Netherlands",
-		"link": "https://www.meetup.com/resin-io/events/239037689/"
-	},
-	{
-		"title": "Resin.io Workshop & Hackathon",
-		"date": "2017 May 13",
-		"location": "Seattle, WA",
-		"link": "https://www.eventbrite.com/e/resinio-workshop-and-hackathon-tickets-33624974203"
-	},
-	{
-		"title": "London IoT Meetup",
-		"date": "2017 May 16",
-		"location": "London, UK",
-		"link": "https://www.meetup.com/iotlondon/events/239108387/"
-	},
-	{
-		"title": "IoT World 2017",
-		"date": "2017 May 16-18",
-		"location": "Santa Clara, CA",
-		"link": "https://tmt.knect365.com/iot-world/"
-	},
-	{
-		"title": "Maker Faire Bay Area",
-		"date": "2017 May 19-21",
-		"location": "San Mateo, CA",
-		"link": "http://makerfaire.com/bay-area/"
+		"title": "GeekWire Cloud Tech Summit",
+		"date": "June 7, 2017",
+		"location": "Bellevue, WA",
+		"link": "https://www.geekwire.com/events/geekwire-cloud-tech-summit-2017/"
 	}
 ]

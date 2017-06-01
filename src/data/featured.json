@@ -1,8 +1,8 @@
 {
-	"title": "Deploy resinOS 2.0 to your fleet",
-	"tags": ["announcement"],
-	"text": "Production version of resinOS 2.0 is available from the resin.io dashboard! Features better networking, local mode, stability fixes, and more!",
-	"link": "https://resin.io/blog/resinos-2-0-released-in-production/",
-	"image": "http://i.imgur.com/TuEld7T.png",
-	"button": "Read details"
+	"title": "Etcher 1.0 released!",
+	"tags": ["etcher"],
+	"text": "Now more reliable than ever, the Etcher cross-platform image writing tool has moved out of beta.",
+	"link": "https://resin.io/blog/etcher-1-0-is-here/",
+	"image": "https://etcher.io/static/logo@2x.png",
+	"button": "Read more"
 }
