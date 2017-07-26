@@ -1,8 +1,8 @@
 {
-	"title": "Etcher 1.0 released!",
-	"tags": ["etcher"],
-	"text": "Now more reliable than ever, the Etcher cross-platform image writing tool has moved out of beta.",
-	"link": "https://resin.io/blog/etcher-1-0-is-here/",
-	"image": "https://etcher.io/static/logo@2x.png",
+	"title": "Open source resin.io",
+	"tags": [],
+	"text": "See where we stand and where we're going in our plan to make enough of resin.io open source that you can run a fleet without our assistance or permission.",
+	"link": "https://resin.io/blog/the-status-and-future-of-open-source-resin-io/",
+	"image": "https://docs.resin.io/img/common/resinify.jpg",
 	"button": "Read more"
 }

@@ -1,27 +1,35 @@
 [
   {
-    "title": "What's new with resin.io?",
-    "tags": ["announcement"],
-    "text": "Get updates on new features in our weekly release notes. Last week we highlighted a significantly faster VPN and per-device API keys.",
-    "link": "https://forums.resin.io/t/weekly-release-notes-may-22-2017/997",
-    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
-    "button": "See updates"
+    "title": "Manage a fleet of drones",
+    "tags": ["tutorial"],
+    "text": "Follow this step-by-step tutorial to see how resin.io can help you connect a fleet of Parrot drones to AWS IoT.",
+    "link": "https://resin.io/blog/manage-a-fleet-of-drones/",
+    "image": "https://resin.io/blog/content/images/2017/06/requirements.png",
+    "button": "Learn how"
   },
   {
-    "title": "New board support: Raspberry Pi Zero W",
-    "tags": ["announcement"],
-    "text": "resinOS v2.0.3 for Raspberry Pi now supports the wireless Raspberry Pi Zero.",
-    "link": "https://forums.resin.io/t/resinos-2-0-3-for-raspberry-pi-including-zerow/975",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Raspberry-Pi-Zero-FL.jpg",
+    "title": "Environment monitoring with resin.io and 30MHz",
+    "tags": ["case study"],
+    "text": "Industrial monitoring company 30MHz uses resin.io to help customers manage remote sensors, and you can too!",
+    "link": "https://resin.io/blog/30mhz-case-study/",
+    "image": "https://resin.io/blog/content/images/2017/03/30mhzlogo_Black-on-white-700x700.png",
+    "button": "Show me"
+  },
+  { 
+    "title": "Petrolog: remote oil well management",
+    "tags": ["case study"],
+    "text": "When your oil wells are spread across hundreds of miles, a fleet of cellular connected Raspberry Pis provides a big benefit.",
+    "link": "https://resin.io/blog/petrolog-remotely-managing-oil-wells-with-resin-io/",
+    "image": "https://resin.io/blog/content/images/2017/06/petrolog.png",
     "button": "Read more"
   },
   {
-    "title": "Resin-in-resin: a truly embedded device",
-    "tags": ["project"],
-    "text": "Resin.io helps manage devices that are hard to get to—even those encased in a block of resin.",
-    "link": "https://resin.io/blog/resin-in-resin-how-to-make-a-literal-embedded-device/",
-    "image": "https://resin.io/blog/content/images/2017/05/3.png",
-    "button": "Tell me how"
+    "title": "What's new with resin.io?",
+    "tags": ["announcement"],
+    "text": "Our weekly release notes keep you up to speed on the latest changes with the resin.io platform.",
+    "link": "https://forums.resin.io/tags/release-notes",
+    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
+    "button": "See updates"
   },
   {
     "title": "Work with us!",
