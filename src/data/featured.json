@@ -1,8 +1,8 @@
 {
-	"title": "Etcher 1.0 released!",
-	"tags": ["etcher"],
-	"text": "Now more reliable than ever, the Etcher cross-platform image writing tool has moved out of beta.",
-	"link": "https://resin.io/blog/etcher-1-0-is-here/",
-	"image": "https://etcher.io/static/logo@2x.png",
-	"button": "Read more"
+	"title": "Multicontainer March",
+	"tags": [""],
+	"text": "We've revamped the entire resin.io platform to support multicontainer applications! Check out the latest features and see how you can bring microservices to your edge devices.", 
+	"link": "https://resin.io/blog/multicontainer-on-resin-io-is-here/",
+	"image": "https://resin.io/blog/content/images/2018/03/device_summary.png",
+	"button": "Learn more"
 }

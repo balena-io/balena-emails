@@ -1,34 +1,42 @@
 [
   {
-    "title": "What's new with resin.io?",
-    "tags": ["announcement"],
-    "text": "Get updates on new features in our weekly release notes. Last week we highlighted a significantly faster VPN and per-device API keys.",
-    "link": "https://forums.resin.io/t/weekly-release-notes-may-22-2017/997",
-    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
-    "button": "See updates"
+    "title": "Add a metrics monitoring service",
+    "tags": ["tutorial"],
+    "text": "With multicontainer applications, it's easy to add new services. This tutorial explains how to set up an InfluxData monitoring service for your containers.",
+    "link": "https://resin.io/blog/add-a-metrics-monitoring-service-to-your-resin-io-multicontainer-application/",
+    "image": "https://resin.io/blog/content/images/2018/03/metrics-2.png",
+    "button": "Try it out"
   },
   {
-    "title": "New board support: Raspberry Pi Zero W",
+    "title": "Project Fin: coming soon",
     "tags": ["announcement"],
-    "text": "resinOS v2.0.3 for Raspberry Pi now supports the wireless Raspberry Pi Zero.",
-    "link": "https://forums.resin.io/t/resinos-2-0-3-for-raspberry-pi-including-zerow/975",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Raspberry-Pi-Zero-FL.jpg",
+    "text": "Project Fin is an industrial-strength carrier board for the Raspberry Pi Compute Module 3 Lite. Available from resin.io later this spring.",
+    "link": "https://resin.io/blog/introducing-project-fin-a-board-for-fleet-owners/",
+    "image": "https://resin.io/blog/content/images/2018/03/4F5A7628-1.jpg",
+    "button": "Details here"
+  },
+  {
+    "title": "Open source updates",
+    "tags": ["announcement"],
+    "text": "Resin.io is committed to providing an open source version of our core product. Learn more about what we've accomplished so far and the steps we're taking to make this happen.",
+    "link": "https://resin.io/blog/open-source-resin-io-progress-and-next-steps/",
+    "image": "https://resin.io/blog/content/images/2018/03/resin_logo.png",
     "button": "Read more"
   },
   {
-    "title": "Resin-in-resin: a truly embedded device",
-    "tags": ["project"],
-    "text": "Resin.io helps manage devices that are hard to get to—even those encased in a block of resin.",
-    "link": "https://resin.io/blog/resin-in-resin-how-to-make-a-literal-embedded-device/",
-    "image": "https://resin.io/blog/content/images/2017/05/3.png",
-    "button": "Tell me how"
+    "title": "Raspberry Pi 3 Model B+ support",
+    "tags": ["announcement"],
+    "text": "Beginning with resinOS v2.12.5, the Raspberry Pi 3 device type supports the new Model B+.",
+    "link": "https://resin.io/blog/raspberry-pi-3-b-now-supported-on-resin-io-2/",
+    "image": "https://resin.io/blog/content/images/2018/03/raspberrypi3-b-.jpg",
+    "button": "More info"
   },
   {
     "title": "Work with us!",
-    "tags": ["jobs"],
-    "text": "We are actively recruiting for a Solutions Architect, DevOps Engineer, and other roles.",
+    "tags": [],
+    "text": "We're looking for a Senior Full-stack Software Engineer and more.",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
-    "button": "See all positions"
+    "button": "See all"
   }
 ]
