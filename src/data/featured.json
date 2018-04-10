@@ -1,8 +1,8 @@
 {
-	"title": "Open source resin.io",
-	"tags": [],
-	"text": "See where we stand and where we're going in our plan to make enough of resin.io open source that you can run a fleet without our assistance or permission.",
-	"link": "https://resin.io/blog/the-status-and-future-of-open-source-resin-io/",
-	"image": "https://docs.resin.io/img/common/resinify.jpg",
-	"button": "Read more"
+	"title": "Multicontainer March",
+	"tags": [""],
+	"text": "We've revamped the entire resin.io platform to support multicontainer applications! Check out the latest features and see how you can bring microservices to your edge devices.", 
+	"link": "https://resin.io/blog/multicontainer-on-resin-io-is-here/",
+	"image": "https://resin.io/blog/content/images/2018/03/device_summary.png",
+	"button": "Learn more"
 }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "Manage a fleet of drones",
+    "title": "Add a metrics monitoring service",
     "tags": ["tutorial"],
-    "text": "Follow this step-by-step tutorial to see how resin.io can help you connect a fleet of Parrot drones to AWS IoT.",
-    "link": "https://resin.io/blog/manage-a-fleet-of-drones/",
-    "image": "https://resin.io/blog/content/images/2017/06/requirements.png",
-    "button": "Learn how"
+    "text": "With multicontainer applications, it's easy to add new services. This tutorial explains how to set up an InfluxData monitoring service for your containers.",
+    "link": "https://resin.io/blog/add-a-metrics-monitoring-service-to-your-resin-io-multicontainer-application/",
+    "image": "https://resin.io/blog/content/images/2018/03/metrics-2.png",
+    "button": "Try it out"
   },
   {
-    "title": "Environment monitoring with resin.io and 30MHz",
-    "tags": ["case study"],
-    "text": "Industrial monitoring company 30MHz uses resin.io to help customers manage remote sensors, and you can too!",
-    "link": "https://resin.io/blog/30mhz-case-study/",
-    "image": "https://resin.io/blog/content/images/2017/03/30mhzlogo_Black-on-white-700x700.png",
-    "button": "Show me"
+    "title": "Project Fin: coming soon",
+    "tags": ["announcement"],
+    "text": "Project Fin is an industrial-strength carrier board for the Raspberry Pi Compute Module 3 Lite. Available from resin.io later this spring.",
+    "link": "https://resin.io/blog/introducing-project-fin-a-board-for-fleet-owners/",
+    "image": "https://resin.io/blog/content/images/2018/03/4F5A7628-1.jpg",
+    "button": "Details here"
   },
-  { 
-    "title": "Petrolog: remote oil well management",
-    "tags": ["case study"],
-    "text": "When your oil wells are spread across hundreds of miles, a fleet of cellular connected Raspberry Pis provides a big benefit.",
-    "link": "https://resin.io/blog/petrolog-remotely-managing-oil-wells-with-resin-io/",
-    "image": "https://resin.io/blog/content/images/2017/06/petrolog.png",
+  {
+    "title": "Open source updates",
+    "tags": ["announcement"],
+    "text": "Resin.io is committed to providing an open source version of our core product. Learn more about what we've accomplished so far and the steps we're taking to make this happen.",
+    "link": "https://resin.io/blog/open-source-resin-io-progress-and-next-steps/",
+    "image": "https://resin.io/blog/content/images/2018/03/resin_logo.png",
     "button": "Read more"
   },
   {
-    "title": "What's new with resin.io?",
+    "title": "Raspberry Pi 3 Model B+ support",
     "tags": ["announcement"],
-    "text": "Our weekly release notes keep you up to speed on the latest changes with the resin.io platform.",
-    "link": "https://forums.resin.io/tags/release-notes",
-    "image": "https://pbs.twimg.com/profile_images/557166128242245632/wbZC2qVc.png",
-    "button": "See updates"
+    "text": "Beginning with resinOS v2.12.5, the Raspberry Pi 3 device type supports the new Model B+.",
+    "link": "https://resin.io/blog/raspberry-pi-3-b-now-supported-on-resin-io-2/",
+    "image": "https://resin.io/blog/content/images/2018/03/raspberrypi3-b-.jpg",
+    "button": "More info"
   },
   {
     "title": "Work with us!",
-    "tags": ["jobs"],
-    "text": "We are actively recruiting for a Solutions Architect, DevOps Engineer, and other roles.",
+    "tags": [],
+    "text": "We're looking for a Senior Full-stack Software Engineer and more.",
     "link": "https://resin.workable.com/",
     "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
-    "button": "See all positions"
+    "button": "See all"
   }
 ]

@@ -1,8 +1,26 @@
 [
 	{
-		"title": "GeekWire Cloud Tech Summit",
-		"date": "June 7, 2017",
-		"location": "Bellevue, WA",
-		"link": "https://www.geekwire.com/events/geekwire-cloud-tech-summit-2017/"
+		"title": "Code Europe",
+		"date": "April 24, 2018",
+		"location": "Warsaw, Poland",
+		"link": "https://www.codeeurope.pl/"
+	},
+	{
+		"title": "DevTalks",
+		"date": "May 16, 2018",
+		"location": "Cluj, Romania",
+		"link": "http://www.devtalks.ro/cluj/"
+	},
+	{
+		"title": "GlueCon",
+		"date": "May 16-17, 2018",
+		"location": "Broomfield, CO",
+		"link": "http://gluecon.com/"
+	},
+	{
+		"title": "DEVit",
+		"date": "June 10-11, 2018",
+		"location": "Thessaloniki, Greece",
+		"link": "http://devitconf.org/"
 	}
 ]
