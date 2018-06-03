@@ -1,8 +1,8 @@
 {
-	"title": "Multicontainer March",
+	"title": "Resin.IO's Public Roadmap",
 	"tags": [""],
-	"text": "We've revamped the entire resin.io platform to support multicontainer applications! Check out the latest features and see how you can bring microservices to your edge devices.", 
-	"link": "https://resin.io/blog/multicontainer-on-resin-io-is-here/",
-	"image": "https://resin.io/blog/content/images/2018/03/device_summary.png",
-	"button": "Learn more"
+	"text": "We've recently published our public roadmap for resin.io where you find details on everything from what we're currently working on, in the pipeline, and ideas / feature requests we're considering as well as our latest releases.",
+	"link": "https://trello.com/b/9CSzdCXQ/resin-product-roadmap",
+	"image": "https://resin.io/blog/content/images/2018/06/roadmap.png",
+	"button": "View Roadmap"
 }

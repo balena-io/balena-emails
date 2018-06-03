@@ -1,42 +1,33 @@
-[
-  {
-    "title": "Add a metrics monitoring service",
-    "tags": ["tutorial"],
-    "text": "With multicontainer applications, it's easy to add new services. This tutorial explains how to set up an InfluxData monitoring service for your containers.",
-    "link": "https://resin.io/blog/add-a-metrics-monitoring-service-to-your-resin-io-multicontainer-application/",
-    "image": "https://resin.io/blog/content/images/2018/03/metrics-2.png",
-    "button": "Try it out"
-  },
-  {
-    "title": "Project Fin: coming soon",
-    "tags": ["announcement"],
-    "text": "Project Fin is an industrial-strength carrier board for the Raspberry Pi Compute Module 3 Lite. Available from resin.io later this spring.",
-    "link": "https://resin.io/blog/introducing-project-fin-a-board-for-fleet-owners/",
-    "image": "https://resin.io/blog/content/images/2018/03/4F5A7628-1.jpg",
-    "button": "Details here"
-  },
-  {
-    "title": "Open source updates",
-    "tags": ["announcement"],
-    "text": "Resin.io is committed to providing an open source version of our core product. Learn more about what we've accomplished so far and the steps we're taking to make this happen.",
-    "link": "https://resin.io/blog/open-source-resin-io-progress-and-next-steps/",
-    "image": "https://resin.io/blog/content/images/2018/03/resin_logo.png",
-    "button": "Read more"
-  },
-  {
-    "title": "Raspberry Pi 3 Model B+ support",
-    "tags": ["announcement"],
-    "text": "Beginning with resinOS v2.12.5, the Raspberry Pi 3 device type supports the new Model B+.",
-    "link": "https://resin.io/blog/raspberry-pi-3-b-now-supported-on-resin-io-2/",
-    "image": "https://resin.io/blog/content/images/2018/03/raspberrypi3-b-.jpg",
-    "button": "More info"
-  },
-  {
-    "title": "Work with us!",
-    "tags": [],
-    "text": "We're looking for a Senior Full-stack Software Engineer and more.",
-    "link": "https://resin.workable.com/",
-    "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
-    "button": "See all"
-  }
+[{
+      "title": "Everything you wanted to know about resinHUP",
+      "tags": [""],
+      "text": "View our 'Everything you've wanted to know about the resin Host UPdater, but were afraid to ask' on Slideshare to learn more about how our Host Updater works",
+      "link": "https://www.slideshare.net/resin_io/everything-you-wanted-to-know-about-resin-hup",
+      "image": "https://resin.io/blog/content/images/2018/06/resinHUP.png",
+      "button": "View Slides"
+   },
+   {
+      "title": "Constructing calls to the resin.io API",
+      "tags": [""],
+      "text": "At the heart of the resin.io platform sits the API and we've overhauled the API documentation to give you a greater in depth view on how to leverage this in your solutions.",
+      "link": "https://resin.io/blog/constructing-calls-to-the-resin-io-api/",
+      "image": "https://resin.io/blog/content/images/2018/03/resin_logo.png",
+      "button": "Read More"
+   },
+   {
+      "title": "Deploying edge workflows with Losant Edge Compute and resin.io",
+      "tags": [""],
+      "text": "Losant Edge Compute offers developers a visual, drag-and-drop editor for building logic workflows, which can be remotely deployed to any number of edge devices. Learn more about how this can be combined with resinIO to build a fully managed and maintainable drag and drop workflow",
+      "link": "https://resin.io/blog/getting-started-with-losant-and-resin/",
+      "image": "https://resin.io/blog/content/images/2018/06/losant.png",
+      "button": "Read More"
+   },
+   {
+      "title": "Work with us!",
+      "tags": [],
+      "text": "We're looking for a Senior Full-stack Software Engineer and more.",
+      "link": "https://resin.workable.com/",
+      "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
+      "button": "See all"
+   }
 ]

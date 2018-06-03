@@ -13,7 +13,8 @@
   "author": "Craig Mulligan <craig@resin.io>",
   "license": "MIT",
   "dependencies": {
-    "foundation-emails": "^2.2.1"
+    "foundation-emails": "^2.2.1",
+    "node-sass": "^4.9.0"
   },
   "devDependencies": {
     "babel-core": "^6.3.26",
@@ -46,7 +47,8 @@
     "yargs": "^4.1.0"
   },
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   }
-
 }

@@ -1,21 +1,9 @@
 [
 	{
-		"title": "Code Europe",
-		"date": "April 24, 2018",
-		"location": "Warsaw, Poland",
-		"link": "https://www.codeeurope.pl/"
-	},
-	{
-		"title": "DevTalks",
-		"date": "May 16, 2018",
-		"location": "Cluj, Romania",
-		"link": "http://www.devtalks.ro/cluj/"
-	},
-	{
-		"title": "GlueCon",
-		"date": "May 16-17, 2018",
-		"location": "Broomfield, CO",
-		"link": "http://gluecon.com/"
+		"title": "DevTalks Bucharest",
+		"date": "June 7-8, 2018",
+		"location": "Bucharest, Romania",
+		"link": "http://www.devtalks.ro/bucharest/"
 	},
 	{
 		"title": "DEVit",
