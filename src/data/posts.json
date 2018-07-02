@@ -1,26 +1,27 @@
-[{
-      "title": "Everything you wanted to know about resinHUP",
-      "tags": [""],
-      "text": "View our 'Everything you've wanted to know about the resin Host UPdater, but were afraid to ask' on Slideshare to learn more about how our Host Updater works",
-      "link": "https://www.slideshare.net/resin_io/everything-you-wanted-to-know-about-resin-hup",
-      "image": "https://resin.io/blog/content/images/2018/06/resinHUP.png",
-      "button": "View Slides"
-   },
+[
    {
-      "title": "Constructing calls to the resin.io API",
+      "title": "Bitreactive: decentralized sensor management with resin.io",
       "tags": [""],
-      "text": "At the heart of the resin.io platform sits the API and we've overhauled the API documentation to give you a greater in depth view on how to leverage this in your solutions.",
-      "link": "https://resin.io/blog/constructing-calls-to-the-resin-io-api/",
-      "image": "https://resin.io/blog/content/images/2018/03/resin_logo.png",
+      "text": "Bitreactive provides assisted living technology solutions for nursing homes and home care. They specialize in decentralized sensor management and edge analytics built around the Continua Design Guidelines, an implementation framework for personal connected devices. Bitreactive's solutions, such as the BALT personal hub, focus primarily on bed monitoring, both for institutions and remote homes",
+      "link": "https://resin.io/blog/bitreactive-decentralized-sensor-management-with-resin-io/",
+      "image": "http://www.bitreactive.com/wp-content/uploads/2014/11/BitReactive_logo_color_CMYK.jpg",
       "button": "Read More"
    },
    {
-      "title": "Deploying edge workflows with Losant Edge Compute and resin.io",
+      "title": "Collaborators are now application members",
       "tags": [""],
-      "text": "Losant Edge Compute offers developers a visual, drag-and-drop editor for building logic workflows, which can be remotely deployed to any number of edge devices. Learn more about how this can be combined with resinIO to build a fully managed and maintainable drag and drop workflow",
-      "link": "https://resin.io/blog/getting-started-with-losant-and-resin/",
-      "image": "https://resin.io/blog/content/images/2018/06/losant.png",
-      "button": "Read More"
+      "text": "We've improved how you can collaborate on your applications, the owner can now assign new members as either a Owner, Observer, Operator or Developer",
+      "link": "https://docs.resin.io/learn/manage/account/#application-members",
+      "image": "https://docs.resin.io/img/common/app/member_dialog.png",
+      "button": "Read The Docs"
+   },
+   {
+         "title": "Go flows with Flogo, a framework for ultralight edge microservices",
+         "tags": [""],
+         "text": "Project Flogo is an application integration framework, written in Go and designed for deploying ultra-lightweight microservices to the edge. Flogo provides a web UI to help you graphically design and debug your application logic. In this post, we'll show you how a basic Hello World application is set up in the web UI and then deploy it with resin.io",
+         "link": "https://resin.io/blog/go-flows-with-flogo/",
+         "image": "http://www.flogo.io/assets/images/flogo-flynn.png",
+         "button": "Read More"
    },
    {
       "title": "Work with us!",

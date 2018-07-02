@@ -1,14 +1,38 @@
 [
 	{
-		"title": "DevTalks Bucharest",
-		"date": "June 7-8, 2018",
-		"location": "Bucharest, Romania",
-		"link": "http://www.devtalks.ro/bucharest/"
+		"title": "Resin.io Workshop",
+		"date": "July 14, 2018",
+		"location": "Barcelona, Spain",
+		"link": "https://www.meetup.com/BarcelonaJS/events/252025373/"
 	},
 	{
-		"title": "DEVit",
-		"date": "June 10-11, 2018",
-		"location": "Thessaloniki, Greece",
-		"link": "http://devitconf.org/"
+		"title": "JS Monthly",
+		"date": "July 25, 2018",
+		"location": "London, UK",
+		"link": "https://www.meetup.com/js-monthly/"
+	},
+	{
+		"title": "TheThingsNetwork",
+		"date": "October 4, 2018",
+		"location": "Maribor, Slovenia",
+		"link": "https://www.thethingsnetwork.org/conference/"
+	},
+	{
+		"title": "London Workshop",
+		"date": "October 23, 2018",
+		"location": "London, UK",
+		"link": "https://www.meetup.com/Linuxing-In-London/"
+	},
+	{
+		"title": "Hack Pompey",
+		"date": "November 3, 2018",
+		"location": "Portsmouth, UK",
+		"link": "https://hackpompey.co.uk/"
+	},
+	{
+		"title": "Big Data Vilnius",
+		"date": "November 27, 2018",
+		"location": "Vilnius, Lithuania",
+		"link": "https://www.bigdataconference.lt/"
 	}
 ]
