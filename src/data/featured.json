@@ -1,8 +1,8 @@
 {
-	"title": "Evolve your fleet: manage multiple device types in one application",
+	"title": "resin.io is now balena",
 	"tags": [""],
-	"text": "When it comes to managing a fleet of remote devices, we know there are many points of friction. Our goal at resin.io is to eliminate as many of these as we can, and we've put a lot of work into making deployments across device types as similar as possible. By running your application code in a container, we're able to keep it mostly isolated from the nitty-gritty hardware detail. This means, with some exceptions, you can write your code once and build it for the device of your choice. And with Dockerfile templates, it's even easier to have one code base that works for multiple device types.",
-	"link": "https://resin.io/blog/evolve-your-fleet-manage-multiple-device-types-in-one-application/",
-	"image": "https://resin.io/blog/content/images/2018/06/mixed_device_type-1.gif",
-	"button": "Learn more"
+	"text": "Ipsum dolor ipsum dolor .",
+	"link": "https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/",
+	"image": "https://www.balena.io/blog/content/images/2018/10/balena_stars-1.png",
+	"button": "Read more"
 }

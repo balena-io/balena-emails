@@ -24,7 +24,7 @@ hr {
 }
 
 .black {
-  color:$black
+  color:$background-blue
 }
 
 .container-border {
@@ -42,8 +42,8 @@ hr {
 
 // HEADER
 .header {
-  background: $black;
-  border-bottom: 1px solid lighten($black, 10%);
+  background: $background-blue;
+  border-bottom: 1px solid lighten($background-blue, 10%);
 }
 
 .header .wrapper-inner {
@@ -51,7 +51,7 @@ hr {
 }
 
 .header .container {
-  background: $black;
+  background: $background-blue;
 }
 
 .header__columns {
@@ -60,14 +60,14 @@ hr {
 }
 
 .header__title {
-  color: $dark-gray;
-  font-weight: 100;
+  color: $white;
+  font-size: 14px;
   text-transform: uppercase;
   margin-bottom: 0;
 }
 
 .header__brand {
-  max-width: 40px;
+  max-width: 150px;
 }
 
 @media only screen and (max-width: #{$global-breakpoint}) {
@@ -81,7 +81,7 @@ hr {
 
 // FOOTER
 .footer {
-  background: $black;
+  background: $background-blue;
   border-bottom: 1px solid $dark-gray;
 }
 
@@ -89,12 +89,18 @@ hr {
 }
 
 .footer__text {
-  color: $dark-gray;
+  color: $white;
   font-weight: 100;
+  a {
+    color: $white;
+    &:hover {
+      font-weight: bold;
+    }
+  }
 }
 
 .footer__brand {
-  max-width: 55px;
+  max-width: 200px;
 }
 
 .footer__postcard {
@@ -124,7 +130,7 @@ hr {
 
 // FEATURED
 .featured {
-  background: $black;
+  background: $background-blue;
 }
 
 .featured__title {
@@ -153,6 +159,7 @@ hr {
 @media only screen and (max-width: #{$global-breakpoint}) {
   .social__button {
     display: block;
+        border-radius: 20px;
   }
 }
 // SOCIAL
