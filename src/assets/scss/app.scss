@@ -329,6 +329,10 @@ table.button {
 .job_content {
   padding-top:70px;
   padding-left:100px;
+
+  table.job_button {
+    margin-left:35px;
+  }
 }
 
 .job_title {
@@ -352,12 +356,8 @@ table.button {
   }
 }
 
-table.button {
-  .job_button {
-    width:100% !important;
-    margin-right:30px !important;
-  }
-}
+
+
 
 .job_image {
   max-width: 227px;
