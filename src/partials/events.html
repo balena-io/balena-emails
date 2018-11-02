@@ -2,13 +2,13 @@
 <div class="events">
 {{#each events}}
 <row class="event">
-  <columns small="4" class="event_name_col">
+  <columns small="12" large="4" class="event_name_col">
     <a class="event_name" href="{{ this.link }}">{{ this.title }}</a>
   </columns>
-  <columns small="4">
+  <columns small="12" large="4">
     <p>{{ this.location }}</p>
   </columns>
-  <columns small="4">
+  <columns small="12" large="4">
     <p class="event_date">{{ this.date }}</p>
   </columns>
 </row>

@@ -19,7 +19,7 @@ hr {
 
 
 hr.header {
-  width:550px;
+  max-width:550px;
   color: #475969;
 }
 
@@ -196,6 +196,8 @@ table.button {
 
 .box {
   margin-top:30px !important;
+  max-width: 363px;
+  width:100%;
 }
 // TOP
 
@@ -239,8 +241,9 @@ table.button {
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
 
-.event_name_col {
 
+
+.event_name_col {
   padding-left: 50px !important;
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
   color: $light-blue;
@@ -303,8 +306,6 @@ table.button {
   .social {
     font-size: 13px;
     line-height: 2;
-    margin-right:25px;
-    margin-left:25px;
     font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
   }
 
