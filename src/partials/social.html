@@ -3,10 +3,9 @@
     <wrapper class="container-border">
       <row>
         <columns>
-          <h5 class="text-center">Want to keep up with the team? Find us on:</h5>
           <center>
             {{#each social}}
-             <a href="{{this.link}}"><img class="icon icon--large social__button" src="{{ this.image }}" alt="social link" /></a>
+             <a class="social" href="{{this.link}}" target="_blank"><img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />{{ this.name}}</a>
             {{/each}}
           </center>
         </columns>

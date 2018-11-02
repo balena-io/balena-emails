@@ -1,8 +1,8 @@
 {
-	"title": "resin.io is now balena",
+	"title": "Resin.io is now balena, open source edition released!",
 	"tags": [""],
-	"text": "Ipsum dolor ipsum dolor .",
+	"text": "If you haven’t already heard, we’re excited to announce that resin.io is becoming <a href=\"https://balena.io\" target=\"_blank\">balena</a>. That’s right, we’re changing our name! Coinciding with this we’re releasing a beta version of <a href=\"https://balena.io/open\" target=\"_blank\">openBalena</a>, the open source edition of our platform. <br> <br> It’s been a busy month, and our team just returned home from our annual summit in Barcelona. We discussed the accelerating growth of our fleet over the past year, as well as all of the released and upcoming features, with particular emphasis on our plans to continue scaling to keep up with our rate of growth. We also spent a lot of time making our new name and openBalena a reality.",
 	"link": "https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/",
-	"image": "https://www.balena.io/blog/content/images/2018/10/balena_stars-1.png",
+	"image": "https://www.balena.io/blog/content/images/2018/11/the-team.png",
 	"button": "Read more"
 }
