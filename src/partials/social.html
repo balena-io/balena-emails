@@ -2,15 +2,17 @@
   <columns>
     <wrapper class="container-border">
       <row>
-        <columns>
-          <h5 class="text-center">Want to keep up with the team? Find us on:</h5>
+        {{#each social}}
+         <columns small="6" large="3" class="">
           <center>
-            {{#each social}}
-             <a href="{{this.link}}"><img class="icon icon--large social__button" src="{{ this.image }}" alt="social link" /></a>
-            {{/each}}
+            
+             <a class="social" href="{{this.link}}" target="_blank"><img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />{{ this.name}}</a>
+            
           </center>
         </columns>
+        {{/each}}
       </row>
     </wrapper>
   </columns>
 </row>
+

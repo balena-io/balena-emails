@@ -1,38 +1,44 @@
 [
 	{
-		"title": "Resin.io Workshop",
-		"date": "July 14, 2018",
-		"location": "Barcelona, Spain",
-		"link": "https://www.meetup.com/BarcelonaJS/events/252025373/"
-	},
-	{
-		"title": "JS Monthly",
-		"date": "July 25, 2018",
-		"location": "London, UK",
-		"link": "https://www.meetup.com/js-monthly/"
-	},
-	{
-		"title": "TheThingsNetwork",
-		"date": "October 4, 2018",
-		"location": "Maribor, Slovenia",
-		"link": "https://www.thethingsnetwork.org/conference/"
-	},
-	{
-		"title": "London Workshop",
-		"date": "October 23, 2018",
-		"location": "London, UK",
-		"link": "https://www.meetup.com/Linuxing-In-London/"
+		"title": "The Hackaday Superconference",
+		"date": " Nov 2-4 2018 ",
+		"location": "Pasadena, CA, USA",
+		"link": "https://hackaday.io/superconference"
 	},
 	{
 		"title": "Hack Pompey",
-		"date": "November 3, 2018",
+		"date": "Nov 3-4, 2018",
 		"location": "Portsmouth, UK",
-		"link": "https://hackpompey.co.uk/"
+		"link": "https://hackpompey.co.uk"
 	},
 	{
-		"title": "Big Data Vilnius",
-		"date": "November 27, 2018",
-		"location": "Vilnius, Lithuania",
-		"link": "https://www.bigdataconference.lt/"
+		"title": "The Things Conference India",
+		"date": "Nov 9-10, 2018",
+		"location": "Hyderabad, India",
+		"link": "https://www.thethingsconference.in/tickets"
+	},
+	{
+		"title": "KubeCon / CloudNativeCon",
+		"date": "Dec 10-13, 2018",
+		"location": "Seattle, WA, USA",
+		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/"
+	},
+	{
+		"title": "IoT Evolution Expo",
+		"date": "Jan 29 - Feb 1, 2019",
+		"location": "Fort Lauderdale, FL, USA",
+		"link": "https://www.iotevolutionexpo.com"
+	},
+	{
+		"title": "The Things Conference",
+		"date": "Jan 31 - Feb 1, 2019",
+		"location": "Amsterdam, NL",
+		"link": "https://www.thethingsnetwork.org/conference/"
+	},
+	{
+		"title": "Industry of Things World USA",
+		"date": "Mar 7-8, 2019",
+		"location": "San Diego, CA, USA",
+		"link": "https://www.industryofthingsworldusa.com/"
 	}
 ]

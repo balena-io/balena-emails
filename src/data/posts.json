@@ -1,34 +1,18 @@
 [
    {
-      "title": "Bitreactive: decentralized sensor management with resin.io",
+      "title": "Hackathon a great success!",
       "tags": [""],
-      "text": "Bitreactive provides assisted living technology solutions for nursing homes and home care. They specialize in decentralized sensor management and edge analytics built around the Continua Design Guidelines, an implementation framework for personal connected devices. Bitreactive's solutions, such as the BALT personal hub, focus primarily on bed monitoring, both for institutions and remote homes",
-      "link": "https://resin.io/blog/bitreactive-decentralized-sensor-management-with-resin-io/",
-      "image": "http://www.bitreactive.com/wp-content/uploads/2014/11/BitReactive_logo_color_CMYK.jpg",
-      "button": "Read More"
+      "text": "In October we held a hackathon in Barcelona. All of our 100+ attendees received a free Raspberry Pi 3B+ and Sense-HAT (along with some obligatory balena swag) to help make their ideas a reality. We all had an amazing day helping our guests to build some awesome projects.",
+      "link": " https://twitter.com/hashtag/balenahack18",
+      "image": "https://www.balena.io/blog/content/images/2018/11/img-hackathlon-2x.jpg",
+      "button": "See the tweets & photos #balenahack18"
    },
    {
-      "title": "Collaborators are now application members",
+      "title": "New website",
       "tags": [""],
-      "text": "We've improved how you can collaborate on your applications, the owner can now assign new members as either a Owner, Observer, Operator or Developer",
-      "link": "https://docs.resin.io/learn/manage/account/#application-members",
-      "image": "https://docs.resin.io/img/common/app/member_dialog.png",
-      "button": "Read The Docs"
-   },
-   {
-         "title": "Go flows with Flogo, a framework for ultralight edge microservices",
-         "tags": [""],
-         "text": "Project Flogo is an application integration framework, written in Go and designed for deploying ultra-lightweight microservices to the edge. Flogo provides a web UI to help you graphically design and debug your application logic. In this post, we'll show you how a basic Hello World application is set up in the web UI and then deploy it with resin.io",
-         "link": "https://resin.io/blog/go-flows-with-flogo/",
-         "image": "http://www.flogo.io/assets/images/flogo-flynn.png",
-         "button": "Read More"
-   },
-   {
-      "title": "Work with us!",
-      "tags": [],
-      "text": "We're looking for a Senior Full-stack Software Engineer and more.",
-      "link": "https://resin.workable.com/",
-      "image": "https://resin.io/pages/how-it-works/how-it-works.jpg",
-      "button": "See all"
+      "text": "As part of our rename, we have launched a brand new website to bring together all our products under our new name. We’re all really proud of what our team has achieved and encourage you to take a look. We’ve brought together all the products you know and love such as <a href=\"https://balena.io\" target=\"_blank\">balenaCloud</a> (formerly resin.io),  <a href=\"https://www.balena.io/etcher/\" target=\"_blank\">balenaEtcher</a> (formerly Etcher) and now the <a href=\"https://www.balena.io/fin/\" target=\"_blank\">balenaFin</a>.",
+      "link": "https://balena.io",
+      "image": "https://www.balena.io/blog/content/images/2018/11/img-website-2x.png",
+      "button": "Read more"
    }
 ]

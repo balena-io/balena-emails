@@ -1,8 +1,8 @@
 {
-	"title": "Evolve your fleet: manage multiple device types in one application",
+	"title": "Resin.io is now balena, open source edition released!",
 	"tags": [""],
-	"text": "When it comes to managing a fleet of remote devices, we know there are many points of friction. Our goal at resin.io is to eliminate as many of these as we can, and we've put a lot of work into making deployments across device types as similar as possible. By running your application code in a container, we're able to keep it mostly isolated from the nitty-gritty hardware detail. This means, with some exceptions, you can write your code once and build it for the device of your choice. And with Dockerfile templates, it's even easier to have one code base that works for multiple device types.",
-	"link": "https://resin.io/blog/evolve-your-fleet-manage-multiple-device-types-in-one-application/",
-	"image": "https://resin.io/blog/content/images/2018/06/mixed_device_type-1.gif",
-	"button": "Learn more"
+	"text": "If you haven’t already heard, we’re excited to announce that resin.io is becoming <a href=\"https://balena.io\" target=\"_blank\">balena</a>. That’s right, we’re changing our name! Coinciding with this we’re releasing a beta version of <a href=\"https://balena.io/open\" target=\"_blank\">openBalena</a>, the open source edition of our platform. <br> <br> It’s been a busy month, and our team just returned home from our annual summit in Barcelona. We discussed the accelerating growth of our fleet over the past year, as well as all of the released and upcoming features, with particular emphasis on our plans to continue scaling to keep up with our rate of growth. We also spent a lot of time making our new name and openBalena a reality.",
+	"link": "https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/",
+	"image": "https://www.balena.io/blog/content/images/2018/11/the-team.png",
+	"button": "Read more"
 }

@@ -1,35 +1,54 @@
 @import 'settings';
 @import 'foundation-emails';
 @import 'mixins';
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+
+@font-face {
+  font-family: 'Circular Std Book';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Circular Std Book'), src: url(https://www.balena.io/fonts/CircularStd-Book.otf) format("opentype");
+}
+
 
 // BASIC
 hr {
   border-style: solid;
-  color: $light-gray;
+  color: #fff;
 }
 
+
+hr.header {
+  max-width:550px;
+  color: #475969;
+}
+
+
+table.button {
+  table td {
+    a {
+      font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+    }
+  }
+}
+
+
 .icon {
-  max-width: 30px;
+  max-width: 12px;
   display: inline-block;
-  vertical-align: top;
   margin-right: $global-margin/2;
 }
 
-.icon--large {
-  max-width: 100px;
-}
-
 .link-plain {
-  color: inherit;
+  color: $light-blue; 
 }
 
 .black {
-  color:$black
+  color:$background-blue
 }
 
 .container-border {
   padding: $global-padding;
-  border: 5px solid $light-gray;
   @include border-radius(5px);
   .wrapper-inner {
     padding: $global-padding;
@@ -42,8 +61,7 @@ hr {
 
 // HEADER
 .header {
-  background: $black;
-  border-bottom: 1px solid lighten($black, 10%);
+
 }
 
 .header .wrapper-inner {
@@ -51,23 +69,22 @@ hr {
 }
 
 .header .container {
-  background: $black;
+
 }
 
 .header__columns {
-  padding: $global-padding/2 $global-padding !important;
+  padding: $global-padding/2 30px !important;
   vertical-align: middle;
 }
 
 .header__title {
-  color: $dark-gray;
-  font-weight: 100;
-  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 14px;
   margin-bottom: 0;
 }
 
 .header__brand {
-  max-width: 40px;
+  max-width: 150px;
 }
 
 @media only screen and (max-width: #{$global-breakpoint}) {
@@ -81,32 +98,63 @@ hr {
 
 // FOOTER
 .footer {
-  background: $black;
-  border-bottom: 1px solid $dark-gray;
+  background: #fff;
 }
 
 .footer__columns {
 }
 
 .footer__text {
-  color: $dark-gray;
-  font-weight: 100;
+  margin-top:10px;
+  color: $dark-blue;
+  font-size: 12px;
+  a {
+    color: $dark-blue;
+    &:hover {
+      color: $light-blue;
+    }
+  }
 }
 
 .footer__brand {
-  max-width: 55px;
+  max-width: 110px;
 }
 
-.footer__postcard {
-  @extend .footer__text;
-  font-style: italic;
-}
 // FOOTER
 
 // POSTS
 .post__title {
-  margin-bottom: 0;
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  color: $dark-blue;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
+.post__text {
+  font-size:13px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.62;
+  letter-spacing: normal;
+  color: $dark-blue;
+  margin-bottom: 25px;
+}
+
+.post__text_bottom {
+  font-size:13px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.62;
+  letter-spacing: normal;
+  color: $dark-blue;
+  margin-bottom: 0px !important;
+}
+
+
 .post__tags {
   list-style: none;
   padding: 0;
@@ -120,39 +168,199 @@ hr {
     margin-bottom: 0;
   }
 }
+
+.post__image {
+  max-width: 170px;
+}
+
+.project_month {
+  font-size:13px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.62;
+  letter-spacing: normal;
+  color: $dark-blue;
+  margin-top:0;
+}
 // POSTS
+
+
+// TOP
+.top {
+  background-image: url('https://www.balena.io/blog/content/images/2018/11/header-bg.png');
+  background-repeat: no-repeat;
+  background-color: $background-blue;
+  background-size:cover;
+  height: 550px;
+}
+
+.box {
+  margin-top:30px !important;
+  max-width: 363px;
+  width:100%;
+}
+// TOP
 
 // FEATURED
 .featured {
-  background: $black;
+  background-color: $white;
+}
+
+.padding-body {
+  padding: 0 30px;
 }
 
 .featured__title {
-  color: $white;
+  color: $dark-blue;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top:20px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
+
+.featured__title2 {
+  color: $dark-blue;
+  font-size: 20px;
+  margin-bottom: 16px;
+  margin-top:30px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
 
 .featured__text {
-  color: $white;
+  color: $dark-blue;
+  font-size: 13px;
 }
 // FEATURED
 
 // EVENTS
+
+.event_title {
+  color: $dark-blue;
+  font-size: 20px;
+  margin: 20px 50px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
+
+
+
+.event_name_col {
+  padding-left: 50px !important;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  color: $light-blue;
+  &:hover {
+    color: $dark-blue;
+  }
+}
+
+.event_name {
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
+
 .events__header .columns {
   padding-bottom: 0;
 }
+
+.event {
+  background-color: #fff;
+
+  p {
+    font-size: 14px;
+    color: $dark-blue;
+  }
+
+  a {
+    font-size: 14px;
+    color: $light-blue;
+    &:hover {
+      color: $dark-blue;
+    }
+  }
+}
+
+.events {
+  background-color: #fff;
+  padding-top:30px;
+}
+
 // EVENTS
 
 // UNSUBSCRIBE
+
 .unsubscribe__text {
-  color: $dark-gray;
+  color: $dark-blue;
   font-size: 12px;
+  margin-top: 10px;
+  padding: 0 30px;
 }
 // UNSUBSCRIBE
 
+//VIEW IN BROWSER
+.view-in-browser__text {
+  font-size:12px;
+  padding-bottom: 20px;
+}
+//VIEW IN BROWSER
+
 // SOCIAL
-@media only screen and (max-width: #{$global-breakpoint}) {
+
+  .social {
+    font-size: 13px;
+    line-height: 2;
+    font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  }
+
   .social__button {
-    display: block;
+    img {
+      width:12px;
+    }
+  }
+
+// SOCIAL
+
+//JOBS
+.jobs-container {
+  max-width: 550px;
+  margin: 0 auto 40px auto;
+  // border-radius: 10px;
+  box-shadow: -10px 9px 21px 0 rgba(152, 173, 227, 0.08);
+  border: solid 1px #e8ebf2;
+  background-color: #ffffff;
+}
+
+.job_content {
+  padding-top:70px;
+  padding-left:100px;
+
+  table.job_button {
+    margin-left:35px;
   }
 }
-// SOCIAL
+
+.job_title {
+  font-size: 20px;
+  color: $dark-blue;
+  padding: 0 35px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
+
+.job_text {
+  padding: 0 20px 0 35px;
+  margin-top:20px;
+  margin-bottom: 30px;
+  color: $dark-blue;
+  font-size: 12px;
+  a {
+    color: $light-blue;
+    &:hover {
+      color: $dark-blue;
+    }
+  }
+}
+
+
+
+
+.job_image {
+  max-width: 227px;
+}
+//JOBS

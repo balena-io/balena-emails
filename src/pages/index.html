@@ -1,20 +1,32 @@
 ---
-subject: March 2018
-logo: https://resin.io/blog/content/images/2016/05/logo.png
-description: Monthly updates on projects, features and events from resin.io
+subject: November 2018
+logo: https://www.balena.io/blog/content/images/2018/11/balena_logo_white.png
+logo-dark: https://www.balena.io/blog/content/images/2018/11/logo-dark-2x.png
+logo-box: https://www.balena.io/blog/content/images/2018/11/logo-box.png
+description: Monthly updates on projects, features and events from balena
 ---
 <container>
-  {{> header}}
-  {{> featured}}
+  <div class="top">
+    {{> header}}
+  </div>
   <spacer size="20"></spacer>
-  {{> posts}}
-  {{> ad_callout}}
+  <div class="padding-body">
+    {{> featured}}
+    <spacer size="20"></spacer>
+    {{> posts}}
+    <spacer size="20"></spacer>
+    {{> featured_bottom}}
+    <spacer size="20"></spacer>
+    {{> posts_extra}}
+  </div>
+  <spacer size="20"></spacer>
+  {{> jobs}}
   <spacer size="20"></spacer>
   {{> events}}
   <spacer size="20"></spacer>
   {{> social}}
-  {{> unsubscribe_mailchimp}}
-  {{> forward}}
   <spacer size="20"></spacer>
   {{> footer}}
+  <spacer size="20"></spacer>
+  {{> unsubscribe_mailchimp}}
 </container>
