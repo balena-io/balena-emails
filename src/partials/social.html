@@ -2,22 +2,17 @@
   <columns>
     <wrapper class="container-border">
       <row>
-          
-              <columns small="6" large="3" class=""><center>
-              <a class="social" href="https://github.com/balena_io" target="_blank"><img class="icon icon--large social__icon" src="https://www.balena.io/blog/content/images/2018/11/github-2x.png" alt="social link" />Github</a>
-              </center></columns>
-              <columns small="6" large="3" class=""><center>
-                <a class="social" href="https://www.twitter.com/balena_io" target="_blank"><img class="icon icon--large social__icon" src="https://www.balena.io/blog/content/images/2018/11/twitter-2x.png" alt="social link" />Twitter</a>
-              </center></columns>
-              <columns small="6" large="3" class=""><center>
-                <a class="social" href="https://www.facebook.com/balenacloud" target="_blank"><img class="icon icon--large social__icon" src="https://www.balena.io/blog/content/images/2018/11/facebook-2x.png" alt="social link" />Facebook</a>
-              </center></columns>
-              <columns small="6" large="3" class=""><center>
-                <a class="social" href="https://www.instagram.com/balena_io" target="_blank"><img class="icon icon--large social__icon" src="https://www.balena.io/blog/content/images/2018/11/instagram-2x.png" alt="social link" />Instagram</a>
-              </center></columns>
-
-
+        {{#each social}}
+         <columns small="6" large="3" class="">
+          <center>
+            
+             <a class="social" href="{{this.link}}" target="_blank"><img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />{{ this.name}}</a>
+            
+          </center>
+        </columns>
+        {{/each}}
       </row>
     </wrapper>
   </columns>
 </row>
+
