@@ -7,7 +7,7 @@
   font-family: 'Circular Std Book';
   font-style: normal;
   font-weight: normal;
-  src: local('Circular Std Book'), url('https://danielandrade.net/balena/fonts/CircularStd-Book.woff') format('woff');
+  src: local('Circular Std Book'), src: url(https://www.balena.io/fonts/CircularStd-Book.otf) format("opentype");
 }
 
 
