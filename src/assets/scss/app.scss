@@ -7,9 +7,8 @@
   font-family: 'Circular Std Book';
   font-style: normal;
   font-weight: normal;
-  src: local('Circular Std Book'), src: url(https://www.balena.io/fonts/CircularStd-Book.otf) format("opentype");
+  src: local('Circular Std Book'), url(https://assets.balena.io/newsletter/CircularStd-Book.otf) format("opentype");
 }
-
 
 // BASIC
 hr {
@@ -17,12 +16,10 @@ hr {
   color: #fff;
 }
 
-
 hr.header {
   max-width:550px;
   color: #475969;
 }
-
 
 table.button {
   table td {
@@ -31,7 +28,6 @@ table.button {
     }
   }
 }
-
 
 .icon {
   max-width: 12px;
@@ -154,7 +150,6 @@ table.button {
   margin-bottom: 0px !important;
 }
 
-
 .post__tags {
   list-style: none;
   padding: 0;
@@ -187,7 +182,7 @@ table.button {
 
 // TOP
 .top {
-  background-image: url('https://www.balena.io/blog/content/images/2018/11/header-bg.png');
+  background-image: url('https://assets.balena.io/newsletter/header-bg.png');
   background-repeat: no-repeat;
   background-color: $background-blue;
   background-size:cover;
@@ -233,15 +228,12 @@ table.button {
 // FEATURED
 
 // EVENTS
-
 .event_title {
   color: $dark-blue;
   font-size: 20px;
   margin: 20px 50px;
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
-
-
 
 .event_name_col {
   padding-left: 50px !important;
@@ -356,9 +348,6 @@ table.button {
     }
   }
 }
-
-
-
 
 .job_image {
   max-width: 227px;

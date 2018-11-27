@@ -1,21 +1,21 @@
 [
   {
-    "image": "https://www.balena.io/blog/content/images/2018/11/github-2x.png",
+    "image": "https://assets.balena.io/newsletter/github-2x.png",
     "link": "https://github.com/balena_io",
     "name": "Github"
   },
   {
-    "image": "https://www.balena.io/blog/content/images/2018/11/twitter-2x.png",
+    "image": "https://assets.balena.io/newsletter/twitter-2x.png",
     "link": "https://www.twitter.com/balena_io",
     "name": "Twitter"
   },
   {
-    "image": "https://www.balena.io/blog/content/images/2018/11/facebook-2x.png",
+    "image": "https://assets.balena.io/newsletter/facebook-2x.png",
     "link": "https://www.facebook.com/balenacloud",
     "name": "Facebook"
   },
   {
-    "image": "https://www.balena.io/blog/content/images/2018/11/instagram-2x.png",
+    "image": "https://assets.balena.io/newsletter/instagram-2x.png",
     "link": "https://www.instagram.com/balena_io",
     "name": "Instagram"
   }
