@@ -284,6 +284,22 @@ table.button {
 
 // EVENTS
 
+// PROJECT OF THE MONTH
+
+.projects_of_the_month__title {
+  color: $dark-blue;
+  font-size: 20px;
+  margin: 20px 50px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
+
+ul.projects_of_the_month {
+  > li {
+    margin: 20px 0;
+  }
+}
+
+// PROJECT OF THE MONTH
 // UNSUBSCRIBE
 
 .unsubscribe__text {

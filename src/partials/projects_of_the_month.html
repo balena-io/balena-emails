@@ -1,0 +1,15 @@
+<h5 class="projects_of_the_month__title">Projects of the month</h5>
+
+<ul class="projects_of_the_month">
+  {{#each projects_of_the_month}}
+  <li>
+
+    {{#if this.image}}
+      <img src="{{this.image}}">
+    {{/if}}
+    <p><a href="{{this.link}}"  target="_blank">{{{this.title}}}</a> - {{{this.text}}}.</p>
+
+  </li>
+  {{/each}}
+</ul>
+
