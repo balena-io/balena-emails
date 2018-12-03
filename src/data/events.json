@@ -1,27 +1,21 @@
 [
 	{
-		"title": "The Hackaday Superconference",
-		"date": " Nov 2-4 2018 ",
-		"location": "Pasadena, CA, USA",
-		"link": "https://hackaday.io/superconference"
-	},
-	{
-		"title": "Hack Pompey",
-		"date": "Nov 3-4, 2018",
-		"location": "Portsmouth, UK",
-		"link": "https://hackpompey.co.uk"
-	},
-	{
-		"title": "The Things Conference India",
-		"date": "Nov 9-10, 2018",
-		"location": "Hyderabad, India",
-		"link": "https://www.thethingsconference.in/tickets"
-	},
-	{
 		"title": "KubeCon / CloudNativeCon",
 		"date": "Dec 10-13, 2018",
 		"location": "Seattle, WA, USA",
 		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/"
+	},
+	{
+		"title": "Edge AI Summit",
+		"date": "Dec 11, 2018",
+		"location": "San Francisco, CA, USA",
+		"link": "https://www.edgeaisummit.com/events/edge-ai-summit"
+	},
+	{
+		"title": "35th Chaos Communication Congress (35C3)",
+		"date": "Dec 11, 2018",
+		"location": "Leipzig, Germany",
+		"link": "https://events.ccc.de/category/congress/35c3/"
 	},
 	{
 		"title": "IoT Evolution Expo",
@@ -37,8 +31,14 @@
 	},
 	{
 		"title": "Industry of Things World USA",
-		"date": "Mar 7-8, 2019",
+		"date": "Mar 7 - 8, 2019",
 		"location": "San Diego, CA, USA",
 		"link": "https://www.industryofthingsworldusa.com/"
+	},
+	{
+		"title": "IoT Tech Global Expo",
+		"date": "Apr 25 - 26, 2019",
+		"location": "London, UK",
+		"link": "https://www.iottechexpo.com/global"
 	}
 ]
