@@ -1,8 +1,8 @@
 [
    {
-      "title": "Hackathon a great success!",
+      "title": "balenaDash",
       "tags": [""],
-      "text": "We’ve been having fun building our web-app display project this month, with the aim to get you up and running with a cool desktop display that will show any webpage in under 30 minutes. We’ve created a <a href=\"https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/\">full tutorial</a> and partnered with our friends at <a href=\"https://uk.pi-supply.com/\">PiSupply</a> to get a good deal on all the hardware you need in one package.<br><br>Take a look at the blog post and have a go yourself, we’d love to see what uses you come up with for it. We’re going to be developing this further so let us know if there are any features you’d like to see.",
+      "text": "We’ve been having fun building our web-app display project this month, with the aim to get you up and running with a cool desktop display that will show any webpage in under 30 minutes. We’ve created <a href=\"https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/\">full tutorial</a> and partnered with our friends at <a href=\"https://uk.pi-supply.com/\">PiSupply</a> to get a good deal on all the hardware you need in one package.<br><br>Take a look at the blog post and have a go yourself, we’d love to see what uses you come up with for it. We’re going to be developing this further so let us know if there are any features you’d like to see.",
       "link": " https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes",
       "image": "https://www.balena.io/blog/content/images/2018/11/img-hackathlon-2x.jpg",
       "button": "Read more"
