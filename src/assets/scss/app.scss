@@ -11,6 +11,11 @@
 }
 
 // BASIC
+
+ul {
+  padding: 0 16px 16px 16px;
+}
+
 hr {
   border-style: solid;
   color: #fff;
@@ -130,6 +135,18 @@ table.button {
   color: $dark-blue;
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
+
+
+ul.posts_list {
+  list-style: none;
+  > li {
+    margin: 30px 0;
+    > img {
+      margin: 20px 0 20px 0;
+    }
+  }
+}
+
 .post__text {
   font-size:13px;
   font-style: normal;
@@ -148,20 +165,6 @@ table.button {
   letter-spacing: normal;
   color: $dark-blue;
   margin-bottom: 0px !important;
-}
-
-.post__tags {
-  list-style: none;
-  padding: 0;
-  letter-spacing: 1px;
-  margin: $global-margin/4 0
-}
-.post__tag {
-  display: inline-block;
-  margin-left: 0 !important;
-  .secondary {
-    margin-bottom: 0;
-  }
 }
 
 .post__image {
@@ -223,7 +226,7 @@ table.button {
 
 .featured__text {
   color: $dark-blue;
-  font-size: 13px;
+  font-size: 16px;
 }
 // FEATURED
 
@@ -260,6 +263,10 @@ table.button {
   padding-bottom: 0;
 }
 
+.event_name_col {
+  padding-left:0 !important;
+}
+
 .event {
   background-color: #fff;
 
@@ -277,6 +284,12 @@ table.button {
   }
 }
 
+img.event_icon {
+  max-width: 20px;
+  float:left;
+  margin-right:10px; 
+}
+
 .events {
   background-color: #fff;
   padding-top:30px;
@@ -289,14 +302,30 @@ table.button {
 .projects_of_the_month__title {
   color: $dark-blue;
   font-size: 20px;
-  margin: 20px 50px;
+  margin: 20px 16px;
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
 }
 
+.projects_of_the_month__description {
+  color: $dark-blue;
+  font-weight: normal;
+  font-size: 13px;
+  margin: 20px 16px;
+  font-family: 'Nunito', Helvetica, Arial, sans-serif;
+}
+
 ul.projects_of_the_month {
+  list-style: none;
   > li {
-    margin: 20px 0;
+    margin: 30px 0;
+    > img {
+      margin: 20px 0 20px 0;
+    }
   }
+}
+
+.projects_of_the_month__project_title {
+  font-weight: bold;
 }
 
 // PROJECT OF THE MONTH
@@ -320,6 +349,7 @@ ul.projects_of_the_month {
 // SOCIAL
 
   .social {
+    padding-left:20px;
     font-size: 13px;
     line-height: 2;
     font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;

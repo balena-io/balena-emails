@@ -3,8 +3,16 @@
 <div class="events">
 {{#each events}}
 <row class="event">
-  <columns small="12" large="4" class="event_name_col">
-    <a class="event_name" href="{{ this.link }}">{{ this.title }}</a>
+    <columns small="12" large="1" class="event_attending_col">
+      {{#if this.attending}}
+      <img src="https://i.imgur.com/YMnoBjD.png" class="event_icon">
+    {{/if}}
+    </columns>
+
+  <columns small="12" large="3" class="event_name_col">
+    <a class="event_name" href="{{ this.link }}">
+      {{ this.title }}
+    </a>
   </columns>
   <columns small="12" large="4">
     <p>{{ this.location }}</p>

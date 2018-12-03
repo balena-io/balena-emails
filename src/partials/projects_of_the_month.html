@@ -1,15 +1,17 @@
-<h5 class="projects_of_the_month__title">Projects of the month</h5>
-
-<ul class="projects_of_the_month">
-  {{#each projects_of_the_month}}
-  <li>
-
+{{#each projects_of_the_month}}
+  <row class="post">
     {{#if this.image}}
-      <img src="{{this.image}}">
+    <columns large="4">
+      <center>
+        <img class="post__image" src="{{ this.image }}">
+      </center>
+    </columns>
     {{/if}}
-    <p><a href="{{this.link}}"  target="_blank">{{{this.title}}}</a> - {{{this.text}}}.</p>
-
-  </li>
-  {{/each}}
-</ul>
-
+    <columns large="{{#if this.image}}8{{else}}12{{/if}}">
+      <a class="projects_of_the_month__project_title" href="{{this.link}}"  target="_blank">{{{this.title}}}</a></p>
+      <p>{{{ this.text }}}</p>
+    </columns>
+  </row>
+  {{> hr}}
+  <spacer size="10"></spacer>
+{{/each}}

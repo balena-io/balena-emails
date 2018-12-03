@@ -3,42 +3,49 @@
 		"title": "KubeCon / CloudNativeCon",
 		"date": "Dec 10-13, 2018",
 		"location": "Seattle, WA, USA",
-		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/"
+		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/",
+		"attending": "yes"
 	},
 	{
 		"title": "Edge AI Summit",
 		"date": "Dec 11, 2018",
 		"location": "San Francisco, CA, USA",
-		"link": "https://www.edgeaisummit.com/events/edge-ai-summit"
+		"link": "https://www.edgeaisummit.com/events/edge-ai-summit",
+		"attending": ""
 	},
 	{
 		"title": "35th Chaos Communication Congress (35C3)",
 		"date": "Dec 11, 2018",
 		"location": "Leipzig, Germany",
-		"link": "https://events.ccc.de/category/congress/35c3/"
+		"link": "https://events.ccc.de/category/congress/35c3/",
+		"attending": ""
 	},
 	{
 		"title": "IoT Evolution Expo",
 		"date": "Jan 29 - Feb 1, 2019",
 		"location": "Fort Lauderdale, FL, USA",
-		"link": "https://www.iotevolutionexpo.com"
+		"link": "https://www.iotevolutionexpo.com",
+		"attending": ""
 	},
 	{
 		"title": "The Things Conference",
 		"date": "Jan 31 - Feb 1, 2019",
 		"location": "Amsterdam, NL",
-		"link": "https://www.thethingsnetwork.org/conference/"
+		"link": "https://www.thethingsnetwork.org/conference/",
+		"attending": ""
 	},
 	{
 		"title": "Industry of Things World USA",
 		"date": "Mar 7 - 8, 2019",
 		"location": "San Diego, CA, USA",
-		"link": "https://www.industryofthingsworldusa.com/"
+		"link": "https://www.industryofthingsworldusa.com/",
+		"attending": ""
 	},
 	{
 		"title": "IoT Tech Global Expo",
 		"date": "Apr 25 - 26, 2019",
 		"location": "London, UK",
-		"link": "https://www.iottechexpo.com/global"
+		"link": "https://www.iottechexpo.com/global",
+		"attending": ""
 	}
 ]

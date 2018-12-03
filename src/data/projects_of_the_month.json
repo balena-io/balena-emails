@@ -6,7 +6,7 @@
       "image": "https://assets.balena.io/newsletter/2018-12/image1.png"
    },
    {
-      "title": "Electron+VueJS Starter Project",
+      "title": "Electron + VueJS Starter Project",
       "text": "Louis wrote an <a href=\"https://medium.com/@louis.rose/stop-struggling-with-kiosk-applications-modern-electron-vue-balena-workflow-1700cc9666dd\">accompanying guide</a> too - thanks Louis!",
       "link": "https://github.com/Lurow/balena-electron-vuecli3",
       "image": "https://assets.balena.io/newsletter/2018-12/image2.png"

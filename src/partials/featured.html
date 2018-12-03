@@ -9,7 +9,9 @@
       {{{ featured.text }}}
     </p>
     <spacer size="10"></spacer>
-    <button class="medium rounded" href="{{ featured.link }}">{{ featured.button }}</button>
+    {{#if featured.button}}
+      <button class="medium rounded" href="{{ featured.link }}">{{ featured.button }}</button>
+    {{/if}}
   </columns>
 </row>
 {{> hr}}
