@@ -3,12 +3,8 @@
     <wrapper class="container-border">
       <row>
         {{#each social}}
-         <columns small="6" large="3" class="">
-          <center>
-            
+         <columns small="6" large="3" class="">      
              <a class="social" href="{{this.link}}" target="_blank"><img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />{{ this.name}}</a>
-            
-          </center>
         </columns>
         {{/each}}
       </row>
