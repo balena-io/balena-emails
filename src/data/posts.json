@@ -2,15 +2,15 @@
    {
       "title": "balenaDash",
       "tags": [""],
-      "text": "We’ve been having fun building our web-app display project this month, with the aim to get you up and running with a cool desktop display that will show any webpage in under 30 minutes. We’ve created <a href=\"https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/\">full tutorial</a> and partnered with our friends at <a href=\"https://uk.pi-supply.com/\">PiSupply</a> to get a good deal on all the hardware you need in one package.<br><br>Take a look at the blog post and have a go yourself, we’d love to see what uses you come up with for it. We’re going to be developing this further so let us know if there are any features you’d like to see.",
+      "text": "We’ve been having fun building our web-app display project this month, with the aim to get you up and running with a cool desktop display that will show any webpage in under 30 minutes. We’ve created <a href=\"https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/\">full tutorial</a> and partnered with our friends at <a href=\"https://uk.pi-supply.com/\">PiSupply</a> to get a good deal on all the hardware you need in one package.<br><br>Take a look at the blog post and have a go yourself, we’d love to see what use cases you come up with. We’ll be developing this further so let us know if there are any features you’d like to see.",
       "link": " https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes",
       "image": "https://assets.balena.io/newsletter/2018-12/image4.jpg",
       "button": "Read more"
    },
    {
-      "title": "DIY 6-card Etcher",
+      "title": "DIY 6-card Etcher Flasher",
       "tags": [""],
-      "text": "Whilst we are busy working hard on our <a href=\"https://www.balena.io/etcher/pro/\" target=\"_blank\">EtcherPro</a> project to solve the problem of flashing a lot of SD cards simultaneously, an Etcher user by the name of Daniel Chote <a href=\"https://twitter.com/dchote\" target=\"_blank\">@dchote</a> shared with us their awesome DIY 6-card SD card flasher. <br><br> Daniel has written a <a href=\"http://projectable.me/a-simple-etcher-6-slot-sd-card-jig/\" target=\"_blank\">tutorial</a> and shared all the 3D models on <a href=\"https://www.thingiverse.com/thing:3217069\" target=\"_blank\">Thingiverse</a> so you can make your own. Be sure to let us both know if you make one of your own.",
+      "text": "Whilst we are busy working hard on our <a href=\"https://www.balena.io/etcher/pro/\" target=\"_blank\">EtcherPro</a> project to solve the problem of flashing a lot of SD cards simultaneously, an Etcher user by the name of Daniel Chote <a href=\"https://twitter.com/dchote\" target=\"_blank\">@dchote</a> shared with us their awesome DIY 6-card SD card flasher. <br><br> Daniel has written a <a href=\"http://projectable.me/a-simple-etcher-6-slot-sd-card-jig/\" target=\"_blank\">tutorial</a> and shared all the 3D models on <a href=\"https://www.thingiverse.com/thing:3217069\" target=\"_blank\">Thingiverse</a> so you can make your own. Be sure to let us both know if you do.",
       "link": "http://projectable.me/a-simple-etcher-6-slot-sd-card-jig/",
       "image": "https://assets.balena.io/newsletter/2018-12/image5.jpg",
       "button": "Check it out"
@@ -18,7 +18,7 @@
    {
       "title": "Documentation",
       "tags": [""],
-      "text": "Since our <a href=\"https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/\" target=\"_blank\">rename</a>, we’ve been working hard to revitalise a lot of our documentation and get everything up to date. If there’s anything you have noticed to be missing or incorrect please let us know by adding an issue on <a href=\"https://github.com/balena-io/docs\" target=\"_blank\">the Github repo</a> or even better, submit a pull request. We’re committed to making our documentation as awesome as it can be and so we welcome any and all feedback.",
+      "text": "Since our <a href=\"https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/\" target=\"_blank\">rename</a>, we’ve been working hard to revamp a lot of our documentation and get everything up to date. If you notice anything missing or incorrec please let us know by adding an issue on <a href=\"https://github.com/balena-io/docs\" target=\"_blank\">Github</a> or even better, by submitting a pull request. We’re committed to making our documentation as awesome as it can be - we welcome any and all feedback.",
       "link": "https://www.balena.io/docs/learn/welcome/introduction/",
       "image": "https://assets.balena.io/newsletter/2018-12/image3.jpg",
       "button": "balenaCloud docs"
@@ -26,7 +26,7 @@
    {
       "title": "Connecting to Eduroam and other 802.1X networks",
       "tags": [""],
-      "text": "Alex Bucknall, a colleague of ours, has written a guide to connecting balenaOS devices to networks with <a href=\"https://en.wikipedia.org/wiki/IEEE_802.1X\" target=\"_blank\">802.1X</a>  authentication as is common in educational institutions. BalenaOS uses the network manager tool <a href=\"https://developer.gnome.org/NetworkManager/stable/\" target=\"_blank\">nm</a> to manage networking interface and so the guide covers everything you need to do to set this up to connect and authenticate with these networks.",
+      "text": "Alex Bucknall, a colleague of ours, has written a guide to connecting balenaOS devices to networks with <a href=\"https://en.wikipedia.org/wiki/IEEE_802.1X\" target=\"_blank\">802.1X</a>  authentication as is common in educational institutions. BalenaOS uses the network manager tool <a href=\"https://developer.gnome.org/NetworkManager/stable/\" target=\"_blank\">nm</a> to manage networking interfaces and the guide covers everything you need to connect and authenticate with these networks.",
       "link": "https://medium.com/@bucknall/balenaos-connecting-to-eduroam-26312e7859b5",
       "image": "",
       "button": "Read more"
