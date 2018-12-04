@@ -1,15 +1,14 @@
 <row class="featured">
   <columns>
-    <spacer size="30"></spacer>
-    <spacer size="10"></spacer>
     <h5 class="featured__title">
       {{{ featured.title }}}
     </h5>
     <p class="featured__text">
       {{{ featured.text }}}
     </p>
-    <spacer size="10"></spacer>
-    <button class="medium rounded" href="{{ featured.link }}">{{ featured.button }}</button>
+    {{#if featured.button}}
+      <button class="medium rounded" href="{{ featured.link }}">{{ featured.button }}</button>
+    {{/if}}
   </columns>
 </row>
 {{> hr}}

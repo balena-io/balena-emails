@@ -1,18 +1,16 @@
-<row>
-  <columns>
-    <wrapper class="container-border">
-      <row>
-        {{#each social}}
-         <columns small="6" large="3" class="">
-          <center>
-            
-             <a class="social" href="{{this.link}}" target="_blank"><img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />{{ this.name}}</a>
-            
-          </center>
-        </columns>
-        {{/each}}
-      </row>
-    </wrapper>
-  </columns>
-</row>
 
+<wrapper class="container-border">
+  <row>
+    {{#each social}}
+
+    <columns small="6" large="3">      
+          <a class="social" href="{{this.link}}" target="_blank">
+            <img class="icon icon--large social__icon" src="{{ this.image }}" alt="social link" />
+            {{ this.name}}
+          </a>
+    </columns>
+  
+    {{/each}}
+
+  </row>
+</wrapper>

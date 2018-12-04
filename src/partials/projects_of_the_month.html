@@ -1,0 +1,18 @@
+<h5 class="projects_of_the_month__title">Projects of the month</h5>
+<p class="projects_of_the_month__description">Every month we like to feature a few projects built by the community, this month it’s:</p>
+{{#each projects_of_the_month}}
+  <row class="post">
+    {{#if this.image}}
+    <columns large="4">
+      <center>
+        <img class="post__image" src="{{ this.image }}">
+      </center>
+    </columns>
+    {{/if}}
+    <columns large="{{#if this.image}}8{{else}}12{{/if}}">
+      <a class="projects_of_the_month__project_title" href="{{this.link}}"  target="_blank">{{{this.title}}}</a></p>
+      <p class="projects_of_the_month__project_text">{{{ this.text }}}</p>
+    </columns>
+  </row>
+  {{> hr}}
+{{/each}}
