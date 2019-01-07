@@ -1,26 +1,5 @@
 [
 	{
-		"title": "KubeCon / CloudNativeCon",
-		"date": "Dec 10-13, 2018",
-		"location": "Seattle, WA, USA",
-		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/",
-		"attending": "yes"
-	},
-	{
-		"title": "Edge AI Summit",
-		"date": "Dec 11, 2018",
-		"location": "San Francisco, CA, USA",
-		"link": "https://www.edgeaisummit.com/events/edge-ai-summit",
-		"attending": ""
-	},
-	{
-		"title": "35th Chaos Communication Congress (35C3)",
-		"date": "Dec 11, 2018",
-		"location": "Leipzig, Germany",
-		"link": "https://events.ccc.de/category/congress/35c3/",
-		"attending": ""
-	},
-	{
 		"title": "IoT Evolution Expo",
 		"date": "Jan 29 - Feb 1, 2019",
 		"location": "Fort Lauderdale, FL, USA",
@@ -32,7 +11,7 @@
 		"date": "Jan 31 - Feb 1, 2019",
 		"location": "Amsterdam, NL",
 		"link": "https://www.thethingsnetwork.org/conference/",
-		"attending": ""
+		"attending": "yes"
 	},
 	{
 		"title": "Industry of Things World USA",
@@ -46,6 +25,13 @@
 		"date": "Apr 25 - 26, 2019",
 		"location": "London, UK",
 		"link": "https://www.iottechexpo.com/global",
+		"attending": ""
+	},
+	{
+		"title": "Artificial Intelligence, Robotics & IoT conference",
+		"date": "Jul 16 - 17, 2019",
+		"location": "Amsterdam, NL",
+		"link": "https://artificialintelligence-iot.enggconferences.com",
 		"attending": ""
 	}
 ]
