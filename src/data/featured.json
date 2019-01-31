@@ -1,8 +1,8 @@
 {
-	"title": "Happy Holidays from balena!",
+	"title": "Happy new year from balena!",
 	"tags": [""],
-	"text": "It’s now December, which means our final newsletter of the year; next time you hear from us it’ll be January 2019! We hope you’re all looking forward to the festive season, and for our readers in the US, that you had a great Thanksgiving holiday last month. We’ve got some really cool stuff to tell you about this month so let’s get to it.",
-	"link": "https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/",
-	"image": "https://www.balena.io/blog/content/images/2018/11/the-team.png",
+	"text": "Welcome to the new year! It’s 2019 and we still don’t have flying cars or hoverboards (no, those don’t count &#x1F680;). Nevertheless, 2018 saw some noteworthy and groundbreaking milestones for our own company, from <a target=\"_blank\" href=\"https://www.balena.io/blog/multicontainer-on-resin-io-is-here\">the launch of multicontainer</a> to the <a target=\"_blank\" href=\"https://www.balena.io/blog/introducing-project-fin-a-board-for-fleet-owners/\">balenaFin</a> to <a target=\"_blank\" href=\"https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/\">renaming the company</a>. We’re not showing any signs of slowing down and have some awesome projects in the pipeline that we can’t wait to show you throughout the coming year.",
+	"link": "",
+	"image": "",
 	"button": ""
 }

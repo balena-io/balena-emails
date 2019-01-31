@@ -1,20 +1,34 @@
 [
    {
-      "title": "ElectronJS Kiosk Boilerplate",
-      "text": "An ElectronJS boilerplate for developing kiosks, digital signage or other human-machine interaction projects. Will also sent in an <a href=\"https://link.medium.com/yPCG3j2rfS\" target=\"_blank\">accompanying article</a> - thanks Will!",
-      "link": "https://github.com/williamwalker88/balena-timestations",
-      "image": "https://assets.balena.io/newsletter/2018-12/image1.png"
+      "title": "&bull; Pi-Hole & balenaCloud",
+      "text": "Kyle Harding created a setup to deploy a Pi-Hole stack using balenaCloud.",
+      "link": "https://github.com/klutchell/balena-pihole",
+      "image": ""
    },
    {
-      "title": "Electron + VueJS Starter Project",
-      "text": "Louis wrote an <a href=\"https://medium.com/@louis.rose/stop-struggling-with-kiosk-applications-modern-electron-vue-balena-workflow-1700cc9666dd\">accompanying guide</a> too - thanks Louis!",
-      "link": "https://github.com/Lurow/balena-electron-vuecli3",
-      "image": "https://assets.balena.io/newsletter/2018-12/image2.png"
+      "title": "&bull; Repetier server on balenaOS",
+      "text": "Nick Neisen published a tutorial on deploying Repetier server to drive a CNC machine (or 3D printer) in Docker on balenaOS.",
+      "link": "https://nixstuff.tech/how-to/running-repetier-server-on-rpi3-with-balena-os/",
+      "image": ""
    },
    {
-      "title": "DogTempTexter",
-      "text": "A Python project to monitor a temperature sensor and send text message alerts using Twilio.",
-      "link": "https://github.com/sako0938/DogTempTexter",
+      "title": "&bull; Live temperature readings for TEMPer devices",
+      "text": "Will Walker created a project to measure and display live temperature readings on a web page using TEMPer devices.",
+      "link": "https://github.com/williamwalker88/balena-temperatures",
+      "image": ""
+   },
+   {
+      "title": "Write about your balena projects, get swag!",
+      "text": "If you’ve built a project using any of our products, we’d love to hear about it! Write up what you’ve done on a site or in a blog post, then tweet us <a href=\"https://twitter.com/balena_io\" target=\"_blank\">@balena_io</a> with the <strong>#balenablog4swag</strong> hashtag and you could get a swag pack and hardware.",
+      "link": "https://forums.balena.io/t/the-return-of-blog4swag-share-your-resin-io-project-writeup-for-swag/726",
+      "image": "https://www.balena.io/blog/content/images/2018/11/swag.jpg",
+      "button": "Read more"
+   },
+   {
+      "title": "",
+      "text": "Feel free to give them a try and let the world know how you get on in the <a href=\"https://forums.balena.io\" target=\"_blank\">forums</a>; the authors of these projects would love to know how you’re using them.",
+      "link": "",
       "image": ""
    }
 ]
+
