@@ -1,34 +1,16 @@
 [
    {
       "title": "Monitor your balena device fleet with Datadog",
-      "tags": [""],
       "text": "If you’ve already got your fleet up and running on balenaCloud and have been looking for a way to monitor each of your devices, this could be the project for you! We’ve created a demo project that runs the <a href=\"https://www.datadoghq.com\" target=\"_blank\">Datadog agent</a>, allowing you to collect metrics about your hardware. You can integrate our example project with your existing setup to start capturing information about CPU utilization, disk,  and network usage, temperature etc. immediately.",
       "link": "https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/",
       "image": "https://assets.balena.io/newsletter/2019-02/image3.png",
       "button": "Find our more"
    },
    {
-      "title": "GitLab runner on balena devices for continuous integration testing",
-      "tags": [""],
-      "text": "Our very own <a href=\"https://twitter.com/imrehg\" target=\"_blank\">@imrehg</a> posted a project to use balena devices to act as Gitlab runners for continuous integration testing on our forums. This project allows you to set up an array of different device types in order to test your application on each of them fully automatically.",
-      "link": "https://forums.balena.io/t/gitlab-runner-on-balena-devices-for-continuous-integration-testing/5090",
-      "image": "https://assets.balena.io/newsletter/2019-02/image2.jpg",
-      "button": "Find out more"
-   },
-   {
       "title": "Valentines gift idea",
-      "tags": [""],
       "text": "Looking for a Valentine’s Day gift for your partner or significant other? How about a digital photo powered by <a href=\"https://github.com/balena-io-projects/balena-dash\" target=\"_blank\">balenaDash</a> and <a href=\"https://www.balena.io/blog/using-google-slides-with-balenadash/\" target=\"_blank\">Google Slides</a> that you can both update with photos of your time together? There’s still time to build our project in time for the 14th!",
       "link": "https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/",
       "image": "https://assets.balena.io/newsletter/2019-02/balenadash_mockup_valentine.jpg",
       "button": "Read the tutorial"
-   },
-   {
-      "title": "The Things Conference",
-      "tags": [""],
-      "text": "We had fun at <a href=\"https://www.thethingsnetwork.org/conference/\" target=\"_blank\">The Things Conference 2019</a> in Amsterdam last week, learning about all the latest in LoRaWAN, meeting balena customers both old and new and discovering new products and technology. We ran a couple of short workshops, demonstrating how to deploy and manage LoRaWAN gateways on The Things Network using balenaCloud; you can take a look at what we covered <a href=\"https://cdn.shopify.com/s/files/1/2187/3161/files/Remote_Management_of_TTN_Gateways.pdf?15692983959057340073\" target=\"_blank\">in the slides here</a>. You can always find out what events we are attending at the bottom of our newsletters - we love meeting our customers in person so come and find us at the next one!",
-      "link": "",
-      "image": "https://assets.balena.io/newsletter/2019-02/ttn.jpg",
-      "button": ""
    }
 ]

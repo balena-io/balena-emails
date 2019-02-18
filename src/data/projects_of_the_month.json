@@ -1,21 +1,9 @@
 [
    {
-      "title": "&bull; Sonar",
-      "text": "<a href=\"https://github.com/vpetersson\" targer=\"_blank\">@vpetersson</a> created a project to scan the area for Bluetooth low-energy (BLE) devices and produce user-friendly reports: <a href=\"https://github.com/databat-io/sonar\" target=\"_blank\">https://github.com/databat-io/sonar</a>" ,
-      "link": "https://github.com/databat-io/sonar",
+      "title": "&bull; Title",
+      "text": "Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text " ,
+      "link": "https://github.com/",
       "image": "https://assets.balena.io/newsletter/2019-02/sonar_daily_view.png"
-   },
-   {
-      "title": "&bull; Balena Dashboard",
-      "text": "Inspired by <a href=\"https://github.com/balena-io-projects/balena-dash\" targer=\"_blank\">balenaDash</a>, <a href=\"https://github.com/willswire\" targer=\"_blank\">@willswire</a> created an ElectronJS version of the project: <a href=\"https://github.com/willswire/balena-dashboards\" target=\"_blank\">https://github.com/willswire/balena-dashboards</a>" ,
-      "link": "https://github.com/willswire/balena-dashboards",
-      "image": ""
-   },
-   {
-      "title": "&bull; Robot Army Fleet With Balena",
-      "text": "Mitch Allen wrote about updating your robot army fleet with balena: <a href=\"https://desertbot.io/blog/raspberry-pi-balena-resin\" target=\"_blank\">https://desertbot.io/blog/raspberry-pi-balena-resin</a>" ,
-      "link": "https://desertbot.io/blog/raspberry-pi-balena-resin",
-      "image": ""
    },
    {
       "title": "",

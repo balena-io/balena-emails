@@ -1,24 +1,24 @@
 <h5 class="event_title">Events</h5>
 <p class="event_description">Here’re some upcoming events you might like to check out, if you see the balena logo next to an event that means we’ll be there - come and say hello!</p>
 <div class="events">
-{{#each events}}
-<row class="event">
-    <columns small="12" large="1" class="event_attending_col">
-      {{#if this.attending}}
-      <img src="https://assets.balena.io/newsletter/balena-icon.png" class="event_icon">
-    {{/if}}
-    </columns>
-  <columns small="12" large="3" class="event_name_col">
-    <a class="event_name" href="{{ this.link }}">
-      {{ this.title }}
-    </a>
-  </columns>
-  <columns small="12" large="4">
-    <p>{{ this.location }}</p>
-  </columns>
-  <columns small="12" large="4">
-    <p class="event_date">{{ this.date }}</p>
-  </columns>
-</row>
-{{/each}}
+  {{#each events}}
+    <row class="event">
+      <columns small="12" large="1" class="event_attending_col">
+        {{#if this.attending}}
+          <img src="https://assets.balena.io/newsletter/balena-icon.png" class="event_icon">
+        {{/if}}
+      </columns>
+      <columns small="12" large="3" class="event_name_col">
+        <a class="event_name" href="{{ this.link }}">
+          {{ this.title }}
+        </a>
+      </columns>
+      <columns small="12" large="4">
+        <p>{{ this.location }}</p>
+      </columns>
+      <columns small="12" large="4">
+        <p class="event_date">{{ this.date }}</p>
+      </columns>
+    </row>
+  {{/each}}
 </div>

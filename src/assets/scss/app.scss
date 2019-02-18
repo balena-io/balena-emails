@@ -11,7 +11,6 @@
 }
 
 // BASIC
-
 ul {
   padding: 0 16px;
 }
@@ -61,17 +60,26 @@ table.button {
 }
 // BASIC
 
-// HEADER
-.header {
-
+// TOP
+.top {
+  background-image: url('https://assets.balena.io/newsletter/2019-02/header.png');
+  background-repeat: no-repeat;
+  background-color: $background-blue;
+  background-size:cover;
+  height: 339px;
+  background-position: center center;
 }
 
+.box {
+  margin-top:30px !important;
+  max-width: 363px;
+  width:100%;
+}
+// TOP
+
+// HEADER
 .header .wrapper-inner {
   padding: $global-padding/2 0; /*controls the height of the header*/
-}
-
-.header .container {
-
 }
 
 .header__columns {
@@ -106,9 +114,6 @@ table.button {
   background: #fff;
 }
 
-.footer__columns {
-}
-
 .footer__text {
   margin-top:10px;
   color: $dark-blue;
@@ -124,7 +129,6 @@ table.button {
 .footer__brand {
   max-width: 110px;
 }
-
 // FOOTER
 
 // POSTS
@@ -187,24 +191,6 @@ ul.posts_list {
   margin-top:0;
 }
 // POSTS
-
-
-// TOP
-.top {
-  background-image: url('https://assets.balena.io/newsletter/2019-02/header.png');
-  background-repeat: no-repeat;
-  background-color: $background-blue;
-  background-size:cover;
-  height: 339px;
-  background-position: center center;
-}
-
-.box {
-  margin-top:30px !important;
-  max-width: 363px;
-  width:100%;
-}
-// TOP
 
 // FEATURED
 .featured {
@@ -303,11 +289,9 @@ img.event_icon {
   background-color: #fff;
   padding-top:30px;
 }
-
 // EVENTS
 
 // PROJECT OF THE MONTH
-
 .projects_of_the_month__title {
   color: $dark-blue;
   font-size: 20px;
@@ -350,10 +334,9 @@ ul.projects_of_the_month {
     color: $dark-blue;
   }
 }
-
 // PROJECT OF THE MONTH
-// UNSUBSCRIBE
 
+// UNSUBSCRIBE
 .unsubscribe__text {
   color: $dark-blue;
   font-size: 12px;
@@ -370,20 +353,18 @@ ul.projects_of_the_month {
 //VIEW IN BROWSER
 
 // SOCIAL
+.social {
+  padding-left:20px;
+  font-size: 13px;
+  line-height: 2;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
 
-  .social {
-    padding-left:20px;
-    font-size: 13px;
-    line-height: 2;
-    font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+.social__button {
+  img {
+    width:12px;
   }
-
-  .social__button {
-    img {
-      width:12px;
-    }
-  }
-
+}
 // SOCIAL
 
 //JOBS

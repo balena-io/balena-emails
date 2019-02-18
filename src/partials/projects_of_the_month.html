@@ -4,11 +4,11 @@
 {{#each projects_of_the_month}}
   <row class="post">
     {{#if this.image}}
-    <columns large="4">
-      <center>
-        <img class="post__image" src="{{ this.image }}">
-      </center>
-    </columns>
+      <columns large="4">
+        <center>
+          <img class="post__image" src="{{ this.image }}">
+        </center>
+      </columns>
     {{/if}}
     <columns large="{{#if this.image}}8{{else}}12{{/if}}">
       {{#if this.title}}
@@ -20,6 +20,5 @@
       {{/if}}
     </columns>
   </row>
-  <!-- {{> hr}} -->
 {{/each}}
 
