@@ -23,7 +23,7 @@ hr {
 
 hr.header {
   max-width:550px;
-  color: #475969;
+  color: rgba(255, 255, 255, 0.1);
 }
 
 table.button {
@@ -80,7 +80,7 @@ table.button {
 }
 
 .header__title {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -94,6 +94,9 @@ table.button {
     text-align: center !important;
     float: none !important;
     margin: auto;
+  }
+  hr.header {
+    display: none;
   }
 }
 // HEADER
@@ -188,11 +191,12 @@ ul.posts_list {
 
 // TOP
 .top {
-  background-image: url('https://assets.balena.io/newsletter/2019-01/image1.gif');
+  background-image: url('https://assets.balena.io/newsletter/2019-02/header.png');
   background-repeat: no-repeat;
   background-color: $background-blue;
   background-size:cover;
-  height: 550px;
+  height: 339px;
+  background-position: center center;
 }
 
 .box {

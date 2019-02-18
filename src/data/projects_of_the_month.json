@@ -1,28 +1,21 @@
 [
    {
-      "title": "&bull; Pi-Hole & balenaCloud",
-      "text": "Kyle Harding created a setup to deploy a Pi-Hole stack using balenaCloud.",
-      "link": "https://github.com/klutchell/balena-pihole",
+      "title": "&bull; Sonar",
+      "text": "<a href=\"https://github.com/vpetersson\" targer=\"_blank\">@vpetersson</a> created a project to scan the area for Bluetooth low-energy (BLE) devices and produce user-friendly reports: <a href=\"https://github.com/databat-io/sonar\" target=\"_blank\">https://github.com/databat-io/sonar</a>" ,
+      "link": "https://github.com/databat-io/sonar",
+      "image": "https://assets.balena.io/newsletter/2019-02/sonar_daily_view.png"
+   },
+   {
+      "title": "&bull; Balena Dashboard",
+      "text": "Inspired by <a href=\"https://github.com/balena-io-projects/balena-dash\" targer=\"_blank\">balenaDash</a>, <a href=\"https://github.com/willswire\" targer=\"_blank\">@willswire</a> created an ElectronJS version of the project: <a href=\"https://github.com/willswire/balena-dashboards\" target=\"_blank\">https://github.com/willswire/balena-dashboards</a>" ,
+      "link": "https://github.com/willswire/balena-dashboards",
       "image": ""
    },
    {
-      "title": "&bull; Repetier server on balenaOS",
-      "text": "Nick Neisen published a tutorial on deploying Repetier server to drive a CNC machine (or 3D printer) in Docker on balenaOS.",
-      "link": "https://nixstuff.tech/how-to/running-repetier-server-on-rpi3-with-balena-os/",
+      "title": "&bull; Robot Army Fleet With Balena",
+      "text": "Mitch Allen wrote about updating your robot army fleet with balena: <a href=\"https://desertbot.io/blog/raspberry-pi-balena-resin\" target=\"_blank\">https://desertbot.io/blog/raspberry-pi-balena-resin</a>" ,
+      "link": "https://desertbot.io/blog/raspberry-pi-balena-resin",
       "image": ""
-   },
-   {
-      "title": "&bull; Live temperature readings for TEMPer devices",
-      "text": "Will Walker created a project to measure and display live temperature readings on a web page using TEMPer devices.",
-      "link": "https://github.com/williamwalker88/balena-temperatures",
-      "image": ""
-   },
-   {
-      "title": "Write about your balena projects, get swag!",
-      "text": "If you’ve built a project using any of our products, we’d love to hear about it! Write up what you’ve done on a site or in a blog post, then tweet us <a href=\"https://twitter.com/balena_io\" target=\"_blank\">@balena_io</a> with the <strong>#balenablog4swag</strong> hashtag and you could get a swag pack and hardware.",
-      "link": "https://forums.balena.io/t/the-return-of-blog4swag-share-your-resin-io-project-writeup-for-swag/726",
-      "image": "https://www.balena.io/blog/content/images/2018/11/swag.jpg",
-      "button": "Read more"
    },
    {
       "title": "",
@@ -31,4 +24,3 @@
       "image": ""
    }
 ]
-

@@ -1,16 +1,9 @@
 [
 	{
-		"title": "IoT Evolution Expo",
-		"date": "Jan 29 - Feb 1, 2019",
-		"location": "Fort Lauderdale, FL, USA",
-		"link": "https://www.iotevolutionexpo.com",
-		"attending": ""
-	},
-	{
-		"title": "The Things Conference",
-		"date": "Jan 31 - Feb 1, 2019",
-		"location": "Amsterdam, NL",
-		"link": "https://www.thethingsnetwork.org/conference/",
+		"title": "API Meetup Barcelona",
+		"date": "Feb 28, 2019",
+		"location": "Barcelona, Spain",
+		"link": "https://www.meetup.com/API-Meetup-Barcelona/events/258461375/",
 		"attending": "yes"
 	},
 	{
@@ -28,6 +21,20 @@
 		"attending": ""
 	},
 	{
+		"title": "Maker Faire Bay Area",
+		"date": "May 17 - 19, 2019",
+		"location": "San Mateo, CA, US",
+		"link": "https://makerfaire.com/bay-area",
+		"attending": ""
+	},
+	{
+		"title": "KubeCon / CloudNativeCon Europe",
+		"date": "May 20 - 23, 2019",
+		"location": "Barcelona, ES",
+		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019",
+		"attending": "yes"
+	},
+	{
 		"title": "Artificial Intelligence, Robotics & IoT conference",
 		"date": "Jul 16 - 17, 2019",
 		"location": "Amsterdam, NL",
@@ -35,3 +42,5 @@
 		"attending": ""
 	}
 ]
+
+
