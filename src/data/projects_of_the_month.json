@@ -1,20 +1,14 @@
 [
    {
-      "title": "ElectronJS Kiosk Boilerplate",
-      "text": "An ElectronJS boilerplate for developing kiosks, digital signage or other human-machine interaction projects. Will also sent in an <a href=\"https://link.medium.com/yPCG3j2rfS\" target=\"_blank\">accompanying article</a> - thanks Will!",
-      "link": "https://github.com/williamwalker88/balena-timestations",
-      "image": "https://assets.balena.io/newsletter/2018-12/image1.png"
+      "title": "&bull; Title",
+      "text": "Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text " ,
+      "link": "https://github.com/",
+      "image": "https://assets.balena.io/newsletter/2019-02/sonar_daily_view.png"
    },
    {
-      "title": "Electron + VueJS Starter Project",
-      "text": "Louis wrote an <a href=\"https://medium.com/@louis.rose/stop-struggling-with-kiosk-applications-modern-electron-vue-balena-workflow-1700cc9666dd\">accompanying guide</a> too - thanks Louis!",
-      "link": "https://github.com/Lurow/balena-electron-vuecli3",
-      "image": "https://assets.balena.io/newsletter/2018-12/image2.png"
-   },
-   {
-      "title": "DogTempTexter",
-      "text": "A Python project to monitor a temperature sensor and send text message alerts using Twilio.",
-      "link": "https://github.com/sako0938/DogTempTexter",
+      "title": "",
+      "text": "Feel free to give them a try and let the world know how you get on in the <a href=\"https://forums.balena.io\" target=\"_blank\">forums</a>; the authors of these projects would love to know how you’re using them.",
+      "link": "",
       "image": ""
    }
 ]

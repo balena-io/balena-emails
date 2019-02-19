@@ -11,7 +11,6 @@
 }
 
 // BASIC
-
 ul {
   padding: 0 16px;
 }
@@ -23,7 +22,7 @@ hr {
 
 hr.header {
   max-width:550px;
-  color: #475969;
+  color: rgba(255, 255, 255, 0.1);
 }
 
 table.button {
@@ -61,17 +60,26 @@ table.button {
 }
 // BASIC
 
-// HEADER
-.header {
-
+// TOP
+.top {
+  background-image: url('https://assets.balena.io/newsletter/2019-02/header.png');
+  background-repeat: no-repeat;
+  background-color: $background-blue;
+  background-size:cover;
+  height: 339px;
+  background-position: center center;
 }
 
+.box {
+  margin-top:30px !important;
+  max-width: 363px;
+  width:100%;
+}
+// TOP
+
+// HEADER
 .header .wrapper-inner {
   padding: $global-padding/2 0; /*controls the height of the header*/
-}
-
-.header .container {
-
 }
 
 .header__columns {
@@ -80,7 +88,7 @@ table.button {
 }
 
 .header__title {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -95,15 +103,15 @@ table.button {
     float: none !important;
     margin: auto;
   }
+  hr.header {
+    display: none;
+  }
 }
 // HEADER
 
 // FOOTER
 .footer {
   background: #fff;
-}
-
-.footer__columns {
 }
 
 .footer__text {
@@ -121,7 +129,6 @@ table.button {
 .footer__brand {
   max-width: 110px;
 }
-
 // FOOTER
 
 // POSTS
@@ -184,23 +191,6 @@ ul.posts_list {
   margin-top:0;
 }
 // POSTS
-
-
-// TOP
-.top {
-  background-image: url('https://assets.balena.io/newsletter/2018-12/header.gif');
-  background-repeat: no-repeat;
-  background-color: $background-blue;
-  background-size:cover;
-  height: 550px;
-}
-
-.box {
-  margin-top:30px !important;
-  max-width: 363px;
-  width:100%;
-}
-// TOP
 
 // FEATURED
 .featured {
@@ -299,11 +289,9 @@ img.event_icon {
   background-color: #fff;
   padding-top:30px;
 }
-
 // EVENTS
 
 // PROJECT OF THE MONTH
-
 .projects_of_the_month__title {
   color: $dark-blue;
   font-size: 20px;
@@ -346,10 +334,9 @@ ul.projects_of_the_month {
     color: $dark-blue;
   }
 }
-
 // PROJECT OF THE MONTH
-// UNSUBSCRIBE
 
+// UNSUBSCRIBE
 .unsubscribe__text {
   color: $dark-blue;
   font-size: 12px;
@@ -366,20 +353,18 @@ ul.projects_of_the_month {
 //VIEW IN BROWSER
 
 // SOCIAL
+.social {
+  padding-left:20px;
+  font-size: 13px;
+  line-height: 2;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+}
 
-  .social {
-    padding-left:20px;
-    font-size: 13px;
-    line-height: 2;
-    font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+.social__button {
+  img {
+    width:12px;
   }
-
-  .social__button {
-    img {
-      width:12px;
-    }
-  }
-
+}
 // SOCIAL
 
 //JOBS
@@ -393,7 +378,7 @@ ul.projects_of_the_month {
 }
 
 .job_content {
-  padding-top:70px;
+  padding-top:40px;
   padding-left:100px;
 
   table.job_button {

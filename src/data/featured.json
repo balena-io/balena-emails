@@ -1,8 +1,7 @@
 {
-	"title": "Happy Holidays from balena!",
-	"tags": [""],
-	"text": "It’s now December, which means our final newsletter of the year; next time you hear from us it’ll be January 2019! We hope you’re all looking forward to the festive season, and for our readers in the US, that you had a great Thanksgiving holiday last month. We’ve got some really cool stuff to tell you about this month so let’s get to it.",
-	"link": "https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/",
-	"image": "https://www.balena.io/blog/content/images/2018/11/the-team.png",
+	"title": "February news from balena!",
+	"text": "Phew! It’s February already and it’s been a busy start to the year in balena-land. We’ve got a few of our own projects to share with you this month, but of course we have some more stuff shared by the community too -- you guys continue to impress us with your innovative use of the platform.<br><br>Last month we gave you an update on our <a href=\"https://www.balena.io/blog/state-of-the-etcher-pro/\" target=\"_blank\">progress with EtcherPro</a>, and since then we’ve posted a few more images over in our forums; <a href=\"https://forums.balena.io/t/more-progress-on-etcherpro/5061\" target=\"_blank\">have a look here</a> to see the latest progress on our prototypes.<br><br>If you’ve got anything you’d like to see featured, get in touch at <b>hello@balena.io</b>, let us know in our forums at <a href=\"https://forums.balena.io\" target=\"_blank\">https://forums.balena.io</a>, on Twitter <a href=\"https://twitter.com/balena_io\" target=\"_blank\">@balena_io</a>, on Instagram <a href=\"https://www.instagram.com/balena_io/\" target=\"_blank\">@balena_io</a> or <a href=\"https://www.facebook.com/balenacloud\" target=\"_blank\">on Facebook</a>. We always love to see what you’ve been working on!",
+	"link": "",
+	"image": "",
 	"button": ""
 }
