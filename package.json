@@ -1,6 +1,6 @@
 {
   "name": "resin-emails",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "resin.io email generator.",
   "repository": "resin-io/resin-emails",
   "main": "gulpfile.babel.js",
