@@ -1,0 +1,33 @@
+<div class="posts_smart">
+  <img class="logo_icon posts_smart_title" src="https://assets.balena.io/newsletter/balena-icon.png">
+  <p class="posts_smart_title_text">The latest from our blog</p>
+</div>
+
+
+<ul class="posts_list">
+  {{#each news_from_blog}}
+    <li>
+        <table>
+            <tr>
+              <th width="33%" valign="top">
+                {{#if this.image}}
+                <a target="_blank" href="{{ this.link }}">
+                  <img class="post_img" src="{{this.image}}">
+                </a>
+                {{/if}}
+              </th>
+              <th width="66%" style="padding-left:24px;">     
+                <h4 class="post__title"><a target="_blank" href="{{ this.link }}">{{{ this.title }}}</a></h4>
+                {{#if this.text}}
+                  <p class="post__text">{{{ this.text }}}</p>
+                {{/if}} 
+                {{#if this.button}}
+                  <button class="medium rounded" target="_blank" href="{{ this.link }}">{{ this.button }}</button>
+                {{/if}}
+              </th>
+            </tr>
+         </table>
+    </li>  
+    {{> hr}}
+  {{/each}}
+</ul>

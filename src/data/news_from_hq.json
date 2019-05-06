@@ -1,0 +1,16 @@
+[
+   {
+      "title": "Now shipping: all balenaFin v1.1 variants, available in volume",
+      "text": "Last month we announced that the <a href=\"https://www.balena.io/fin/\" target=\"_blank\">balenaFin v1.1</a> is now shipping at scale in all variants (8/16/32/64GB). If you didn’t hear, balenaFin is our industrialized carrier board for the Raspberry Pi Compute Module; read the announcement on our <a href=\"https://www.balena.io/blog/announcing-balenafin-v1-1/\" target=\"_blank\">blog</a>.",
+      "link": "https://store.balena.io/collections/frontpage",
+      "image": "https://assets.balena.io/newsletter/2019-05/fin.jpg",
+      "button": "Order balenaFin now"
+   },
+   {
+      "title": "New device support: Nvidia Jetson Nano",
+      "text": "Lots of people around the world have been getting their hands on the new <a href=\"https://developer.nvidia.com/embedded/buy/jetson-nano-devkit\" target=\"_blank\">Nvidia Jetson Nano</a> developer kit. “The power of modern AI is now available for makers, learners, and embedded developers everywhere, for just $99.”<br><br>We’re pleased to announce that we’ve now added beta support for this exciting new board to balenaCloud and balenaOS. We’re going to be building some example projects soon and we’d love to see what you come up with too.",
+      "link": "https://www.balena.io/docs/learn/getting-started/jetson-nano/nodejs/",
+      "image": "https://assets.balena.io/newsletter/2019-05/nvidia.jpg",
+      "button": "Get started with the Jetson Nano"
+   }
+]

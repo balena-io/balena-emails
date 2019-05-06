@@ -1,26 +1,5 @@
 [
 	{
-		"title": "API Meetup Barcelona",
-		"date": "Feb 28, 2019",
-		"location": "Barcelona, Spain",
-		"link": "https://www.meetup.com/API-Meetup-Barcelona/events/258461375/",
-		"attending": "yes"
-	},
-	{
-		"title": "Industry of Things World USA",
-		"date": "Mar 7 - 8, 2019",
-		"location": "San Diego, CA, USA",
-		"link": "https://www.industryofthingsworldusa.com/",
-		"attending": ""
-	},
-	{
-		"title": "IoT Tech Global Expo",
-		"date": "Apr 25 - 26, 2019",
-		"location": "London, UK",
-		"link": "https://www.iottechexpo.com/global",
-		"attending": ""
-	},
-	{
 		"title": "Maker Faire Bay Area",
 		"date": "May 17 - 19, 2019",
 		"location": "San Mateo, CA, US",
@@ -35,6 +14,13 @@
 		"attending": "yes"
 	},
 	{
+		"title": "mDevCamp",
+		"date": "May 31, 2019",
+		"location": "Prague, CZ",
+		"link": "https://www.mdevcamp.eu",
+		"attending": "yes"
+	},
+	{
 		"title": "Artificial Intelligence, Robotics & IoT conference",
 		"date": "Jul 16 - 17, 2019",
 		"location": "Amsterdam, NL",
@@ -42,5 +28,3 @@
 		"attending": ""
 	}
 ]
-
-

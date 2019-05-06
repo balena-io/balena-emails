@@ -1,14 +1,21 @@
 [
    {
-      "title": "&bull; Title",
-      "text": "Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text Ipsum Dolor Text " ,
-      "link": "https://github.com/",
-      "image": "https://assets.balena.io/newsletter/2019-02/sonar_daily_view.png"
+      "title": "&bull; EdgeX on balenaCloud",
+      "text": "<a href=\"http://odyslam.me\">Odysseas Lamtzidis</a> wrote a guide to take you through the process of <a href=\"https://medium.com/@odysseaslamtzidis/edgex-balena-walkthrough-tutorial-6a5b288aa472\" target=\"_blank\">getting set up with EdgeX on balenaCloud</a>. P.S. his personal site is pretty cool, <a href=\"http://odyslam.me/\" target=\"_blank\">check it out</a>." ,
+      "link": "https://medium.com/@odysseaslamtzidis/edgex-balena-walkthrough-tutorial-6a5b288aa472",
+      "image": ""
    },
    {
-      "title": "",
-      "text": "Feel free to give them a try and let the world know how you get on in the <a href=\"https://forums.balena.io\" target=\"_blank\">forums</a>; the authors of these projects would love to know how you’re using them.",
-      "link": "",
+      "title": "&bull; Monitor data centers with balena",
+      "text": "<a href=\"https://github.com/MelonSmasher\" target=\"_blank\">@MelonSmasher</a> created this <a href=\"https://forums.balena.io/t/data-center-temperature-and-humidity-probe-piprobe/6130\" target=\"_blank\">project to monitor data centers</a>, which takes temperature and humidity readings and sends them to InfluxDB.",
+      "link": "https://forums.balena.io/t/data-center-temperature-and-humidity-probe-piprobe/6130",
+      "image": ""
+   },
+   {
+      "title": "&bull; Calibre Server",
+      "text": "<a href=\"https://github.com/imrehg\" target=\"_blank\">@imrehg</a> is back at it again, and has created a setup to run <a href=\"https://forums.balena.io/t/calibre-server-for-your-e-books-library/6022\" target=\"_blank\">Calibre Server for your e-books library</a>",
+      "link": "https://forums.balena.io/t/calibre-server-for-your-e-books-library/6022",
       "image": ""
    }
 ]
+

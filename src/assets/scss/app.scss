@@ -22,7 +22,7 @@ hr {
 
 hr.header {
   max-width:550px;
-  color: rgba(255, 255, 255, 0.1);
+ color: rgba(42, 80, 111, 0.05);
 }
 
 table.button {
@@ -62,11 +62,11 @@ table.button {
 
 // TOP
 .top {
-  background-image: url('https://assets.balena.io/newsletter/2019-02/header.png');
+  background-image: url('https://assets.balena.io/newsletter/2019-05/header.png');
   background-repeat: no-repeat;
-  background-color: $background-blue;
-  background-size:cover;
-  height: 339px;
+  background-color:#fff;
+  background-size:contain;
+  height: 420px;
   background-position: center center;
 }
 
@@ -88,7 +88,7 @@ table.button {
 }
 
 .header__title {
-  color: rgba(255, 255, 255, 0.7);
+  color: #2a506f;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -132,20 +132,53 @@ table.button {
 // FOOTER
 
 // POSTS
-.post__title {
+.post__title, .post__title a {
   margin-bottom: 16px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
   line-height: 1.35;
   letter-spacing: normal;
-  color: $dark-blue;
+  color:  #2A506F;
   font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+
+}
+
+.posts_smart {
+  width:100%;
+  margin-bottom:40px;
+}
+
+.posts_smart_title {
+  text-align: left;
+}
+
+.posts_smart_title_text {
+  font-size: 27px;
+  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  color: #2a506f;
+  margin-bottom: none;
+}
+
+.post_img {
+  width:100%;
+  max-width: 178px;
+}
+
+.logo_icon {
+  width:100%;
+  max-width: 28px;
+  float:left;
+  padding-right:14px;
 }
 
 
 ul.posts_list {
+  padding-left:0px;
   list-style: none;
   margin-top:0px;
   margin-bottom:0px;
@@ -320,8 +353,13 @@ ul.projects_of_the_month {
 
 .projects_of_the_month__project_title {
   font-weight: bold;
-  color: $light-blue;
+  font-size:13px;
+  color: $dark-blue;
+  line-height: 21px;
   &:hover {
+    color: $light-blue;
+  }
+  &:visited {
     color: $dark-blue;
   }
 }
@@ -329,8 +367,12 @@ ul.projects_of_the_month {
 .projects_of_the_month__project_text {
   font-size:13px;
   color: $dark-blue;
+  
   line-height: 21px;
-  a:hover {
+  &:link {
+    color: $light-blue;
+  }
+  &:hover {
     color: $dark-blue;
   }
 }

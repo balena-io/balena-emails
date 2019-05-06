@@ -1,0 +1,37 @@
+[
+   {
+      "title": "Build your own network camera you can access from anywhere with balenaCam",
+      "text": "If you’ve got a Raspberry Pi and a camera, you can build this project which utilizes WebRTC to share your camera feed over the internet. You can use the public URL feature within balenaCloud to share the video, or view it remotely, without having to set up any firewall rules. If you don’t have a Pi camera, you can also use some USB webcams with the project too. Give it a try and let us know what you think in <a href=\"https://forums.balena.io\" target=\"_blank\">the forums</a>!",
+      "link": "https://www.balena.io/blog/build-a-raspberry-pi-based-network-camera/",
+      "image": "https://assets.balena.io/newsletter/2019-05/balenacam.jpg",
+      "button": "Build your balenaCam"
+   },
+   {
+      "title": "Keep your device online during power outages; a UPS roundup",
+      "text": "Sometimes, the only way to get your fresh IoT produce deployed means utilizing power sources that aren’t always the most reliable. The last thing you want is to have to drive to a remote location to rescue a device that’s been corrupted due to power cuts and brownouts. We take a look at the myriad of options available to help you keep devices online and perform safe shutdowns.",
+      "link": "https://www.balena.io/blog/how-to-keep-your-device-up-and-running-during-power-outages/",
+      "image": "https://assets.balena.io/newsletter/2019-05/ups.jpg",
+      "button": "Find out more"
+   },
+   {
+      "title": "Using the PiJuice with balenaCloud and Twilio",
+      "text": "As a follow-up to the UPS roundup, we then took a look at the PiJuice HAT. We look at setting it up within a balenaCloud application, and then sending battery information and device metrics back to the device dashboard to be seen centrally. In addition, we cover the integration with a <a href=\"https://www.twilio.com/\" target=\"_blank\">Twilio</a> account, in order to send SMS notifications when a device goes offline.",
+      "link": "https://www.balena.io/blog/how-to-protect-your-device-with-pijuice-and-balenacloud/",
+      "image": "https://assets.balena.io/newsletter/2019-05/pijuice.jpg",
+      "button": "Find out more"
+   },
+   {
+      "title": "Sensors and Data Logging with Embedded Linux - The Ultimate Guide",
+      "text": "We’ve just posted the third and final part of  our epic  ’Ultimate guide to using sensors and data logging with embedded Linux’. Part 1 covers addingsensors to your system, the use of industrial I/O, creating custom device-type overlays and more. Part 2 goes into reading, storing and presenting the captured data. Part 3 covers the use of balenaCloud to deploy multiple devices and capture data from them all. There’s a mountain of seriously useful information here - definitely one to check out if you’re using sensors to capture data in your project, and, of course, all the code has been shared on GitHub so you can use this as a starting point for your own projects.",
+      "link": "https://www.balena.io/blog/sensors-and-data-logging-with-embedded-linux-the-ultimate-guide-part-1/",
+      "image": "https://assets.balena.io/newsletter/2019-05/datalog.png",
+      "button": "Read now"
+   },
+   {
+      "title": "Hedley reports on how we develop balena, on balena (BoB)",
+      "text": "One of our engineers, Hedley, goes into depth about the development environment we use here at balena. We use balenaCloud ourselves (becoming our own customer) to provision and deploy devices to our development team, meaning we can ensure every member of the team has a working and uniform development environment that we can easily maintain remotely. It’s a truly interesting read, and as a bonus feature, it’s also detailed how the entire balenaCloud stack was set up and deployed to a <a href=\"https://balena.io/fin\" target=\"_blank\">balenaFin</a>!",
+      "link": "https://www.balena.io/blog/how-we-develop-balenacloud-using-balenacloud/",
+      "image": "https://assets.balena.io/newsletter/2019-05/bob.png",
+      "button": "Check it out"
+   }
+]
