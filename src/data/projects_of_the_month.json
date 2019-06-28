@@ -1,21 +1,23 @@
 [
    {
-      "title": "&bull; EdgeX on balenaCloud",
-      "text": "<a href=\"http://odyslam.me\">Odysseas Lamtzidis</a> wrote a guide to take you through the process of <a href=\"https://medium.com/@odysseaslamtzidis/edgex-balena-walkthrough-tutorial-6a5b288aa472\" target=\"_blank\">getting set up with EdgeX on balenaCloud</a>. P.S. his personal site is pretty cool, <a href=\"http://odyslam.me/\" target=\"_blank\">check it out</a>." ,
-      "link": "https://medium.com/@odysseaslamtzidis/edgex-balena-walkthrough-tutorial-6a5b288aa472",
+      "title": "&bull; API controllable webcam project",
+      "text": "<a href=\"https://murt.is/\" target=\"_blank\">murtis</a> built an <a href=\"https://github.com/curtismuntz/witness\" target=\"_blank\">API controllable webcam project</a> called witness and is using it as part of an automated robotics testing procedure - very cool.",
+      "link": "https://github.com/curtismuntz/witness",
       "image": ""
    },
    {
-      "title": "&bull; Monitor data centers with balena",
-      "text": "<a href=\"https://github.com/MelonSmasher\" target=\"_blank\">@MelonSmasher</a> created this <a href=\"https://forums.balena.io/t/data-center-temperature-and-humidity-probe-piprobe/6130\" target=\"_blank\">project to monitor data centers</a>, which takes temperature and humidity readings and sends them to InfluxDB.",
-      "link": "https://forums.balena.io/t/data-center-temperature-and-humidity-probe-piprobe/6130",
+      "title": "&bull; Building-a-nanny-bot",
+      "text": "Robert is documenting the process of assembling a build of the <a href=\"https://github.com/NVIDIA-AI-IOT/jetbot\" target=\"_blank\">Nvidia Jetbot</a> on <a href=\"https://forums.balena.io/t/building-a-nanny-bot/10052\" target=\"_blank\">our forums</a>, with the intention of turning it into a “nanny bot” to help amuse his daughter. Childcare for the next generation!",
+      "link": "https://forums.balena.io/t/building-a-nanny-bot/10052",
       "image": ""
    },
    {
-      "title": "&bull; Calibre Server",
-      "text": "<a href=\"https://github.com/imrehg\" target=\"_blank\">@imrehg</a> is back at it again, and has created a setup to run <a href=\"https://forums.balena.io/t/calibre-server-for-your-e-books-library/6022\" target=\"_blank\">Calibre Server for your e-books library</a>",
-      "link": "https://forums.balena.io/t/calibre-server-for-your-e-books-library/6022",
+      "title": "&bull; Swift on Raspberry Pi",
+      "text": "<a href=\"https://twitter.com/wlisac\" target=\"_blank\">@wlisac</a> published <a href=\"https://github.com/wlisac/swift-on-balena\" target=\"_blank\">Docker images to run Swift on Raspberry Pi and other ARM devices</a>. There’s also a <a href=\"https://github.com/wlisac/balena-swift-hello-world\" target=\"_blank\">hello world sample project</a> to get you started.",
+      "link": "https://github.com/wlisac/swift-on-balena",
       "image": ""
    }
 ]
+
+
 

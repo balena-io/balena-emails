@@ -1,30 +1,37 @@
 [
 	{
-		"title": "Maker Faire Bay Area",
-		"date": "May 17 - 19, 2019",
-		"location": "San Mateo, CA, US",
-		"link": "https://makerfaire.com/bay-area",
+		"title": "IoT Tech Expo Europe",
+		"date": "Jun 19 - 20, 2019",
+		"location": "Amsterdam, NL",
+		"link": "https://www.iottechexpo.com/",
 		"attending": ""
 	},
 	{
-		"title": "KubeCon / CloudNativeCon Europe",
-		"date": "May 20 - 23, 2019",
-		"location": "Barcelona, ES",
-		"link": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019",
-		"attending": "yes"
-	},
-	{
-		"title": "mDevCamp",
-		"date": "May 31, 2019",
-		"location": "Prague, CZ",
-		"link": "https://www.mdevcamp.eu",
-		"attending": "yes"
+		"title": "Sensors Expo",
+		"date": "Jun 26 - 27, 2019",
+		"location": "San Jose, CA, US",
+		"link": "https://www.sensorsexpo.com/",
+		"attending": ""
 	},
 	{
 		"title": "Artificial Intelligence, Robotics & IoT conference",
 		"date": "Jul 16 - 17, 2019",
 		"location": "Amsterdam, NL",
 		"link": "https://artificialintelligence-iot.enggconferences.com",
+		"attending": ""
+	},
+	{
+		"title": "Embedded Linux Conference",
+		"date": "Aug 21 - 23, 2019",
+		"location": "San Diego, CA, US",
+		"link": "https://events.linuxfoundation.org/events/elc-north-america-2019",
+		"attending": ""
+	},
+	{
+		"title": "Hackaday Superconference",
+		"date": "Nov 15 - 17, 2019",
+		"location": "Pasadena, CA, US",
+		"link": "https://hackaday.io/superconference/",
 		"attending": ""
 	}
 ]

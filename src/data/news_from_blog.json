@@ -1,37 +1,23 @@
 [
    {
-      "title": "Build your own network camera you can access from anywhere with balenaCam",
-      "text": "If you’ve got a Raspberry Pi and a camera, you can build this project which utilizes WebRTC to share your camera feed over the internet. You can use the public URL feature within balenaCloud to share the video, or view it remotely, without having to set up any firewall rules. If you don’t have a Pi camera, you can also use some USB webcams with the project too. Give it a try and let us know what you think in <a href=\"https://forums.balena.io\" target=\"_blank\">the forums</a>!",
-      "link": "https://www.balena.io/blog/build-a-raspberry-pi-based-network-camera/",
-      "image": "https://assets.balena.io/newsletter/2019-05/balenacam.jpg",
-      "button": "Build your balenaCam"
+      "title": "Use balenaFin to build your own LoRa Gateway for The Things Network",
+      "text": "We’ve taken a look at deploying a gateway for TTN on our blog in the past, but this time we’re going to look at setting one up using the new balenaFin with plug and play hardware! We’ll use the onboard mPCIe slot to interface with a RAK Wireless LoRa module, and use an Adafruit GPS HAT on top to give us location and timing information, then we’ll deploy the software using balenaCloud to allow us to remotely manage and update the gateway.",
+      "link": "https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/",
+      "image": "https://assets.balena.io/newsletter/2019-06/gateway.jpg",
+      "button": "Find out how"
    },
    {
-      "title": "Keep your device online during power outages; a UPS roundup",
-      "text": "Sometimes, the only way to get your fresh IoT produce deployed means utilizing power sources that aren’t always the most reliable. The last thing you want is to have to drive to a remote location to rescue a device that’s been corrupted due to power cuts and brownouts. We take a look at the myriad of options available to help you keep devices online and perform safe shutdowns.",
-      "link": "https://www.balena.io/blog/how-to-keep-your-device-up-and-running-during-power-outages/",
-      "image": "https://assets.balena.io/newsletter/2019-05/ups.jpg",
-      "button": "Find out more"
+      "title": "Monitor your fleet at the edge with Prometheus and Grafana",
+      "text": "Properly monitoring a fleet of devices is an evolving art. One of the current leaders in the server world for application and hardware monitoring is Prometheus, both for bare metal and as a first-class citizen in the Kubernetes world. In order to reduce the friction between the edge and the cloud, Matthew McGinn from our team takes a look at monitoring your entire fleet using Prometheus and creating a dashboard to visualize the metrics with Grafana.",
+      "link": "https://www.balena.io/blog/monitoring-the-edge-with-prometheus-pt-1/",
+      "image": "https://assets.balena.io/newsletter/2019-06/Prometheus-Grafana.jpg",
+      "button": "Monitor your fleet"
    },
    {
-      "title": "Using the PiJuice with balenaCloud and Twilio",
-      "text": "As a follow-up to the UPS roundup, we then took a look at the PiJuice HAT. We look at setting it up within a balenaCloud application, and then sending battery information and device metrics back to the device dashboard to be seen centrally. In addition, we cover the integration with a <a href=\"https://www.twilio.com/\" target=\"_blank\">Twilio</a> account, in order to send SMS notifications when a device goes offline.",
-      "link": "https://www.balena.io/blog/how-to-protect-your-device-with-pijuice-and-balenacloud/",
-      "image": "https://assets.balena.io/newsletter/2019-05/pijuice.jpg",
-      "button": "Find out more"
-   },
-   {
-      "title": "Sensors and Data Logging with Embedded Linux - The Ultimate Guide",
-      "text": "We’ve just posted the third and final part of  our epic  ’Ultimate guide to using sensors and data logging with embedded Linux’. Part 1 covers addingsensors to your system, the use of industrial I/O, creating custom device-type overlays and more. Part 2 goes into reading, storing and presenting the captured data. Part 3 covers the use of balenaCloud to deploy multiple devices and capture data from them all. There’s a mountain of seriously useful information here - definitely one to check out if you’re using sensors to capture data in your project, and, of course, all the code has been shared on GitHub so you can use this as a starting point for your own projects.",
-      "link": "https://www.balena.io/blog/sensors-and-data-logging-with-embedded-linux-the-ultimate-guide-part-1/",
-      "image": "https://assets.balena.io/newsletter/2019-05/datalog.png",
-      "button": "Read now"
-   },
-   {
-      "title": "Hedley reports on how we develop balena, on balena (BoB)",
-      "text": "One of our engineers, Hedley, goes into depth about the development environment we use here at balena. We use balenaCloud ourselves (becoming our own customer) to provision and deploy devices to our development team, meaning we can ensure every member of the team has a working and uniform development environment that we can easily maintain remotely. It’s a truly interesting read, and as a bonus feature, it’s also detailed how the entire balenaCloud stack was set up and deployed to a <a href=\"https://balena.io/fin\" target=\"_blank\">balenaFin</a>!",
-      "link": "https://www.balena.io/blog/how-we-develop-balenacloud-using-balenacloud/",
-      "image": "https://assets.balena.io/newsletter/2019-05/bob.png",
-      "button": "Check it out"
+      "title": "Deploy a fleet of environmental sensors with balena & InfluxDB",
+      "text": "Last month balena user Alex Markessinis released a project based on balenaSense to manage the temperature and humidity of a data center and upload the data to an external InfluxDB database. Check out this project to find out how to pull information from a fleet of sensor nodes and bring it all together in a central database.",
+      "link": "https://www.balena.io/blog/deploy-a-fleet-of-environmental-sensors-with-balena-influxdb/",
+      "image": "https://assets.balena.io/newsletter/2019-06/InfluxDB.jpg",
+      "button": "Deploy all the sensors"
    }
 ]

@@ -1,7 +1,9 @@
 {
 	"title": "",
-	"text": "OK, so we’re a little late for <a href=\"https://losangeles.cbslocal.com/2019/05/02/star-wars-california-may-fourth-disneyland/\" target=\"_blank\">Star Wars Day</a>, but we do have a record month in terms of content. You, our community, have continued to build amazing things on the <a href=\"https://www.balena.io/cloud\" target=\"_blank\">balenaCloud</a> platform and our team has been busy working on some interesting blog posts too.<br><br>We’ve got a lot to cover so let’s get to it!",
+	"text": "What’s happening, folks? Here’s your monthly dose of balena-fuelled projects and tutorials! This month we’re <a href=\"https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/\" target=\"_blank\">building LoRa gateways</a>, <a href=\"https://www.balena.io/blog/monitoring-the-edge-with-prometheus-pt-1/\" target=\"_blank\">monitoring the edge</a> and <a href=\"https://www.balena.io/blog/deploy-a-fleet-of-environmental-sensors-with-balena-influxdb/\" target=\"_blank\">deploying sensors</a>, with <a href=\"https://balena.io/cloud\" target=\"_blank\">balenaCloud</a>. In addition to that our community has been <a href=\"https://forums.balena.io/t/building-a-nanny-bot/10052\" target=\"_blank\">building robots</a>, <a href=\"https://forums.balena.io/t/witness-an-api-callable-webcam/12758\" target=\"_blank\">testing robots</a> and running <a href=\"https://forums.balena.io/t/swift-on-balena-a-swift-language-stack-for-balena/9586\" target=\"_blank\">Swift on Raspberry Pi</a>.<br><br>Take a look at all this great content and let us know what you think in <a href=\"https://forums.balena.io/c/breakroom\" target=\"_blank\">the breakroom</a>. See you next month!",
 	"link": "",
 	"image": "",
 	"button": ""
 }
+
+
