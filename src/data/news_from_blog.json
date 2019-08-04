@@ -1,23 +1,23 @@
 [
    {
-      "title": "Use balenaFin to build your own LoRa Gateway for The Things Network",
-      "text": "We’ve taken a look at deploying a gateway for TTN on our blog in the past, but this time we’re going to look at setting one up using the new balenaFin with plug and play hardware! We’ll use the onboard mPCIe slot to interface with a RAK Wireless LoRa module, and use an Adafruit GPS HAT on top to give us location and timing information, then we’ll deploy the software using balenaCloud to allow us to remotely manage and update the gateway.",
-      "link": "https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/",
-      "image": "https://assets.balena.io/newsletter/2019-06/gateway.jpg",
-      "button": "Find out how"
+      "title": "Bring a dummy security camera to life, using a Raspberry Pi and WebRTC",
+      "text": "A few weeks ago we released a project called <a href=\"https://github.com/balena-io-playground/balena-cam\" target=\"_blank\">balenaCam</a> where @mbalamat developed an application running on balenaOS that initiates a WebRTC video streaming connection between the server (a Raspberry Pi, for example) and the client. Once the main core of the application was stable, we decided to challenge ourselves and take the project down a slightly different route; turning a fake CCTV Camera into a real working CCTV Camera, where we control the software running on it 🤯.",
+      "link": "https://www.balena.io/blog/bring-a-dummy-security-camera-to-life-using-a-raspberry-pi-and-webrtc/",
+      "image": "https://assets.balena.io/newsletter/2019-07/dummy-camera.jpg",
+      "button": "Build your own"
    },
    {
-      "title": "Monitor your fleet at the edge with Prometheus and Grafana",
-      "text": "Properly monitoring a fleet of devices is an evolving art. One of the current leaders in the server world for application and hardware monitoring is Prometheus, both for bare metal and as a first-class citizen in the Kubernetes world. In order to reduce the friction between the edge and the cloud, Matthew McGinn from our team takes a look at monitoring your entire fleet using Prometheus and creating a dashboard to visualize the metrics with Grafana.",
-      "link": "https://www.balena.io/blog/monitoring-the-edge-with-prometheus-pt-1/",
-      "image": "https://assets.balena.io/newsletter/2019-06/Prometheus-Grafana.jpg",
-      "button": "Monitor your fleet"
+      "title": "Aggregate data from a fleet of sensors with balenaSense and InfluxDB",
+      "text": "Back in March, we wrote about balenaSense, our project to monitor air quality with a Raspberry Pi, Grafana and InfluxDB. Lots of you have been using this project and giving great feedback, and one of the requested features was the ability to take data from multiple balenaSense devices and bring it together for monitoring centrally. We’ve updated the project to v1.5 to include this functionality, so we take a look at that here and use it as an opportunity to test the new InfluxDB Cloud 2.0 Beta!",
+      "link": "https://www.balena.io/blog/aggregate-data-from-a-fleet-of-sensors-with-balenasense-and-influxdb/",
+      "image": "https://assets.balena.io/newsletter/2019-07/balenaSense.jpg",
+      "button": "Aggregate your data!"
    },
    {
-      "title": "Deploy a fleet of environmental sensors with balena & InfluxDB",
-      "text": "Last month balena user Alex Markessinis released a project based on balenaSense to manage the temperature and humidity of a data center and upload the data to an external InfluxDB database. Check out this project to find out how to pull information from a fleet of sensor nodes and bring it all together in a central database.",
-      "link": "https://www.balena.io/blog/deploy-a-fleet-of-environmental-sensors-with-balena-influxdb/",
-      "image": "https://assets.balena.io/newsletter/2019-06/InfluxDB.jpg",
-      "button": "Deploy all the sensors"
+      "title": "It's a sign: build a remote-controlled digital display with Screenly OSE and Raspberry Pi",
+      "text": "Try this project to get up and running with a display you can control remotely to display photos, videos, dashboards, web pages, and digital signage. We’ll walk you through how to set up a digital sign using balenaCloud and Screenly OSE, the most popular open-source digital signage solution for the Raspberry Pi. After implementing this project, you’ll be able to display and manage images, videos, and even live web page content on a digital sign.",
+      "link": "https://www.balena.io/blog/deploy-free-digital-signage-software-screenly-ose/",
+      "image": "https://assets.balena.io/newsletter/2019-07/screenly.jpg",
+      "button": "Check it out"
    }
 ]

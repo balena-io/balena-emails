@@ -65,10 +65,10 @@ table.button {
   background-image: url('https://assets.balena.io/newsletter/2019-06/hero_classic.png');
   background-repeat: no-repeat;
   // background-color:#00aff4;
-  background-color:#fff;
+  background-color:#00aff4;
   background-size:contain;
   height: 384px;
-  background-position: center center;
+  background-position: center bottom;
 }
 
 .box {
@@ -101,7 +101,7 @@ table.button {
 @media only screen and (max-width: #{$global-breakpoint}) {
 
   .top {
-    height:200px !important;
+    height:300px !important;
   }
 
   .header__title, .header__brand {
@@ -133,7 +133,11 @@ table.button {
 }
 
 .footer__brand {
-  max-width: 110px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width:32px;
 }
 // FOOTER
 
@@ -167,8 +171,8 @@ table.button {
   font-style: normal;
   font-stretch: normal;
   color: #2a506f;
+  width:100%;
   margin-bottom: none;
-  max-width: 200px;
 }
 
 .post_img {

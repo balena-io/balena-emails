@@ -1,17 +1,9 @@
 [
    {
-      "title": "Supercharge your Dev workflow",
-      "text": "The v11 release of the balena CLI comes jam packed with exciting new features to supercharge your balena workflow. Checkout our blog post <a href=\"https://www.balena.io/blog/living-on-the-edge-with-livepush-and-other-cli-improvements/\" target=\"_blank\">here</a> to see how livepush changes the game.",
-      "link": "https://www.balena.io/blog/living-on-the-edge-with-livepush-and-other-cli-improvements/",
-      "image": "https://assets.balena.io/newsletter/2019-06/devtools.png",
-      "button": "Check it out"
-   },
-   {
-      "title": "The secret secrets feature",
-      "text": "One of the little known secrets of the CLI is that it includes the ability to push projects with secret keys and variables that are only mounted during build. This allows one to use secret info at build time which never makes it down to your devices. You can read more about this feature in our <a href=\"https://www.balena.io/docs/learn/deploy/deployment/#build-time-secrets-and-variables\" target=\"_blank\">documentation</a>.",
-      "link": "https://www.balena.io/docs/learn/deploy/deployment/#build-time-secrets-and-variables",
+      "title": "Shaun’s secrets",
+      "text": "This months secret is the balena tunnel command in our CLI and it’s newly added ability to map any port on your laptops localhost to any port on your remote balenaOS device. This is super useful if you want scp data to your device or have something like RealVNC viewer running in your container and don’t want use the standard port 80 or 8080. You can learn more about balena tunnel in our documentation <a href=\"https://www.balena.io/docs/reference/cli/#tunnel-deviceorapplication\" target=\"_blank\">here</a>.",
+      "link": "https://www.balena.io/docs/reference/cli/#tunnel-deviceorapplication",
       "image": "https://assets.balena.io/newsletter/2019-06/secret.jpg",
       "button": "Check the documentation"
    }
 ]
-

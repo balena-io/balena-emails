@@ -1,19 +1,19 @@
 [
    {
-      "title": "&bull; API controllable webcam project",
-      "text": "<a href=\"https://murt.is/\" target=\"_blank\">murtis</a> built an <a href=\"https://github.com/curtismuntz/witness\" target=\"_blank\">API controllable webcam project</a> called witness and is using it as part of an automated robotics testing procedure - very cool.",
-      "link": "https://github.com/curtismuntz/witness",
+      "title": "&bull; Multi-Container with Multiple web applications",
+      "text": " First, we have an older post by <a href=\"https://medium.com/@valexeev\" target=\"_blank\">@valexeev</a> detailing how to set up <a href=\"https://medium.com/@valexeev/balenacloud-multi-container-with-multiple-web-applications-bf922caa4c1f\" target=\"_blank\">Multi-Container with Multiple web applications</a> which utilizes a reverse proxy allowing you to route traffic to multiple services on the same port.",
+      "link": "https://medium.com/@valexeev/balenacloud-multi-container-with-multiple-web-applications-bf922caa4c1f",
       "image": ""
    },
    {
-      "title": "&bull; Building-a-nanny-bot",
-      "text": "Robert is documenting the process of assembling a build of the <a href=\"https://github.com/NVIDIA-AI-IOT/jetbot\" target=\"_blank\">Nvidia Jetbot</a> on <a href=\"https://forums.balena.io/t/building-a-nanny-bot/10052\" target=\"_blank\">our forums</a>, with the intention of turning it into a “nanny bot” to help amuse his daughter. Childcare for the next generation!",
-      "link": "https://forums.balena.io/t/building-a-nanny-bot/10052",
+      "title": "&bull; Camera streamer & player with auto discovery",
+      "text": " Next up, we have another project from Robert on our forums detailing the setup of a <a href=\"https://forums.balena.io/t/camera-streamer-player-with-auto-discovery/17114\" target=\"_blank\">Camera streamer & player with auto discovery</a> which works great as a baby-monitor camera!",
+      "link": "https://forums.balena.io/t/camera-streamer-player-with-auto-discovery/17114",
       "image": ""
    },
    {
-      "title": "&bull; Swift on Raspberry Pi",
-      "text": "<a href=\"https://twitter.com/wlisac\" target=\"_blank\">@wlisac</a> published <a href=\"https://github.com/wlisac/swift-on-balena\" target=\"_blank\">Docker images to run Swift on Raspberry Pi and other ARM devices</a>. There’s also a <a href=\"https://github.com/wlisac/balena-swift-hello-world\" target=\"_blank\">hello world sample project</a> to get you started.",
+      "title": "&bull; dotnet core SDK for balenaCloud",
+      "text": "<a href=\"https://github.com/rhysjtevans\" target=\"_blank\">@rhysjtevans</a> started putting together a community <a href=\"https://github.com/rhysjtevans/balena-dotnet-sdk\" target=\"_blank\">dotnet core SDK for balenaCloud</a>.",
       "link": "https://github.com/wlisac/swift-on-balena",
       "image": ""
    }

@@ -1,21 +1,7 @@
 [
 	{
-		"title": "IoT Tech Expo Europe",
-		"date": "Jun 19 - 20, 2019",
-		"location": "Amsterdam, NL",
-		"link": "https://www.iottechexpo.com/",
-		"attending": ""
-	},
-	{
-		"title": "Sensors Expo",
-		"date": "Jun 26 - 27, 2019",
-		"location": "San Jose, CA, US",
-		"link": "https://www.sensorsexpo.com/",
-		"attending": ""
-	},
-	{
 		"title": "Artificial Intelligence, Robotics & IoT conference",
-		"date": "Jul 16 - 17, 2019",
+		"date": "July 16 - 17, 2019",
 		"location": "Amsterdam, NL",
 		"link": "https://artificialintelligence-iot.enggconferences.com",
 		"attending": ""
@@ -24,7 +10,14 @@
 		"title": "Embedded Linux Conference",
 		"date": "Aug 21 - 23, 2019",
 		"location": "San Diego, CA, US",
-		"link": "https://events.linuxfoundation.org/events/elc-north-america-2019",
+		"link": "https://events.linuxfoundation.org/events/elc-north-america-2019/",
+		"attending": ""
+	},
+	{
+		"title": "Internet of Things conference",
+		"date": "Oct 22 - 25, 2019",
+		"location": "Bilbao, ES",
+		"link": "https://iot-conference.org/iot2019/",
 		"attending": ""
 	},
 	{
