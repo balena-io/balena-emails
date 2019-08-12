@@ -1,23 +1,30 @@
 [
    {
-      "title": "Bring a dummy security camera to life, using a Raspberry Pi and WebRTC",
-      "text": "A few weeks ago we released a project called <a href=\"https://github.com/balena-io-playground/balena-cam\" target=\"_blank\">balenaCam</a> where @mbalamat developed an application running on balenaOS that initiates a WebRTC video streaming connection between the server (a Raspberry Pi, for example) and the client. Once the main core of the application was stable, we decided to challenge ourselves and take the project down a slightly different route; turning a fake CCTV Camera into a real working CCTV Camera, where we control the software running on it 🤯.",
-      "link": "https://www.balena.io/blog/bring-a-dummy-security-camera-to-life-using-a-raspberry-pi-and-webrtc/",
-      "image": "https://assets.balena.io/newsletter/2019-07/dummy-camera.jpg",
+      "title": "Why is the balenaFin right for fleet owners? Part 1: Storage",
+      "text": "This is the first of a series of posts about the key features that make the balenaFin the right choice for fleet owners. For all those who are not familiar with the balenaFin, you can take a look at this introductory post. We’ve divided the series into three posts that cover the main categories: storage, networking and power. In this post we looked specifically at the points to consider when choosing a storage solution for the balenaFin, the design choices we made and the reasoning behind those choices.",
+      "link": "https://www.balena.io/blog/why-is-the-balenafin-right-for-fleet-owners-part-1-storage/",
+      "image": "https://assets.balena.io/newsletter/2019-08/19-08-03.jpg",
+      "button": "Learn more"
+   },
+   {
+      "title": "Use a Raspberry Pi to communicate with Amazon AWS IoT",
+      "text": "In this article, we go through the steps to setup a basic MQTT broker on AWS IoT and configure a Raspberry Pi to communicate with it. In the end, you will have your device sending and receiving messages from the cloud service and a simple python boilerplate code that you can modify to fit your needs.",
+      "link": "https://www.balena.io/blog/use-a-raspberry-pi-to-communicate-with-amazon-aws-iot/",
+      "image": "https://assets.balena.io/newsletter/2019-08/19-08-04.png",
+      "button": "Find out how"
+   },
+   {
+      "title": "Build a smart photo slideshow with balenaCloud",
+      "text": "We released an updated to balenaDash that enables you to run a photo slideshow hosted on Google Photo Albums, Dropbox Photo Album, or Apple Photos. The main objective of this addition is to create a physical photo album that is easy to build, configure, and maintain. Once configured, there is nothing else you need to worry about. If you edit the album, add or remove photos, the album will automatically update to display the latest photos.",
+      "link": "https://www.balena.io/blog/build-a-smart-photo-slideshow-with-balenacloud/",
+      "image": "https://assets.balena.io/newsletter/2019-08/19-08-05.jpg",
+      "button": "Set it up"
+   },
+   {
+      "title": "Build a Raspberry Pi powered live train station sign for your desk",
+      "text": "Build your own UK train station platform departure display (next train indicator) with live data using a Raspberry Pi Zero, OLED display and 3D printed case - a cool (and practical!) desktop gadget. It involves a bit of software, a bit of soldering, and some 3D printing too.",
+      "link": "https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/",
+      "image": "https://assets.balena.io/newsletter/2019-08/19-08-06.jpg",
       "button": "Build your own"
-   },
-   {
-      "title": "Aggregate data from a fleet of sensors with balenaSense and InfluxDB",
-      "text": "Back in March, we wrote about balenaSense, our project to monitor air quality with a Raspberry Pi, Grafana and InfluxDB. Lots of you have been using this project and giving great feedback, and one of the requested features was the ability to take data from multiple balenaSense devices and bring it together for monitoring centrally. We’ve updated the project to v1.5 to include this functionality, so we take a look at that here and use it as an opportunity to test the new InfluxDB Cloud 2.0 Beta!",
-      "link": "https://www.balena.io/blog/aggregate-data-from-a-fleet-of-sensors-with-balenasense-and-influxdb/",
-      "image": "https://assets.balena.io/newsletter/2019-07/balenaSense.jpg",
-      "button": "Aggregate your data!"
-   },
-   {
-      "title": "It's a sign: build a remote-controlled digital display with Screenly OSE and Raspberry Pi",
-      "text": "Try this project to get up and running with a display you can control remotely to display photos, videos, dashboards, web pages, and digital signage. We’ll walk you through how to set up a digital sign using balenaCloud and Screenly OSE, the most popular open-source digital signage solution for the Raspberry Pi. After implementing this project, you’ll be able to display and manage images, videos, and even live web page content on a digital sign.",
-      "link": "https://www.balena.io/blog/deploy-free-digital-signage-software-screenly-ose/",
-      "image": "https://assets.balena.io/newsletter/2019-07/screenly.jpg",
-      "button": "Check it out"
    }
 ]

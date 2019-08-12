@@ -27,6 +27,8 @@ To update data of the newsletter you need to update the data in `/src/data`. Eac
 
 #### When developing
 
+> NOTE: Currently running on node version 8.16.0.
+
 * Run `npm start` to kick off the build process. A new browser tab will open with a server pointing to your project files.
 
 Current all files will get reloaded while developing except for `.js` and `.json`.

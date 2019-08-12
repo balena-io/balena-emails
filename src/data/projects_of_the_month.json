@@ -1,23 +1,31 @@
 [
    {
-      "title": "&bull; Multi-Container with Multiple web applications",
-      "text": " First, we have an older post by <a href=\"https://medium.com/@valexeev\" target=\"_blank\">@valexeev</a> detailing how to set up <a href=\"https://medium.com/@valexeev/balenacloud-multi-container-with-multiple-web-applications-bf922caa4c1f\" target=\"_blank\">Multi-Container with Multiple web applications</a> which utilizes a reverse proxy allowing you to route traffic to multiple services on the same port.",
-      "link": "https://medium.com/@valexeev/balenacloud-multi-container-with-multiple-web-applications-bf922caa4c1f",
+      "title": "&bull; Magic Mirror 🧙‍",
+      "text": "First up, we have a project by <a href=\"https://github.com/idoodler\" target=\"_blank\">@idoodler</a> to make the popular <a href=\"https://forums.balena.io/t/deploying-magicmirror-to-balena/22097\" target=\"_blank\">Magic Mirror project run on balena</a>.",
+      "link": "https://forums.balena.io/t/deploying-magicmirror-to-balena/22097",
       "image": ""
    },
    {
-      "title": "&bull; Camera streamer & player with auto discovery",
-      "text": " Next up, we have another project from Robert on our forums detailing the setup of a <a href=\"https://forums.balena.io/t/camera-streamer-player-with-auto-discovery/17114\" target=\"_blank\">Camera streamer & player with auto discovery</a> which works great as a baby-monitor camera!",
-      "link": "https://forums.balena.io/t/camera-streamer-player-with-auto-discovery/17114",
+      "title": "&bull; Home Assistant with balena and more",
+      "text": " Next, we have a couple of contributions by <a href=\"https://github.com/tomasmigone\" target=\"_blank\">@tmigone</a>, the first is an article describing <a href=\"https://forums.balena.io/t/deploying-home-assistant-with-balena/20290\" target=\"_blank\">how to deploy Home Assistant with balena</a> and secondly an addition to balenaDash allowing you to show <a href=\"https://forums.balena.io/t/balenadash-usb-stick/22667\" target=\"_blank\">photos from a USB stick</a> and an associated <a href=\"https://medium.com/@tomasmigone/hot-plugging-usb-devices-in-balenaos-5dca4b05ca7e\" target=\"_blank\">article discussing hot-plugged USB devices in balenaOS</a>.",
+      "link": "https://forums.balena.io/t/deploying-home-assistant-with-balena/20290",
       "image": ""
    },
    {
-      "title": "&bull; dotnet core SDK for balenaCloud",
-      "text": "<a href=\"https://github.com/rhysjtevans\" target=\"_blank\">@rhysjtevans</a> started putting together a community <a href=\"https://github.com/rhysjtevans/balena-dotnet-sdk\" target=\"_blank\">dotnet core SDK for balenaCloud</a>.",
-      "link": "https://github.com/wlisac/swift-on-balena",
+      "title": "&bull; Backup Windows to External Drive",
+      "text": "<a href=\"https://github.com/janvda\" target=\"_blank\">@janvda</a> shared a project using rsync on a balena device to create <a href=\"https://forums.balena.io/t/balena-samba-rsync-application/22568/\" target=\"_blank\">backups of Windows (samba) shares to an external hard disk</a>.",
+      "link": "https://forums.balena.io/t/balena-samba-rsync-application/22568",
+      "image": ""
+   },
+   {
+      "title": "&bull; Monitor a Raspberry Pi using Rust, Prometheus and Grafana",
+      "text": "<a href=\"https://github.com/rahul-thakoor\" target=\"_blank\">Rahul</a> shows us how to <a href=\"https://forums.balena.io/t/monitor-your-raspberry-pi-using-rust-prometheus-and-grafana/20291\" target=\"_blank\">monitor a Raspberry Pi using Rust, Prometheus and Grafana</a>.",
+      "link": "https://forums.balena.io/t/monitor-your-raspberry-pi-using-rust-prometheus-and-grafana/20291",
       "image": ""
    }
 ]
+
+
 
 
 
