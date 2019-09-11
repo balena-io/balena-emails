@@ -1,24 +1,10 @@
 [
    {
-      "title": "Join us in our mission, from anywhere in the world",
-      "text": "Since we just closed our investment round, one of our first tasks will be growing the existing team. We’re a remote-first team based all around the world and whether you’re an engineer who wants to work on impactful projects or someone with expertise in growth, marketing or sales, who wants to help us spread the word; we are looking for talented people across many areas of the business.<br><br>If you’re interested in helping us shape the future of IoT, check out our <a href=\"https://balena.workable.com\" target=\"_blank\">careers page</a> and get in touch.",
-      "link": "https://balena.workable.com",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-01.jpg",
-      "button": "See our open remote work positions"
-   },
-   {
-      "title": "Balena secures $14.4m to grow team and bring edge computing to every developer",
-      "text": "We’re incredibly excited to announce that we’ve just closed a $14.4m Series B investment round, led by OpenView with participation from our existing investors including Threshold Ventures, Aspect Ventures, and GE Ventures.",
-      "link": "https://www.balena.io/blog/balena-secures-14-4m-to-grow-team-and-bring-edge-computing-to-every-developer/",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-02_bg.jpg",
-      "button": "Read the announcement"
-   },
-   {
-      "title": "Shaun’s tips and tricks",
-      "text": "Each month, our head of product experience Shaun shares tips and tricks for getting the most from the balena platform, this month we will talk about a new feature wherein balenaOS v.2.20.0 we introduced the ability to <a href=\"https://github.com/balena-os/meta-balena#sshkeys\" target=\"_blank\">add custom SSH keys</a> to the OS. This feature allows one to access the hostOS on <b>production</b> devices, and coupled with the <a href=\"https://www.balena.io/docs/reference/cli/#tunnel-deviceorapplication\" target=\"_blank\">balena tunnel</a> feature from last month lets you easily remotely SSH into all your production devices using your standard ssh-agent. If you have a few devices already deployed and want to remotely add an SSH key, check out our cheeky <a href=\"https://github.com/balena-io-playground/ssh-key-insert\" target=\"_blank\">ssh-key-insert</a> script!",
-      "link": "https://github.com/balena-os/meta-balena#sshkeys",
-      "image": "https://assets.balena.io/newsletter/2019-08/shaun.png",
-      "button": "Check the documentation"
+      "title": "balenaCloud dashboard update",
+      "text": "We released a long-awaited update to our dashboard last month, letting you pin applications or devices to specific releases!<br><br>A really demanded use of this feature is rolling out updates to your application gradually, or testing new releases on specific devices only before releasing to the entire fleet. You can ensure 'key' devices are pinned to a stable release and only allowed to upgrade when you let them.<br><br>The feature opens up a lot of possibilities, all of which aim to make your life as an IoT fleet owner a lot easier. Give it a try and let us know what you think!",
+      "link": "https://dashboard.balena-cloud.com/",
+      "image": "https://i.imgur.com/dFWRCH6.png",
+      "button": "To the dashboard!"
    }
 ]
 

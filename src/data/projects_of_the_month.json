@@ -1,31 +1,17 @@
 [
    {
-      "title": "&bull; Magic Mirror 🧙‍",
-      "text": "First up, we have a project by <a href=\"https://github.com/idoodler\" target=\"_blank\">@idoodler</a> to make the popular <a href=\"https://forums.balena.io/t/deploying-magicmirror-to-balena/22097\" target=\"_blank\">Magic Mirror project run on balena</a>.",
+      "title": "&bull; Manage, monitor, and update hundreds of Arduino devices for a shop installation",
+      "text": "First up, <a href=\"https://github.com/tomasmigone\" target=\"_blank\">@tmigone</a> has been at it again, and has documented how balenaCloud was used with Raspberry Pis and a NUC to <a href=\"https://medium.com/@tomasmigone/interfacing-raspberry-pi-3-and-arduino-with-remote-monitoring-and-upgradeability-eec512ad3dc2\" target=\"_blank\">manage, monitor, and update hundreds of Arduino devices for a shop installation</a>.",
       "link": "https://forums.balena.io/t/deploying-magicmirror-to-balena/22097",
       "image": ""
    },
    {
-      "title": "&bull; Home Assistant with balena and more",
-      "text": " Next, we have a couple of contributions by <a href=\"https://github.com/tomasmigone\" target=\"_blank\">@tmigone</a>, the first is an article describing <a href=\"https://forums.balena.io/t/deploying-home-assistant-with-balena/20290\" target=\"_blank\">how to deploy Home Assistant with balena</a> and secondly an addition to balenaDash allowing you to show <a href=\"https://forums.balena.io/t/balenadash-usb-stick/22667\" target=\"_blank\">photos from a USB stick</a> and an associated <a href=\"https://medium.com/@tomasmigone/hot-plugging-usb-devices-in-balenaos-5dca4b05ca7e\" target=\"_blank\">article discussing hot-plugged USB devices in balenaOS</a>.",
+      "title": "&bull; balena ADS-B Multi-Service Flight Tracker",
+      "text": "Secondly, you may have seen it mentioned on our Twitter account already but just in case you missed it, <a href=\"https://github.com/ketilmo\" target=\"_blank\">@ketilmo</a> has built and published a <a href=\"https://github.com/ketilmo/balena-ads-b\" target=\"_blank\">balena ADS-B Multi-Service Flight Tracker</a>. This project enables you to receive positional information directly from aircraft passing overhead and share it with services such as <a href=\"https://www.flightradar24.com/\" target=\"_blank\">Flightradar</a> and <a href=\"https://flightaware.com\" target=\"_blank\">Flightaware</a> (and more). The best part is these sites will give you free premium access in return for the data!",
       "link": "https://forums.balena.io/t/deploying-home-assistant-with-balena/20290",
-      "image": ""
-   },
-   {
-      "title": "&bull; Backup Windows to External Drive",
-      "text": "<a href=\"https://github.com/janvda\" target=\"_blank\">@janvda</a> shared a project using rsync on a balena device to create <a href=\"https://forums.balena.io/t/balena-samba-rsync-application/22568/\" target=\"_blank\">backups of Windows (samba) shares to an external hard disk</a>.",
-      "link": "https://forums.balena.io/t/balena-samba-rsync-application/22568",
-      "image": ""
-   },
-   {
-      "title": "&bull; Monitor a Raspberry Pi using Rust, Prometheus and Grafana",
-      "text": "<a href=\"https://github.com/rahul-thakoor\" target=\"_blank\">Rahul</a> shows us how to <a href=\"https://forums.balena.io/t/monitor-your-raspberry-pi-using-rust-prometheus-and-grafana/20291\" target=\"_blank\">monitor a Raspberry Pi using Rust, Prometheus and Grafana</a>.",
-      "link": "https://forums.balena.io/t/monitor-your-raspberry-pi-using-rust-prometheus-and-grafana/20291",
       "image": ""
    }
 ]
-
-
 
 
 

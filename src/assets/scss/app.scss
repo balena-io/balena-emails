@@ -1,14 +1,15 @@
 @import 'settings';
 @import 'foundation-emails';
 @import 'mixins';
-@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+// @import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-@font-face {
-  font-family: 'Circular Std Book';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Circular Std Book'), url(https://assets.balena.io/newsletter/CircularStd-Book.otf) format("opentype");
-}
+// @font-face {
+//   font-family: 'Circular Std Book';
+//   font-style: normal;
+//   font-weight: normal;
+//   src: local('Circular Std Book'), url(https://assets.balena.io/newsletter/CircularStd-Book.otf) format("opentype");
+// }
 
 // BASIC
 ul {
@@ -28,7 +29,7 @@ hr.header {
 table.button {
   table td {
     a {
-      font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+      font-family: 'Lato', Helvetica, Arial, sans-serif;
       font-weight: 500;
     }
   }
@@ -62,10 +63,10 @@ table.button {
 
 // TOP
 .top {
-  background-image: url('https://assets.balena.io/newsletter/2019-06/hero_classic.png');
+  background-image: url('https://i.imgur.com/tHitRwW.png');
   background-repeat: no-repeat;
   // background-color:#00aff4;
-  background-color:#00aff4;
+  background-color:#2a506f;
   background-size:contain;
   height: 384px;
   background-position: center bottom;
@@ -151,7 +152,7 @@ table.button {
   line-height: 1.35;
   letter-spacing: normal;
   color:  #2A506F;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 
 }
 
@@ -166,7 +167,7 @@ table.button {
 
 .posts_smart_title_text {
   font-size: 27px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
@@ -250,7 +251,7 @@ ul.posts_list {
   font-size: 20px;
   margin-bottom: 20px;
   margin-top:20px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .featured__title2 {
@@ -258,7 +259,7 @@ ul.posts_list {
   font-size: 20px;
   margin-bottom: 16px;
   margin-top:30px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .featured__text {
@@ -274,7 +275,7 @@ ul.posts_list {
   font-size: 20px;
   padding-left:50px;
   max-width:200px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .event_description {
@@ -283,12 +284,12 @@ ul.posts_list {
   font-size: 13px;
   line-height: 21px;
   margin: 20px 50px;
-  font-family: 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .event_name_col {
   padding-left: 50px !important;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
   color: $light-blue;
   &:hover {
     color: $dark-blue;
@@ -296,7 +297,7 @@ ul.posts_list {
 }
 
 .event_name {
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .events__header .columns {
@@ -341,7 +342,7 @@ img.event_icon {
   color: $dark-blue;
   font-size: 20px;
   margin: 0 16px 20px 16px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .projects_of_the_month__description {
@@ -350,7 +351,7 @@ img.event_icon {
   font-size: 13px;
   line-height: 21px;
   margin: 20px 16px;
-  font-family: 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 ul.projects_of_the_month {
@@ -411,7 +412,7 @@ ul.projects_of_the_month {
   padding-left:20px;
   font-size: 13px;
   line-height: 2;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .social__button {
@@ -444,7 +445,7 @@ ul.projects_of_the_month {
   font-size: 20px;
   color: $dark-blue;
   padding: 0 35px;
-  font-family: 'Circular Std Book', 'Nunito', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .job_text {

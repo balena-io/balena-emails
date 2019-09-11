@@ -1,12 +1,5 @@
 [
 	{
-		"title": "Embedded Linux Conference",
-		"date": "Aug 21 - 23, 2019",
-		"location": "San Diego, CA, US",
-		"link": "https://events.linuxfoundation.org/events/elc-north-america-2019/",
-		"attending": ""
-	},
-	{
 		"title": "Internet of Things conference",
 		"date": "Oct 22 - 25, 2019",
 		"location": "Bilbao, ES",
@@ -14,9 +7,30 @@
 		"attending": ""
 	},
 	{
+		"title": "IoT Workshop and Hackathon with balena",
+		"date": "Oct 26, 2019",
+		"location": "Barcelona, ES",
+		"link": "https://iot-conference.org/iot2019/",
+		"attending": "yes"
+	},
+	{
 		"title": "Hackaday Superconference",
 		"date": "Nov 15 - 17, 2019",
 		"location": "Pasadena, CA, US",
+		"link": "https://hackaday.io/superconference/",
+		"attending": ""
+	},
+	{
+		"title": "KubeCon CloudNativeCon North America",
+		"date": "Nov 18 - 21, 2019",
+		"location": "San Diego, CA, US",
+		"link": "https://hackaday.io/superconference/",
+		"attending": ""
+	},
+	{
+		"title": "The Things Conference",
+		"date": "Jan 31 - 31, 2020",
+		"location": "Amsterdam, NL",
 		"link": "https://hackaday.io/superconference/",
 		"attending": ""
 	}

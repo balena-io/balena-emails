@@ -1,30 +1,16 @@
 [
    {
-      "title": "Why is the balenaFin right for fleet owners? Part 1: Storage",
-      "text": "This is the first of a series of posts about the key features that make the balenaFin the right choice for fleet owners. For all those who are not familiar with the balenaFin, you can take a look at this introductory post. We’ve divided the series into three posts that cover the main categories: storage, networking and power. In this post we looked specifically at the points to consider when choosing a storage solution for the balenaFin, the design choices we made and the reasoning behind those choices.",
-      "link": "https://www.balena.io/blog/why-is-the-balenafin-right-for-fleet-owners-part-1-storage/",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-03.jpg",
-      "button": "Learn more"
+      "title": "Taming the 'hard' in hardware in 8 steps - a product development journey",
+      "text": "In 2017, we embarked on a mission to build the <a href=\"https://www.balena.io/etcher/pro/\" target=\"_blank\">ultimate flashing media</a>. As a software company, we didn't realize the hornet's nest that we had stepped into. Little did we anticipate that in the process, we would end up re-examining the wheel at every step, going through eight design iterations and creating our own board from scratch. We share the entire 8 step product development journey in great detail.",
+      "link": "https://www.balena.io/blog/taming-the-hard-in-hardware-in-8-steps/",
+      "image": "https://i.imgur.com/NYUIIBX.gif",
+      "button": "Take the journey"
    },
    {
-      "title": "Use a Raspberry Pi to communicate with Amazon AWS IoT",
-      "text": "In this article, we go through the steps to setup a basic MQTT broker on AWS IoT and configure a Raspberry Pi to communicate with it. In the end, you will have your device sending and receiving messages from the cloud service and a simple python boilerplate code that you can modify to fit your needs.",
-      "link": "https://www.balena.io/blog/use-a-raspberry-pi-to-communicate-with-amazon-aws-iot/",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-04.png",
-      "button": "Find out how"
-   },
-   {
-      "title": "Build a smart photo slideshow with balenaCloud",
-      "text": "We released an updated to balenaDash that enables you to run a photo slideshow hosted on Google Photo Albums, Dropbox Photo Album, or Apple Photos. The main objective of this addition is to create a physical photo album that is easy to build, configure, and maintain. Once configured, there is nothing else you need to worry about. If you edit the album, add or remove photos, the album will automatically update to display the latest photos.",
-      "link": "https://www.balena.io/blog/build-a-smart-photo-slideshow-with-balenacloud/",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-05.jpg",
-      "button": "Set it up"
-   },
-   {
-      "title": "Build a Raspberry Pi powered live train station sign for your desk",
-      "text": "Build your own UK train station platform departure display (next train indicator) with live data using a Raspberry Pi Zero, OLED display and 3D printed case - a cool (and practical!) desktop gadget. It involves a bit of software, a bit of soldering, and some 3D printing too.",
-      "link": "https://www.balena.io/blog/build-a-raspberry-pi-powered-train-station-oled-sign-for-your-desk/",
-      "image": "https://assets.balena.io/newsletter/2019-08/19-08-06.jpg",
+      "title": "Install a balenaFin outdoors, for use as a LoRa gateway, flight tracker, weather station and more!",
+      "text": "Back in May we looked at deploying the software to run a <a href=\"https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/\" target=\"_blank\">balenaFin as a TTN LoRa Gateway</a>, in this post we look at the natural progression from this; mounting the hardware up a mast and making the installation more permanent. The techniques we look at here will allow us to install hardware in a weatherproof enclosure outdoors which can then be used for a variety of applications such as the planned LoRa gateway, or weather monitoring, or ADS-B flight tracking, and any other application where having outdoor hardware is beneficial.",
+      "link": "https://www.balena.io/blog/install-a-balenafin-outdoors-for-use-as-a-lora-gateway-flight-tracker-weather-station-and-more/",
+      "image": "https://i.imgur.com/UPdllaL.jpg",
       "button": "Build your own"
    }
 ]
