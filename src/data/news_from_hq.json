@@ -5,6 +5,13 @@
       "link": "https://dashboard.balena-cloud.com/",
       "image": "https://i.imgur.com/dFWRCH6.png",
       "button": "To the dashboard!"
+   },
+   {
+      "title": "Join us for the 2019 balena Hackathon!",
+      "text": "Barcelona - October 26th<br><br>Whether you’re new to IoT development or an experienced hardware hacker looking to take your skills to the next level, we’d love for you to join us at our 2019 Hackathon.<br><br>We’ll show you how to build IoT projects using powerful development tools from the web and cloud. We'll use Docker and balena to write, build & deploy software for Raspberry Pis to control LEDs, take input, read from sensors, and more. Sample projects will be provided to get you started, but what you build is completely up to you!<br><br>Spaces are limited, so visit our event bright page and reserve your spot soon!",
+      "link": "https://www.eventbrite.com/e/iot-workshop-and-hackathon-with-balena-tickets-71040424823",
+      "image": "https://assets.balena.io/newsletter/2019-09/hackathon.png",
+      "button": "Get your ticket!"
    }
 ]
 
