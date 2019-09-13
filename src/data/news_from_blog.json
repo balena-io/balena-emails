@@ -1,16 +1,16 @@
-[
+[   
    {
       "title": "Taming the 'hard' in hardware in 8 steps - a product development journey",
       "text": "In 2017, we embarked on a mission to build the <a href=\"https://www.balena.io/etcher/pro/\" target=\"_blank\">ultimate flashing media</a>. As a software company, we didn't realize the hornet's nest that we had stepped into. Little did we anticipate that in the process, we would end up re-examining the wheel at every step, going through eight design iterations and creating our own board from scratch. We share the entire 8 step product development journey in great detail.",
       "link": "https://www.balena.io/blog/taming-the-hard-in-hardware-in-8-steps/",
-      "image": "https://i.imgur.com/NYUIIBX.gif",
+      "image": "https://assets.balena.io/newsletter/2019-09/etcher_pro.gif",
       "button": "Take the journey"
    },
    {
       "title": "Install a balenaFin outdoors, for use as a LoRa gateway, flight tracker, weather station and more!",
       "text": "Back in May we looked at deploying the software to run a <a href=\"https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/\" target=\"_blank\">balenaFin as a TTN LoRa Gateway</a>, in this post we look at the natural progression from this; mounting the hardware up a mast and making the installation more permanent. The techniques we look at here will allow us to install hardware in a weatherproof enclosure outdoors which can then be used for a variety of applications such as the planned LoRa gateway, or weather monitoring, or ADS-B flight tracking, and any other application where having outdoor hardware is beneficial.",
       "link": "https://www.balena.io/blog/install-a-balenafin-outdoors-for-use-as-a-lora-gateway-flight-tracker-weather-station-and-more/",
-      "image": "https://i.imgur.com/UPdllaL.jpg",
+      "image": "https://assets.balena.io/newsletter/2019-09/lora.jpg",
       "button": "Build your own"
    }
 ]

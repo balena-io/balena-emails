@@ -1,16 +1,23 @@
 [
    {
+      "title": "First fully functional 64-bit OS for the Raspberry Pi 4",
+      "text": "Today, we are excited to announce the release of 64-bit balenaOS for the Raspberry Pi 4, providing support for the full 4GB of memory and allowing the simultaneous, side-by-side running of 32-bit and 64-bit Docker containers - a first for the Raspberry Pi 4!",
+      "link": "https://www.balena.io/blog/balena-releases-first-fully-functional-64-bit-os-for-the-raspberry-pi-4/",
+      "image": "https://assets.balena.io/newsletter/2019-09/64bit2.png",
+      "button": "Read the announcement"
+   },
+   {
       "title": "balenaCloud dashboard update",
       "text": "We released a long-awaited update to our dashboard last month, letting you pin applications or devices to specific releases!<br><br>A really demanded use of this feature is rolling out updates to your application gradually, or testing new releases on specific devices only before releasing to the entire fleet. You can ensure 'key' devices are pinned to a stable release and only allowed to upgrade when you let them.<br><br>The feature opens up a lot of possibilities, all of which aim to make your life as an IoT fleet owner a lot easier. Give it a try and let us know what you think!",
       "link": "https://dashboard.balena-cloud.com/",
-      "image": "https://i.imgur.com/dFWRCH6.png",
+      "image": "https://assets.balena.io/newsletter/2019-09/release_policy.png",
       "button": "To the dashboard!"
    },
    {
       "title": "Join us for the 2019 balena Hackathon!",
-      "text": "Barcelona - October 26th<br><br>Whether you’re new to IoT development or an experienced hardware hacker looking to take your skills to the next level, we’d love for you to join us at our 2019 Hackathon.<br><br>We’ll show you how to build IoT projects using powerful development tools from the web and cloud. We'll use Docker and balena to write, build & deploy software for Raspberry Pis to control LEDs, take input, read from sensors, and more. Sample projects will be provided to get you started, but what you build is completely up to you!<br><br>Spaces are limited, so visit our event bright page and reserve your spot soon!",
+      "text": "Barcelona - October 26th<br><br>Whether you’re new to IoT development or an experienced hardware hacker looking to take your skills to the next level, we’d love for you to join us at our 2019 Hackathon.<br><br>We’ll show you how to build IoT projects using powerful development tools from the web and cloud. We'll use Docker and balena to write, build & deploy software for Raspberry Pis to control LEDs, take input, read from sensors, and more. Sample projects will be provided to get you started, but what you build is completely up to you!<br><br>Spaces are limited, so visit our Eventbright page and reserve your spot soon!",
       "link": "https://www.eventbrite.com/e/iot-workshop-and-hackathon-with-balena-tickets-71040424823",
-      "image": "https://assets.balena.io/newsletter/2019-09/hackathon.png",
+      "image": "https://assets.balena.io/newsletter/2019-09/hackathon2.png",
       "button": "Get your ticket!"
    }
 ]

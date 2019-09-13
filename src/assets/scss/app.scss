@@ -63,7 +63,7 @@ table.button {
 
 // TOP
 .top {
-  background-image: url('https://i.imgur.com/tHitRwW.png');
+  background-image: url('https://assets.balena.io/newsletter/2019-09/NL_GIF2.gif');
   background-repeat: no-repeat;
   // background-color:#00aff4;
   background-color:#2a506f;
@@ -113,8 +113,30 @@ table.button {
   hr.header {
     display: none;
   }
+
+  .events {
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+  .event_icon {
+    display: none !important;
+  }
+
+  img.event_icon_mobile {
+    display: block !important;
+
+  }
+
 }
 // HEADER
+
+img.event_icon_mobile {
+  display: none;
+  max-width: 20px;
+  float:left;
+  margin-right:10px; 
+}
 
 // FOOTER
 .footer {
@@ -137,8 +159,8 @@ table.button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  width:32px;
+  width: 100%;
+  max-width:110px;
 }
 // FOOTER
 
@@ -409,7 +431,7 @@ ul.projects_of_the_month {
 
 // SOCIAL
 .social {
-  padding-left:20px;
+  // padding-left:20px;
   font-size: 13px;
   line-height: 2;
   font-family: 'Lato', Helvetica, Arial, sans-serif;
@@ -419,6 +441,12 @@ ul.projects_of_the_month {
   img {
     width:12px;
   }
+}
+
+.social__icon {
+  margin:auto;
+  width:21px;
+  height:21px;
 }
 // SOCIAL
 
