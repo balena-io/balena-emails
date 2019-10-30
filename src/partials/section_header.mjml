@@ -1,0 +1,9 @@
+<mj-section background-color="rgb(248, 249, 253)" padding-top="10px" padding-bottom="0px">
+  <mj-column width="568px">
+    <mj-social font-size="25px" color="#2a506f" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" icon-size="30px" mode="horizontal" align="left">
+      <mj-social-element src="https://assets.balena.io/newsletter/balena-icon.png">
+        &nbsp;&nbsp;{{title}}
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>

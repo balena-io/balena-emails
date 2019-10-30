@@ -1,0 +1,22 @@
+<mj-section background-color="rgb(239, 248, 253)">
+
+  <mj-column width="25%">
+    <mj-image padding-right="0px" padding-left="35px" width="150px" src="https://assets.balena.io/newsletter/bird.png" href="https://balena.io" alt="balena.io logo" align="left" />
+  </mj-column>
+
+  <mj-column width="45%">
+    <mj-text css-class="mobile_share_text" line-height="18px" padding-top="15px" padding-left="0px" padding-right="0px" align="center" font-size="18px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="rgb(41,80,111)">
+      <strong>Like our stories?</strong>
+    </mj-text>
+    <mj-text css-class="mobile_share_text" line-height="21px" padding-left="0px" padding-right="0px" padding-bottom="0px" align="center" font-size="13px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+      See something in this newsletter<br>that you want to share? We encourage it!
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="30%">
+    <mj-button css-class="mobile_share_button" align="left" padding-top="20%" padding-left="0px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" href="https://twitter.com/intent/tweet?text={{@root.share.sublink}}" target="_blank">
+      Share on twitter
+    </mj-button>
+  </mj-column>
+
+</mj-section>

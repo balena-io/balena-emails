@@ -1,0 +1,110 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter May 2020",
+    "mailchimp_subject_line": "May updates: Help researchers find a COVID-19 treatment with us-- #jointhefold",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena May 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-05",
+    "assets_folder": "img"
+  },
+  "header": {
+    "title": "May 2020",
+    "image": "img/hero.png",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Hey there, everyone! In case you missed it, we launched <a href='https://foldforcovid.io/'>Fold for Covid</a> -- an easy way to contribute your spare computing power (PCs, laptops, single-board devices) to Rosetta@home and support vital COVID-19 research. Check it out and <strong>#jointhefold!</strong><br><br>For the tinkerers out there, we launched an LED Alerter project to help prevent office intrusions or interruptions during remote work. We added a few new IoT Happy Hour episodes and read on to see Community member highlights from folks who have launched Fold for Covid.<br><br>Most importantly, take care and stay safe and we’ll see you in the next one."
+  },
+  "news": [
+    {
+      "title": "Help scientists identify treatments for COVID-19 from home ",
+      "link": "https://foldforcovid.io/",
+      "image": "img/fold.png",
+      "button_text": "Join the Fold",
+      "text": "Join <a href='https://foldforcovid.io'>foldforcovid.io</a> in minutes and let your spare computers and IoT devices join the effort to analyze and tackle the virus.<br><br><strong>Why is this so important? </strong><br>The more computing power available, the faster protein folding simulations can be run by researchers, and the sooner a potential COVID-19 treatment can be found. In just a few simple steps, you can add your devices and play your part in the fight against this global pandemic."
+    },
+    {
+      "title": "IoT Happy Hour: Take a closer look at the balenaFin!",
+      "link": "https://www.youtube.com/watch?v=E2Vw9BT_u0U",
+      "image": "img/fin.png",
+      "button_text": "Watch the episode",
+      "text": "The Hardware Hackers and Community brought the tough questions to our balenaFin team about the custom single-board unit.<br><br><strong>Join us weekly!</strong> Team balena now hosts Friday IoT Happy Hours. Talk shop, meet folks, and check out interesting projects all from our YouTube stream-- <a href='https://www.youtube.com/channel/UCEFvSZzQjGfu387QQ3fUtfA/'>please watch and subscribe</a>!"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Learn how balena enables more devices to join Rosetta@home to fight COVID-19",
+      "image": "img/behind.png",
+      "button_text": "Read the post",
+      "link": "https://www.balena.io/blog/balena-enables-more-devices-to-join-rosetta-home-to-research-covid-19/",
+      "text": "Check out what went on behind the scenes that led to the build and launch of Fold for Covid. You can also watch the launch episode of the related <a href='https://www.youtube.com/watch?v=XVnUeNQictM'>IoT Happy Hour episode</a> for  more info."
+    },
+    {
+      "title": "Let people know your availability with this LED Alerter project",
+      "image": "img/led.png",
+      "button_text": "See the project",
+      "link": "https://www.balena.io/blog/build-an-led-alerter-for-your-remote-work-office-setup/",
+      "text": "Having people trample into your office during a busy time or video call can be disruptive. For the hardware hackers out there, here’s a LED Alerter project to create a nifty notifier for others."
+    },
+    {
+      "title": "Get friends and family on the big screen with this video call project",
+      "image": "img/videocall.png",
+      "button_text": "Try this project",
+      "link": "https://www.balena.io/blog/put-friends-and-loved-ones-on-the-big-screen-with-this-instant-video-call-project/",
+      "text": "Catching up with friends and family virtually can be tricky with folks who need extra IT help. Use this project to set up hassle-free video calling for their TV."
+    }
+  ],
+
+  "charlie": {
+    "text": "<strong>Change device configuration on-the-go with this tip</strong><br><br>Did you know that balenaCloud allows you to add or edit config.txt options remotely?<br>Take the option you want to add (e.g. hdmi_force_hotplug), add the prefix \"BALENA_HOST_CONFIG_\", and create an entry in the Device Configuration (for a single device) or Fleet Configuration (for all the devices in an application) section of your balenaCloud dashboard.<br><br><img src='img/charlie.png'><br><br>Set these values quickly, without manually editing config files, and on any device wherever it is in the world!"
+  }, 
+
+  "projects": [
+    {
+      "title": "Add one device, or a whole fleet of ‘em!",
+      "image": "",
+      "link": "https://twitter.com/DominicAngelini/status/1253831751962509312",
+      "text": "Here’s a great example of taking #jointhefold to the next level-- @domincangelini shares <a href='https://twitter.com/DominicAngelini/status/1253831751962509312'>this miniature Pi4 server rack</a>."
+    },
+    {
+      "title": "We’re pretty stoked about foldforcovid, too",
+      "image": "",
+      "link": "https://twitter.com/bkamber/status/1254808026244096002",
+      "text": "Helping the fight is <a href='https://twitter.com/bkamber/status/1254808026244096002'>definitely a #mood</a> (h/t @bkamber)."
+    },
+    {
+      "title": "It’s a global fight against COVID-19",
+      "image": "",
+      "link": "https://twitter.com/pradeeka7/status/1253894578756861955",
+      "text": "We’re glad to have folks from <a href='https://twitter.com/pradeeka7/status/1253894578756861955'>all around the world #jointhefold</a>, even Sri Lanka! h/t @pradeeka7"
+    },
+    {
+      "title": "Every little bit counts!",
+      "image": "",
+      "link": "https://twitter.com/Harrison__DW/status/1255572815878602752",
+      "text": "This project <a href='https://twitter.com/Harrison__DW/status/1255572815878602752'>empowers everyone to join the fight</a> -- every spare device people can spare helps the cause. Thanks, @Harrison__DW!"
+    }
+  ],
+  "jobs": {
+    "text": ""
+  },
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-may-2020"
+  },
+  "events": [
+    {
+      "attending": "yes",
+      "title": "balena IoT Happy Hour",
+      "link": "https://www.youtube.com/channel/UCEFvSZzQjGfu387QQ3fUtfA/",
+      "location": "Online, World",
+      "event_date": "Every Friday 16:00 UTC"
+    }
+  ]
+}

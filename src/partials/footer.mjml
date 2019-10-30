@@ -1,0 +1,15 @@
+<mj-section background-color="#fff">
+  <mj-group>
+    <mj-column>
+      <mj-image src="https://assets.balena.io/newsletter/2019-08-etcherpro/balena@2x_black.png" alt="balena.io logo" width="110px" padding-bottom="0px"/>
+      <mj-text align="center" color="#527699" padding-bottom="3px" font-family="Lato,Helvetica,Arial,sans-serif" font-size="12px" font-weight="400" line-height="1.3">
+        Balena.io
+      </mj-text>
+      <mj-text align="center" padding-top="0px">
+        <a href="https://goo.gl/maps/zxNxFDdvK8gw4hHMA" target="_blank">1517 12th Avenue<br>
+        Seattle, WA 98122</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+
+</mj-section>

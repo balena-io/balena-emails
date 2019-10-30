@@ -1,0 +1,106 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter June 2020",
+    "mailchimp_subject_line": "June updates: Deltas for host OS updates, new projects, and more",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena June 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-06",
+    "assets_folder": "img"
+  },
+  "header": {
+    "title": "June 2020",
+    "title_color": "rgb(41, 81, 112)",
+    "image": "img/hero.jpg",
+    "image_height": 762,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Hey there balena fans! We have a few important product updates to catch you up on this month-- a new <a href='https://www.balena.io/blog/adding-deprecation-policies-to-balena-sdk-and-cli/'>deprecation policy for the SDK and CLI</a>, and rolling out <a href='https://www.balena.io/docs/reference/OS/updates/update-process/#what-happens-during-a-balena-host-os-update'>delta updates for the host OS</a> to make fleet updates more efficient.<br><br>For the tinkerers out there, we have new projects like our <a href='https://www.balena.io/blog/wifi-enable-usb-printers-with-a-raspberry-pi-and-share-it-over-your-network/'>wireless printing project</a>, our <a href='https://www.balena.io/blog/check-yourself-for-a-fever-with-this-diy-thermal-scanner/'>skin temperature sensor</a>, and <a href='https://www.balena.io/blog/turn-a-raspberry-pi-into-a-wi-fi-access-point-or-repeater/'>Wi-Fi repeater</a>. As always, we have a few community projects to highlight, and if you haven’t checked out our weekly IoT Happy Hour, please do (and hear our catchy balena-ified guitar cover).<br><br>Until next time!"
+  },
+  "news": [
+    {
+      "title": "Deltas for host OS updates available",
+      "link": "https://www.balena.io/docs/reference/OS/updates/update-process/#what-happens-during-a-balena-host-os-update",
+      "image": "img/deltas.png",
+      "button_text": "Learn more",
+      "text": "Keep balena OS updated fleet-wide without the massive bill or maintenance time. Delta updates for the host OS requests balena servers to provide only the differences between the old and new container image.<br><br>Deltas are smaller updates, and now you get them for the host too, not just for your apps. Check out our docs to learn more."
+    },
+    {
+      "title": "Deprecation policies to balena-sdk and CLI",
+      "link": "https://www.balena.io/docs/reference/sdk/deprecation-policy/#balena-sdk-deprecation-policy",
+      "image": "img/policy.png",
+      "button_text": "Learn more",
+      "text": "We now have a deprecation policy on balena-sdk and balena-cli. If you or your teams use these  modules, please upgrade to at least one of the following versions:<ul><li>balena-sdk (node) v12.12.0</li><li>balena-sdk-python v7.8.0</li><li>balena-cli v11.13.0</li></ul>See the <a href='https://www.balena.io/docs/reference/sdk/deprecation-policy/#balena-sdk-deprecation-policy'>documentation</a> or <a href='https://www.balena.io/blog/adding-deprecation-policies-to-balena-sdk-and-cli/'>read the post</a> for more information."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Extend your internet access to add more places to WFH",
+      "image": "",
+      "button_text": "Try it out",
+      "link": "https://www.balena.io/blog/turn-a-raspberry-pi-into-a-wi-fi-access-point-or-repeater/",
+      "text": "Use this guide to turn a Raspberry Pi into a Wi-Fi access point or repeater. Now you can work from home in the garden, the garage, the yard, and more."
+    },
+    {
+      "title": "Build your own handheld temperature scanner",
+      "image": "img/skin.png",
+      "button_text": "See the project",
+      "link": "https://www.balena.io/blog/check-yourself-for-a-fever-with-this-diy-thermal-scanner/",
+      "text": "Transform a Raspberry Pi and a thermal scanner into a tool to detect skin temperature."
+    },
+    {
+      "title": "Breathe wireless life into your old printer",
+      "image": "img/print.png",
+      "button_text": "Learn more",
+      "link": "https://www.balena.io/blog/wifi-enable-usb-printers-with-a-raspberry-pi-and-share-it-over-your-network/",
+      "text": "With a spare Raspberry Pi and this guide, you can make your old printer wirelessly accessible!"
+    }
+  ],
+
+  "charlie": {
+    "text": "Our <a href='https://www.balena.io/docs/reference/base-images/base-images/'>base images</a> now come with the <code>balena-idle</code> utility. Call <code>balena-idle</code> in your scripts and it’ll keep the container idling:<br><img src='img/charlie.png'>This is helpful when debugging or if you execute a command that exits immediately! There are options to change to message or interval between each message (<code>-m</code> and <code>-i</code>)."
+  }, 
+
+  "projects": [
+    {
+      "title": "Catch a community spotlight and the 'balena theme song'",
+      "image": "",
+      "link": "https://youtu.be/0Wew51n0KV0?t=34",
+      "text": "Our community guest from <a href='https://youtu.be/0Wew51n0KV0?t=34'>IoT Happy Hour ep. 9</a> set a new bar by not only showing off a multitude of projects, but also playing a balena-themed guitar cover. Thanks, <a href='https://github.com/MatthewCroughan'>Matthew</a>!"
+    },
+    {
+      "title": "Check out the amazing projects from the Virtually Maker Faire",
+      "image": "",
+      "link": "https://www.youtube.com/channel/UCEFvSZzQjGfu387QQ3fUtfA/videos",
+      "text": "We got the privilege of sharing four of our projects during the Virtually Maker Faire. Check those out on our <a href='https://www.youtube.com/channel/UCEFvSZzQjGfu387QQ3fUtfA/videos'>YouTube channel</a>, and also take a look at hundreds of other amazing projects that went on throughout <a href='https://makerfaire.com/'>the weekend event</a>."
+    },
+    {
+      "title": "Thanks for including us in your ambitious 3D printing build, @thebigredgeek",
+      "image": "",
+      "link": "https://twitter.com/thebigredgeek/status/1264344578359992320",
+      "text": "It makes us all smile when our tools help <a href='https://twitter.com/thebigredgeek/status/1264344578359992320'>unlock someone’s vision</a>. What will you all build next?"
+    },
+    {
+      "title": "Every little bit counts!",
+      "image": "",
+      "link": "https://twitter.com/Harrison__DW/status/1255572815878602752",
+      "text": "This project <a href='https://twitter.com/Harrison__DW/status/1255572815878602752'>empowers everyone to join the fight</a> -- every spare device people can spare helps the cause. Thanks, <a href='https://twitter.com/Harrison__DW'>@Harrison__DW!</a>"
+    }
+  ],
+  "jobs": {
+    "text": "Want to enable developers to succeed in IoT and edge computing by helping them deploy and manage large fleets of devices across the globe? <a href='https://apply.workable.com/balena/j/39F9C34AA8/'>Get in touch</a>"
+  },
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-june-2020"
+  },
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more.",
+    "list": []
+  }
+}

@@ -1,0 +1,41 @@
+<mj-section
+  css-class="header_image"
+  {{#if @root.header.image}}
+    {{#if @root.configuration.netlify_site_name}}
+      background-url="{{append (append (append 'https://' @root.configuration.netlify_site_name) '.netlify.com/') @root.header.image}}" 
+    {{else}}
+      background-url="{{@root.header.image}}" 
+    {{/if}} 
+  {{else}} 
+    background-url="https://assets.balena.io/newsletter/hero_default.png" 
+  {{/if}} 
+  background-size="cover" background-repeat="no-repeat" 
+  {{#if @root.header.color}} 
+    background-color="{{@root.header.color}}" 
+  {{else}} 
+    background-color="rgb(248, 249, 253)" 
+  {{/if}} 
+  padding-top="5px">
+  <mj-group>
+
+  {{#if @root.header.no_logo}}
+  {{else}}
+    <mj-column>
+      <mj-image width="150px" src="https://assets.balena.io/newsletter/balena_logo_white.png" href="https://balena.io" alt="balena.io logo" align="left" />
+    </mj-column>
+  {{/if}}
+    <mj-column>
+      <mj-text font-family="Lato,Helvetica,Arial,sans-serif" font-size="14px" 
+      {{#if @root.header.title_color}} 
+        color="{{@root.header.title_color}}" 
+      {{else}} 
+        color="#fff" 
+      {{/if}} 
+      align="right" padding-top="24px" height="321px" css-class="mobile_height">
+        {{ @root.header.title }}
+      </mj-text>
+
+    </mj-column>
+  </mj-group>
+
+</mj-section>

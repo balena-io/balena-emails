@@ -1,0 +1,129 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      a {
+      color: #2199e8;
+      text-decoration: none;
+      }
+
+      td {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.3;
+      font-family: Lato, Helvetica, Arial, sans-serif;
+      color: #527699;
+      }
+
+      img {
+      width: 100%;
+      }
+
+      @media only screen and (max-width: 600px) {
+      .mobile_height > div {
+      {{#if @root.header.image_height }}
+        height: calc({{ @root.header.image_height }} / {{ @root.header.image_width }} * 100vw - 46px)!important;
+      {{else}}
+        height: calc(380/600 * 100vw - 60px)!important;
+      {{/if}}
+      }
+      .mobile_share_text {
+      padding-left: 35px!important;
+      }
+      .mobile_share_text > div {
+      text-align: left!important;
+      }
+      .mobile_share_button {
+      padding-left: 35px!important;
+      padding-top: 15px!important;
+      }
+      .header_image, .header_image > div > table {
+      background-size: contain!important;
+      }
+      .card_image_position {
+      padding-left: 25px!important;
+      }
+      .featured_padding td {
+      padding-top: 5px!important;
+      }
+      }
+
+      @media only screen and (min-width: 600px) {
+      .header_image, .header_image > div > table {
+      background-size: cover!important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    {{> header }}
+
+    {{> featured }}
+
+    <!-- News -->
+    {{#if @root.news}}
+      <mj-spacer height="4px" />
+      {{> section_header title="News from balenaHQ" }}
+
+      {{#each @root.news }}
+        {{> card }}
+      {{/each }}
+    {{/if}}
+
+    <!-- Blog posts -->
+    {{#if @root.posts}}
+      <mj-spacer height="4px" />
+      {{> section_header title="The latest from our blog" }}
+      {{#each @root.posts }}
+        {{> card }}
+      {{/each }}
+    {{/if}}
+
+    <!-- Share -->
+    {{#if @root.share}}
+      <mj-spacer height="4px" />
+      {{> share }}
+    {{/if}}
+
+    <!-- Charlie -->
+    {{#if @root.charlie}}
+      <mj-spacer height="4px" />
+      {{> section_header title="Charlie's Tips 'n' Tricks" }}
+      {{> charlie }}
+    {{/if}}
+
+    <!-- Projects -->
+    {{#if @root.projects}}
+      <mj-spacer height="4px" />
+      {{> section_header title="Community projects of the month" }}
+      {{#each @root.projects }}
+        {{> card }}
+      {{/each }}
+    {{/if}}
+
+    <!-- Jobs -->
+    {{#if @root.jobs}}
+      {{> jobs }}
+    {{/if}}
+    
+    <!-- Events -->
+    <!-- 2020.03: Temporarily remove this section Due to COVID, replace with Happy Hour  -->
+    <!-- {{#if @root.events}}
+      {{> section_header title="Events" }}
+      {{> events }}
+    {{/if}} -->
+
+    <!-- Happy Hour -->
+    <!-- Remove this section once events resume -->
+    {{#if @root.events}}
+      {{> section_header title="Hang out with us" }}
+      {{> card text=@root.events.text image="img/happy.png" title="IoT Happy Hour" link="https://www.youtube.com/balenaio" button_text="Join our next session" }}
+    {{/if}}
+
+    <!-- Social/Footer/Disclaimer -->
+    {{> social }}
+    {{> footer }}
+    {{> disclaimer }}
+
+  </mj-body>
+</mjml>
