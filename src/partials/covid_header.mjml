@@ -1,0 +1,7 @@
+<mj-section padding-top="0px" padding-bottom="0px">
+
+    <mj-column>
+      <mj-image width="200px" src="img/header.png" href="https://balena.io" alt="balena.io logo" />
+    </mj-column>
+
+</mj-section>

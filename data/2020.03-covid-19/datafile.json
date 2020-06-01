@@ -1,0 +1,37 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Fold for Covid",
+    "mailchimp_subject_line": "Join the COVID-19 fight from home!",
+    "mailchimp_preview_text": "Contribute your spare computing power to Rosetta@Home to support COVID-19 research.",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "fold-for-covid",
+    "assets_folder": "img"
+  },
+  "header": {
+    "color": "rgb(239, 248, 244)",
+    "title": "",
+    "image": "img/hero.png",
+    "image_height": 760,
+    "image_width": 1200,
+    "no_logo": true
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "We're excited to announce the <a href='https://foldforcovid.io/'>Fold for Covid</a> project-- an easy way to contribute your spare computing power (PCs, laptops, single-board devices) to <a href='https://boinc.bakerlab.org/rosetta/rah/rah_about.php'>Rosetta@Home</a> and support vital COVID-19 research.<br><br>Fold for Covid increases the number of different device types that can be used for the Rosetta@Home project, enabling us to boost the amount of computing power available to the Baker Lab scientific research team at the University of Washington.<br><br><h2>Why is it important?</h2>The more computing power available, the faster protein folding simulations can be run, and the sooner a potential COVID-19 treatment can be found. In just <a href='https://foldforcovid.io/'>a few simple steps</a>, you can add your devices and play your part in the fight against this global pandemic. <br><br><a href='https://foldforcovid.io/'>Fold for Covid</a> amplifies the incredible work already being done by Baker Lab, ARM, Packet, Neocortix, and Linaro. Find out more about the project and its origins in our <a href='https://www.balena.io/blog/balena-enables-more-devices-to-join-rosetta-home-to-research-covid-19/'>announcement post</a>."
+  },
+  "banner": {
+    "color": "rgb(239, 248, 244)",
+    "image": "img/banner.png",
+    "link": "https://foldforcovid.io",
+    "title": "Join the COVID-19 fight",
+    "text": "Do you have a spare computer, laptop<br>or IoT device?",
+    "button_color": "#63ba97",
+    "button_radius": "0px",
+    "button_text": "Get started"
+  }
+}

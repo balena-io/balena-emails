@@ -1,0 +1,116 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter March 2020",
+    "mailchimp_subject_line": "March morsels from balena",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena March 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-03",
+    "assets_folder": "img"
+  },
+  "header": {
+    "title": "March 2020",
+    "image": "img/hero.png",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Welcome dear reader-- we hope you’re having a marvellous day! This month, we’re excited to announce that we’ve released our <a href='https://www.balena.io/blog/balenaos-esr-peace-of-mind-with-only-two-updates-a-year/'>Extended Support Release (ESR) process for balenaCloud</a>. This is a massive step forward for fleet owners running projects on thousands of devices at scale using balenaCloud, giving you all a more predictable release schedule.<br><br>On the blog this month, we’ve been <a href='https://www.balena.io/blog/getting-started-with-the-nvidia-jetson-nano-using-balena/'>working with the Nvidia Jetson Nano</a>, setting up a scalable deployment solution on balena to help you get these nifty devices out into the wild. We upgraded our popular balenaSound project to include synchronized multi-room audio - you can now <a href='https://www.balena.io/blog/diy-raspberry-pi-multi-room-audio-system/'>DIY your own full-home audio system</a>. Not gonna lie, we think it’s kinda awesome, and would love to <a href='https://forums.balena.io'>hear what you think</a>. From the community we’ve got a <a href='https://github.com/misterpeee/balena-gps-ntpsecd'>precision time project with GPS</a>, and a way to <a href='https://github.com/livioso/smack'>forward your SMS messages from home via Slack</a> to anywhere in the world.<br><br>Find all this and more down below!"
+  },
+  "news": [
+    {
+      "title": "Announcing Extended Support Release (ESR) for balenaCloud",
+      "link": "https://www.balena.io/blog/balenaos-esr-peace-of-mind-with-only-two-updates-a-year/",
+      "image": "img/esr.png",
+      "button_text": "Learn more",
+      "text": "The ESR process makes it easier for at-scale fleet owners to have a more predictable OS update schedule to ensure critical security or bug fixes are not missed."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Getting started with the Nvidia Jetson Nano and balena",
+      "image": "img/nvidia.png",
+      "button_text": "Read the post",
+      "link": "https://www.balena.io/blog/getting-started-with-the-nvidia-jetson-nano-using-balena/",
+      "text": "If you have your hands on a Nvidia Jetson Nano development kit and want to use it with balena, this guide shows you the way."
+    },
+    {
+      "title": "Seamless, multi-room audio with any speakers and balenaSound",
+      "image": "img/sound.png",
+      "button_text": "Read more",
+      "link": "https://www.balena.io/blog/diy-raspberry-pi-multi-room-audio-system/",
+      "text": "We gave balenaSound an update, supporting multi-room setups using bluetooth, Apple Airplay, or Spotify. Check out the post and watch the video to learn how to create your own system."
+    }
+  ],
+  "charlie": {
+    "text": "Did you know that the balena <a href='https://www.balena.io/docs/reference/base-images/base-images/'>base images</a> have a built-in command to help you install packages? Try it in your project's Dockerfile like this:<br><br><img src='img/charlie.png' /><br><br>Check <a href='https://www.balena.io/docs/reference/base-images/base-images/#installing-packages'>the documentation</a> for more details!"
+  },
+  "projects": [
+    {
+      "title": "Tackling NTP servers with precision",
+      "image": "img/ntp.png",
+      "link": "https://github.com/misterpeee/balena-gps-ntpsecd",
+      "text": "Increase the precision of time tracking on your NTP servers with this <a href='https://github.com/misterpeee/balena-gps-ntpsecd'>balena project by @misterpeee</a> via GitHub."
+    },
+    {
+      "title": "Avoid SMS and call overages with this neat project",
+      "image": "img/lego.png",
+      "link": "https://github.com/livioso/smack",
+      "text": "Create your own SMS and call forwarder based on a Pi and balena via <a href='https://github.com/livioso/smack'>this project by @livioso</a>. Explore the world and stay connected."
+    },
+    {
+      "title": "Backwards-compatible balenaEtcher?",
+      "image": "img/floppy.png",
+      "link": "https://twitter.com/leandrinux/status/1233174267275227136",
+      "text": "If you wondered whether or not Etcher works with floppy disks, well… <a href='https://twitter.com/leandrinux/status/1233174267275227136'>turns out it does</a> (thanks <a href='https://twitter.com/leandrinux'>@leandrinux</a>)!"
+    }
+  ],
+  "jobs": {
+    "text": "<strong>We’re looking for a product engineer to join the team</strong><br><br>Our ideal product engineers are visionaries with full-stack skills, proactively identifying opportunities to improve the entire UX lifecycle from design to deployment and maintenance. Could this be you? <a href='https://apply.workable.com/balena/j/942A88670B/'>Apply today!</a>"
+  },
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-march-2020"
+  },
+  "events": [
+    {
+      "attending": "",
+      "title": "Scale18x",
+      "link": "https://www.socallinuxexpo.org/scale/18x",
+      "location": "Pasadena, CA, US",
+      "event_date": "Mar 5-8, 2020"
+    },
+    {
+      "attending": "",
+      "title": "Nvidia GPU Technology Conference",
+      "link": "https://www.nvidia.com/en-us/gtc/",
+      "location": "San Jose, CA, US",
+      "event_date": "Mar 22-26, 2020"
+    },
+    {
+      "attending": "yes",
+      "title": "IoT Pune Meetup",
+      "link": "https://www.meetup.com/Internet-Of-Things-Pune-IoTPune/events/",
+      "location": "Pune, IN",
+      "event_date": "Mar 28, 2020"
+    },
+    {
+      "attending": "",
+      "title": "Internet of Things World",
+      "link": "https://tmt.knect365.com/iot-world/",
+      "location": "San Jose, CA, USA",
+      "event_date": "April 6-9, 2020"
+    },
+    {
+      "attending": "",
+      "title": "Hackaday Belgrade",
+      "link": "https://hackaday.com/tag/2020-hackaday-belgrade/",
+      "location": "Belgrade, Serbia",
+      "event_date": "May 9, 2020"
+    }
+  ]
+}

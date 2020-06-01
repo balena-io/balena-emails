@@ -1,0 +1,37 @@
+<mj-wrapper background-color="rgb(248, 249, 253)">
+
+  <mj-column width="568px">
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+
+      <mj-wrapper border="solid 1px #e8ebf2">
+        <mj-column>
+          <mj-text font-size="20px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+            Work with us!
+          </mj-text>
+
+
+          {{#if @root.jobs.text}}
+            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+              {{{ @root.jobs.text }}}
+            </mj-text>
+          {{/if}}
+
+          <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+            We’re always on the lookout for interested, talented and passionate people to join our team. Find our currently open positions and apply!
+          </mj-text>
+
+          <mj-button align="left" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" href="https://apply.workable.com/balena/" target="_blank">
+            See all jobs
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column>
+          <mj-image width="200px" src="https://assets.balena.io/newsletter/img-jobs-2x-1.png" target="_blank" css-class="jobs_image_position" />
+        </mj-column>
+
+      </mj-wrapper>
+    </mj-section>
+  </mj-column>
+
+</mj-wrapper>

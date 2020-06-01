@@ -1,0 +1,38 @@
+<mj-section background-color="#333333">
+
+  <mj-column width="80%">
+    <mj-text css-class="mobile_share_text" line-height="34px" padding-top="15px" padding-left="0px" padding-right="0px" align="center" font-size="30px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#ffffff">
+      <strong>
+        Add as many devices as you can, and tell everyone you know!<br>#jointhefold
+      </strong>
+    </mj-text>
+  </mj-column>
+
+</mj-section>
+
+
+<mj-section background-color="#333333" padding-top="0px">
+  <mj-group width="80%">
+    <mj-column>
+      <mj-button css-class="covid_button" padding-right="5px" padding-left="5px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="https://twitter.com/balena_io" target="_blank">
+        Twitter
+      </mj-button>
+    </mj-column>
+    <mj-column>
+      <mj-button css-class="covid_button" padding-right="5px" padding-left="5px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="https://www.facebook.com/balenacloud" target="_blank">
+        Facebook
+      </mj-button>
+    </mj-column>
+    <mj-column>
+      <mj-button css-class="covid_button" padding-right="5px" padding-left="5px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="https://www.instagram.com/balena_io/" target="_blank">
+        Instagram
+      </mj-button>
+    </mj-column>
+    <mj-column>
+      <mj-button css-class="covid_button" padding-right="5px" padding-left="5px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="https://www.linkedin.com/company/5000762" target="_blank">
+        Linkedin
+      </mj-button>
+    </mj-column>
+  </mj-group>
+
+</mj-section>

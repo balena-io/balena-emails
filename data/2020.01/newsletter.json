@@ -1,0 +1,137 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter January 2020",
+    "mailchimp_subject_line": "Let’s kick off 2020 together - January news from balena",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena November 2019",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-01",
+    "assets_folder": "img"
+  },
+  "header": {
+    "title": "January 2020",
+    "image": "img/hero.gif",
+    "image_height": 1159,
+    "image_width": 1830
+  },
+  "featured": {
+    "text": "Happy new year! It’s great to be starting another fresh new year, but what a year 2019 was; we <a href='https://www.balena.io/blog/announcing-balenafin-v1-1/' target='_blank'>released balenaFin v1.1</a>, added edge <a href='https://www.balena.io/blog/experimental-device-diagnostics-features-now-available/' target='_blank'>device diagnostics</a>, released <a href='https://www.balena.io/blog/living-on-the-edge-with-livepush-and-other-cli-improvements/' target='_blank'>livepush</a>, <a href='https://www.balena.io/blog/balena-secures-14-4m-to-grow-team-and-bring-edge-computing-to-every-developer/' target='_blank'>secured funding to grow our team</a>, saw <a href='https://www.balena.io/blog/beyond-the-cloud-docker-containers-in-space/' target='_blank'>balena operated from space</a>, and released <a href='https://www.balena.io/blog/balena-releases-first-fully-functional-64-bit-os-for-the-raspberry-pi-4/' target='_blank'>the first 64-bit OS for RaspberryPi 4</a>. <i>Phew!</i><br><br>We’re pushing into 2020 and working hard to bring the next batch of game-changing IoT developments to production, all the while working with our mission to <strong>reduce friction for fleet owners</strong> in mind. See you at the edge!"
+  },
+  "news": [
+    {
+      "title": "We now support the Coral Dev Board by Google",
+      "link": "https://github.com/balena-io-playground/google-coral-dev-sample",
+      "image": "img/coral.png",
+      "button_text": "Check it out on GitHub",
+      "text": "You can now install balenaOS and use balenaCloud with the Coral Dev Board. Here’s a <a href='https://github.com/balena-io-playground/google-coral-dev-sample' target='_blank'>sample project that you can use</a> to test things (get in touch if you run into any problems)."
+    },
+    {
+      "title": "balenaSound: new features added",
+      "link": "https://github.com/balena-io-projects/balena-sound",
+      "image": "img/sound.png",
+      "button_text": "Check it out on GitHub",
+      "text": "We’ve been working on some of your feature requests for balenaSound, this time around we added PIN code support and bluetooth reconnection features. Check out the <a href='https://github.com/balena-io-projects/balena-sound' target='_blank'>updated project</a> and feel free to suggest new features or contributions. A big thanks to <a href='https://github.com/AlexProgrammerDE' target='_blank'>AlexProgrammerDE</a> who’s been leading the community effort."
+    }
+  ],
+  "posts": [
+    {
+      "title": "How to customize an LED matrix… all from a web browser",
+      "image": "img/xmas.png",
+      "button_text": "Read more",
+      "link": "https://www.balena.io/blog/control-your-christmas-tree-a-raspberry-pi-powered-rgb-led-matrix-v2/",
+      "text": "The holidays might be over, but that just means there’s plenty of time to uplevel next year’s lighting game. Use this guide to create a Pi-driven customizable LED matrix. It works for a tree, but anywhere else you need some addressable LEDs too (let’s face it, where <strong>don’t</strong> you need addressable LEDs?)."
+    },
+    {
+      "title": "Remotely access Home Assistant sensor data with balenaSense",
+      "image": "img/sense.png",
+      "button_text": "Read more",
+      "link": "https://www.balena.io/blog/monitor-air-quality-around-your-home-with-home-assistant-and-balena/",
+      "text": "Imagine the ability to access your home automation and environmental data from anywhere in the world (with an internet connection, of course). Well, <strong>imagine no more</strong> because here’s a guide on running Home Assistant using balena on a Raspberry Pi!"
+    }
+  ],
+  "charlie": {
+    "text": "This month, we discover how to pipe commands into balena via SSH. Very useful to quickly run a command on a device in a non-interactive way. Check it out: <br><br><img src='img/pipe.png' />"
+  },
+  "projects": [
+    {
+      "title": "The tale of the bee-saving Christmas tree",
+      "link": "https://github.com/apic-ai/jetson-tree)",
+      "text": "Take a look at this incredible 64x Nvidia Jetson Nano Xmas Tree build, created by the team at <a href='https://apic.ai/index.html' target='_blank'>Apic.ai</a>. The cluster runs openbalena and performs deep learning on video streams of bees entering and exiting their hives, studying behavior, food, environment, and other factors. It’s a great cause and <a href='https://github.com/apic-ai/jetson-tree' target='_blank'>an amazing project.</a>"
+    },
+    {
+      "title": "Putting the platform to work",
+      "link": "https://twitter.com/MatthewCroughan/status/1201819517191634944",
+      "text": "Here’s a great look at a user putting balenaCloud to the test-- see how they manage multiple devices from one dashboard. <a href='https://twitter.com/MatthewCroughan/status/1201819517191634944' target='_blank'>Check out his example</a> to see how easy it can be to manage your fleet, big or small."
+    },
+    {
+      "title": "Giving speakers new wireless functionality with balenaSound",
+      "link": "https://twitter.com/_zorbash/status/1207428500245942272",
+      "text": "Shoutout to Dimitris for <a href='https://twitter.com/_zorbash/status/1207428500245942272' target='_blank'>putting balenaSound to the test</a>. Did you know that it now supports Apple Airplay and Spotify Connect along with Bluetooth? Give it a test."
+    }
+  ],
+  "jobs": {
+    "text": "Our FleetOps engineers are support-driven developers, and are renowned as the \"special operations forces of support\". They tackle high-impact, high-complexity cases that affect the entire balena fleet. Does this sound like you?<br><br><a href='https://apply.workable.com/balena/j/1D94B0992F/' target='_blank'>Apply today</a><br>"
+  },
+  "events": [
+    {
+      "attending": "yes",
+      "title": "Phoenix IoT DevFest",
+      "link": "https://www.thethingsnetwork.org/conference/",
+      "location": "Phoenix, AZ, USA",
+      "event_date": "Jan 25, 2020"
+    },
+    {
+      "attending": "",
+      "title": "The Things Conference",
+      "link": "https://www.thethingsnetwork.org/conference/",
+      "location": "Amsterdam, NL",
+      "event_date": "Jan 30-31, 2020"
+    },
+    {
+      "attending": "",
+      "title": "FOSDEM",
+      "link": "https://fosdem.org/2020/",
+      "location": "Brussels, BE",
+      "event_date": "Feb 1-2, 2020"
+    },
+    {
+      "attending": "",
+      "title": "HashiTalks",
+      "link": "https://events.hashicorp.com/hashitalks2020",
+      "location": "Online - Virtual Event",
+      "event_date": "Feb 20, 2020"
+    },
+    {
+      "attending": "",
+      "title": "Embedded World",
+      "link": "https://www.embedded-world.de/en",
+      "location": "Nuremberg, DE",
+      "event_date": "Feb 25-27, 2020"
+    },
+    {
+      "attending": "",
+      "title": "Scale18x",
+      "link": "https://www.socallinuxexpo.org/scale/18x",
+      "location": "Pasadena, CA, US",
+      "event_date": "Mar 5-8, 2020"
+    },
+    {
+      "attending": "yes",
+      "title": "Nvidia GPU Technology Conference",
+      "link": "https://www.nvidia.com/en-us/gtc/",
+      "location": "San Jose, CA, US",
+      "event_date": "Mar 22-26, 2020"
+    },
+    {
+      "attending": "",
+      "title": "KubeCon + CloudNative, Europe",
+      "link": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+      "location": "Amsterdam, NL",
+      "event_date": "Mar 30 - April 2, 2020"
+    }
+  ]
+}

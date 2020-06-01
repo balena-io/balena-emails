@@ -1,0 +1,22 @@
+<mj-section background-color="rgb(248, 249, 253)">
+  <mj-column width="568px">
+
+    <!-- <mj-text line-height="21px" font-size="13px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+      Every month we like to highlight innovative and interesting projects from the community. If you have seen or created anything you’d like to see featured here, don’t hesitate to let us know by dropping us a line at <a href="mailto:hello@balena.io">hello@balena.io</a>.<br>
+    </mj-text> -->
+
+    {{#each @root.projects }}
+      <mj-text font-size="15px" font-weight="700" line-height="21px" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+        <a {{#if link}} href="{{link}}" target="_blank" {{/if}} style="color: inherit;">{{ title }}</a>
+      </mj-text>
+      <mj-text font-size="13px" font-weight="400" line-height="21px" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+        {{{text}}}
+      </mj-text>
+    {{/each }}
+
+    <mj-text font-size="13px" font-weight="400" line-height="21px" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+      <br>Feel free to give them a try and let the world know how you get on in the <a href="https://forums.balena.io" target="_blank">forums</a>; the authors of these projects would love to know how you’re using them.
+    </mj-text>
+
+  </mj-column>
+</mj-section>

@@ -1,0 +1,16 @@
+<mj-section {{#if @root.social.background_color}} background-color="{{@root.social.background_color}}" {{else}} background-color="rgb(248, 249, 253)" {{/if}}>
+  <mj-group>
+    <mj-column>
+      <mj-image src="https://assets.balena.io/newsletter/social_github.png" href="https://github.com/balena-io" alt="github link" height="21px" width="21px" />
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://assets.balena.io/newsletter/social_twitter.png" href="https://twitter.com/balena_io" alt="twitter link" height="21px" width="21px" />
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://assets.balena.io/newsletter/social_fb.png" href="https://www.facebook.com/balenacloud" alt="facebook link" height="21px" width="21px" />
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://assets.balena.io/newsletter/social_ig.png"href="https://www.instagram.com/balena_io/"  alt="instagram link" height="21px" width="21px" />
+    </mj-column>
+  </mj-group>
+</mj-section>

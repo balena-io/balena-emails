@@ -1,0 +1,38 @@
+<mj-section background-color="rgb(248, 249, 253)" padding-bottom="0px">
+  <mj-column width="568px">
+    {{#if @root.events.text}}
+      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+        {{{ @root.events.text }}}
+      </mj-text>
+    {{else}}
+      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+        Here are some upcoming events you might like to check out, if you see the balena logo next to an event that means we’ll be there - come and say hello!
+      </mj-text>
+    {{/if}}
+  </mj-column>
+
+  {{#if @root.events.list}}
+    <mj-column width="100%">
+      <mj-table container-background-color="white">
+        {{#each @root.events.list }}
+          <tr>
+            <td style="padding: 15px 5px 15px 0;">
+              {{#if attending}}
+                <img src="https://assets.balena.io/newsletter/balena-icon-15x15.png" alt="" style="width: 15px!important" />
+              {{/if}}
+            </td>
+            <td style="padding: 15px 0 15px 0;">
+              <a {{#if link}} href="{{link}}" target="_blank" {{/if}} style="color: #00adee;">
+                {{ title }}
+              </a>
+            </td>
+            <td style="padding: 15px 2px 15px 0px;">
+              {{location}}
+            </td>
+            <td style="padding: 15px 2px 15px 0;">{{ event_date }}</td>
+          </tr>
+        {{/each }}
+      </mj-table>
+    </mj-column>
+  {{/if}}
+</mj-section>

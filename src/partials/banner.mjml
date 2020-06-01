@@ -1,0 +1,22 @@
+<mj-section background-color="{{@root.banner.color}}">
+
+  <mj-column width="25%">
+    <mj-image padding-right="0px" padding-left="35px" width="150px" src="{{@root.banner.image}}" href="https://balena.io" alt="balena.io logo" align="left" />
+  </mj-column>
+
+  <mj-column width="45%">
+    <mj-text css-class="mobile_share_text" line-height="18px" padding-top="15px" padding-left="0px" padding-right="0px" align="center" font-size="18px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="rgb(41,80,111)">
+      <strong>{{ @root.banner.title }}</strong>
+    </mj-text>
+    <mj-text css-class="mobile_share_text" line-height="21px" padding-left="0px" padding-top="0px" padding-right="0px" padding-bottom="0px" align="center" font-size="13px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+      {{{ @root.banner.text }}}
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="30%">
+    <mj-button css-class="mobile_share_button" align="left" padding-top="15%" padding-left="0px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="{{ @root.banner.link }}" target="_blank">
+      {{ @root.banner.button_text }}
+    </mj-button>
+  </mj-column>
+
+</mj-section>

@@ -1,54 +1,30 @@
 {
   "name": "resin-emails",
   "version": "1.1.0",
-  "description": "resin.io email generator.",
-  "repository": "resin-io/resin-emails",
-  "main": "gulpfile.babel.js",
+  "description": "balena.io email generator.",
+  "repository": "balena-io/resin-emails",
+  "main": "gulp build",
   "scripts": {
-    "start": "gulp",
-    "build": "gulp --production",
-    "zip": "gulp zip --production",
-    "litmus": "gulp litmus --production"
+    "watch": "gulp watch",
+    "build": "gulp build",
+    "staging": "gulp staging",
+    "publish": "gulp publish"
   },
-  "author": "Craig Mulligan <craig@resin.io>",
-  "license": "MIT",
+  "author": "Tomás Migone <tomas@balena.io>",
+  "license": "Apache-2.0",
   "dependencies": {
-    "foundation-emails": "^2.2.1",
-    "node-sass": "^4.9.3"
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-es2015": "^6.3.13",
-    "babel-register": "^6.26.0",
-    "beepbeep": "^1.2.0",
-    "browser-sync": "^2.24.7",
-    "colors": "^1.3.2",
-    "gulp": "^4.0.0",
-    "gulp-awspublish": "^3.4.0",
-    "gulp-cli": "^2.0.1",
-    "gulp-html-src": "^1.0.0",
-    "gulp-htmlmin": "^5.0.1",
-    "gulp-if": "^2.0.0",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-inline-css": "^3.0.0",
-    "gulp-litmus": "0.0.7",
-    "gulp-load-plugins": "^1.1.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-copy": "^4.0.1",
+    "gulp-hb": "^8.0.0",
+    "gulp-mjml": "^4.0.2",
     "gulp-rename": "^1.4.0",
-    "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-zip": "^4.2.0",
-    "inky": "^1.3.6",
-    "lazypipe": "^1.0.1",
-    "merge-stream": "^1.0.0",
-    "panini": "^1.3.0",
-    "rimraf": "^2.3.3",
-    "siphon-media-query": "^1.0.0",
-    "yargs": "^12.0.2"
-  },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
+    "gulp-size": "^3.0.0",
+    "handlebars": "^4.5.1",
+    "handlebars-helpers": "^0.10.0",
+    "mailchimp-api-v3": "^1.13.1",
+    "mjml": "^4.5.1",
+    "netlify": "^2.4.8",
+    "rimraf": "^3.0.0"
   }
 }
