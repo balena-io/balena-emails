@@ -21,7 +21,13 @@
   {{#if @root.header.no_logo}}
   {{else}}
     <mj-column>
-      <mj-image width="150px" src="https://assets.balena.io/newsletter/balena_logo_white.png" href="https://balena.io" alt="balena.io logo" align="left" />
+      <mj-image width="150px" 
+        {{#if @root.header.dark}}
+          src="https://assets.balena.io/newsletter/balena_logo_dark.png"
+        {{else}}
+          src="https://assets.balena.io/newsletter/balena_logo_white.png"
+        {{/if}} 
+        href="https://balena.io" alt="balena.io logo" align="left" />
     </mj-column>
   {{/if}}
     <mj-column>
