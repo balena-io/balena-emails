@@ -14,14 +14,24 @@
             <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
               {{{ @root.jobs.text }}}
             </mj-text>
+          {{else}}
+            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+              We’re always on the lookout for interested, talented and passionate people to join our team. Find our currently open positions and apply!
+            </mj-text>
           {{/if}}
 
-          <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
-            We’re always on the lookout for interested, talented and passionate people to join our team. Find our currently open positions and apply!
-          </mj-text>
-
-          <mj-button align="left" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" href="https://apply.workable.com/balena/" target="_blank">
-            See all jobs
+          <mj-button align="left" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" 
+          {{#if @root.jobs.link}}
+            href="{{@root.jobs.link}}" 
+          {{else}}
+            href="https://apply.workable.com/balena/" 
+          {{/if}} 
+          target="_blank">
+            {{#if @root.jobs.button_text}}
+              {{{ @root.jobs.button_text }}}
+            {{else}}
+              See all jobs
+            {{/if}}
           </mj-button>
 
         </mj-column>

@@ -14,6 +14,7 @@
     "assets_folder": "img"
   },
   "header": {
+    "dark": "yes",
     "title": "June 2020",
     "title_color": "rgb(41, 81, 112)",
     "image": "img/hero.jpg",
@@ -42,7 +43,7 @@
   "posts": [
     {
       "title": "Extend your internet access to add more places to WFH",
-      "image": "",
+      "image": "img/wifi.png",
       "button_text": "Try it out",
       "link": "https://www.balena.io/blog/turn-a-raspberry-pi-into-a-wi-fi-access-point-or-repeater/",
       "text": "Use this guide to turn a Raspberry Pi into a Wi-Fi access point or repeater. Now you can work from home in the garden, the garage, the yard, and more."
@@ -64,7 +65,7 @@
   ],
 
   "charlie": {
-    "text": "Our <a href='https://www.balena.io/docs/reference/base-images/base-images/'>base images</a> now come with the <code>balena-idle</code> utility. Call <code>balena-idle</code> in your scripts and it’ll keep the container idling:<br><img src='img/charlie.png'>This is helpful when debugging or if you execute a command that exits immediately! There are options to change to message or interval between each message (<code>-m</code> and <code>-i</code>)."
+    "text": "Our <a href='https://www.balena.io/docs/reference/base-images/base-images/'>base images</a> now come with the <code>balena-idle</code> utility. Call <code>balena-idle</code> in your scripts and it’ll keep the container idling:<br><br><img src='img/charlie.png'><br><br>This is helpful when debugging or if you execute a command that exits immediately! There are options to change to message or interval between each message (<code>-m</code> and <code>-i</code>)."
   }, 
 
   "projects": [
@@ -90,11 +91,13 @@
       "title": "Every little bit counts!",
       "image": "",
       "link": "https://twitter.com/Harrison__DW/status/1255572815878602752",
-      "text": "This project <a href='https://twitter.com/Harrison__DW/status/1255572815878602752'>empowers everyone to join the fight</a> -- every spare device people can spare helps the cause. Thanks, <a href='https://twitter.com/Harrison__DW'>@Harrison__DW!</a>"
+      "text": "Fold for Covid <a href='https://twitter.com/Harrison__DW/status/1255572815878602752'>empowers everyone to join the fight</a> -- every spare device people can spare helps the cause. Thanks, <a href='https://twitter.com/Harrison__DW'>@Harrison__DW!</a>"
     }
   ],
   "jobs": {
-    "text": "Want to enable developers to succeed in IoT and edge computing by helping them deploy and manage large fleets of devices across the globe? <a href='https://apply.workable.com/balena/j/39F9C34AA8/'>Get in touch</a>"
+    "text": "<strong>Now hiring: Technical Sales Lead/Sales Engineer</strong><br><br>Want to enable developers to succeed in IoT and edge computing by helping them deploy and manage large fleets of devices across the globe?",
+    "link": "https://apply.workable.com/balena/j/39F9C34AA8/",
+    "button_text": "Apply today"
   },
   "share": {
     "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-june-2020"
