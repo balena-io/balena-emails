@@ -4,6 +4,12 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.0.0
+## (2020-06-03)
+
+* newsletter: june 2020 feedback [Tomás Migone]
+* Replace Zurb foundation stack with MJML. [Tomás Migone]
+
 ## 1.1.0 - 2019-02-18
 
 * Add description to events [Daniel Andrade]
