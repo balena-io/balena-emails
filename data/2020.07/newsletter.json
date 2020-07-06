@@ -1,0 +1,81 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter July 2020",
+    "mailchimp_subject_line": "July updates: Fold for Covid news, check out InkyShot, and get started with OpenDataCam",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena July 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-07",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "July 2020",
+    "title_color": "rgb(41, 81, 112)",
+    "image": "img/hero.png",
+    "image_height": 500,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Hello, reader!<br><br>This month we’re excited to share some <a href='https://twitter.com/RosettaAtHome/status/1276324129390555136'>news about Rosetta@home</a>. The research team has found proteins that potentially neutralize COVID-19 in lab tests. Thanks to everyone for your continued help here via <a href='https://foldforcovid.io'>Fold for Covid</a>!<br><br>Looking for a summer project? If you want to try AI at the edge, try <a href='https://www.balena.io/blog/using-opendatacam-and-balena-to-quantify-the-world-with-ai/'>OpenDataCam</a>, or if you want a beautiful way to share quotes and messages with others, check out <a href='https://www.balena.io/blog/send-personal-messages-and-inspirational-quotes-with-this-e-ink-display-project/'>InkyShot</a>.<br><br>As always, we’re highlighting a few community-led projects and encourage you all to join us during our next <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk'>IoT Happy Hour</a>. Stay healthy and stay safe out there!"
+  },
+  "news": [
+    {
+      "title": "Fold for Covid update: Rosetta@home helps researchers find potential protein",
+      "link": "https://twitter.com/RosettaAtHome/status/1276324129390555136",
+      "image": "img/covid.png",
+      "button_text": "Learn more",
+      "text": "We’re so excited to hear that all of the contributed computing power from projects like <a href='https://foldforcovid.io/'>Fold for Covid</a> has helped University of Washington scientists discover a protein that neutralizes COVID-19 in lab tests. The fight isn’t over yet-- please contribute spare compute power to <a href='https://foldforcovid.io/'>Fold for Covid</a> or share with other folks who might be interested."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Have you tried Inkyshot yet?",
+      "image": "img/inky.png",
+      "button_text": "Try the project",
+      "link": "https://www.balena.io/blog/send-personal-messages-and-inspirational-quotes-with-this-e-ink-display-project/",
+      "text": "Turn an e-ink screen and Raspberry Pi into a daily inspiration quote generator or send messages between friends and loved ones."
+    },
+    {
+      "title": "Easily set up computer vision to quantify the world around us",
+      "image": "img/cv.png",
+      "button_text": "See the project",
+      "link": "https://www.balena.io/blog/using-opendatacam-and-balena-to-quantify-the-world-with-ai/",
+      "text": "Use OpenDataCam and balena to set up your own citizen science project. Capture and quantify automobiles, bikes, and foot traffic using AI at the edge."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Crush the commute in this AI-powered game",
+      "image": "",
+      "link": "https://youtu.be/YfRvUeSLi0M?t=3591",
+      "text": "Thibault Durand of OpenDataCam answered all our AI-related questions during <a href='https://www.youtube.com/watch?v=YfRvUeSLi0M'>IoT Happy Hour Episode 14</a> and showed off his <a href='https://youtu.be/YfRvUeSLi0M?t=3591'> ”Beat the Traffic” game</a>. Check it out!"
+    },
+    {
+      "title": "Building low-cost IoT contact tracing",
+      "image": "",
+      "link": "https://www.instagram.com/p/CBo4QSqlWjI",
+      "text": "Check out this <a href='https://www.instagram.com/p/CBo4QSqlWjI/'>Bluetooth-based contact tracing setup</a> optimized for high-movement and traffic areas featuring the balenaFin! It’s a creation by <a href='https://www.hackster.io/james-yu'>James Yu</a> in participation with the United Nations Development Programme’s <a href='https://www.covid19detectprotect.org/'>COVID-19 Detect and Protect Challenge</a>."
+    },
+    {
+      "title": "Delivering supplies from a distance",
+      "image": "",
+      "link": "https://www.instagram.com/p/CBiTc1ojGpg/",
+      "text": "We’re excited to see a <a href='https://www.instagram.com/p/CBiTc1ojGpg/'>balenaFin power “Pepsi,” a delivery robot project</a> as part of the COVID-19 Detect and Protect Challenge."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-july-2020"
+  },
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more.",
+    "list": []
+  }
+}
