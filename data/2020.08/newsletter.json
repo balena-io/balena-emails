@@ -1,0 +1,99 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter August 2020",
+    "mailchimp_subject_line": "August updates: Partnering with Coral on local AI, steampunk Geiger counters, and a one-click LoRa setup",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena August 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-08",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "August 2020",
+    "title_color": "rgb(41, 81, 112)",
+    "image": "img/hero.png",
+    "image_height": 500,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Hello, reader!<br><br> This month we’re excited about <a href='https://www.balena.io/blog/balena-partners-with-coral-to-enable-ai-at-the-edge/' target='_blank'>partnering with Coral</a> to help developers bring their local AI projects to life. We made a bit of a splash with the <a href='https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/' target='_blank'>Steampunk Geiger Counter project</a>, <a href='https://www.balena.io/blog/deploy-a-basics-station-lora-gateway-with-ttn-and-balena/' target='_blank'> presented a simple way to start up a LoRa network with Basics Station</a>, and helped users fix those <a href='https://www.balena.io/blog/did-etcher-break-my-usb-sd-card/' target='_blank'>corrupted USB or SD card drives</a>.<br><br>From the community, we’re happy to spotlight this project guide on <a target='_blank' href='https://www.balena.io/blog/rapid-prototyping-a-gps-tracker-with-balenaos-a-community-perspective/'>using balenaOS to prototype a GPS tracking system</a>, as well as having a few guests on our IoT Happy Hour to talk shop.<br><br>Check out the updates and take care out there!"
+  },
+  "news": [
+    {
+      "title": "Partnering with Coral to enable AI at the edge",
+      "link": "https://www.balena.io/blog/balena-partners-with-coral-to-enable-ai-at-the-edge/",
+      "image": "img/coral.png",
+      "button_text": "Check it out",
+      "text": "We’re working together to simplify how edge developers provision, deploy, and manage AI projects. If you have a Coral Dev Board from Google, and some balena skills, go ahead and give our local AI project a try."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Check out this steampunk’d Geiger counter",
+      "image": "img/geiger.png",
+      "button_text": "See the project",
+      "link": "https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor",
+      "text": "Hardware Hacker Chris is at it again -- adding a steampunk mystique to a Raspberry Pi-powered radiation monitor. Check out the in-depth build guide, <a target='_blank' href='https://www.youtube.com/watch?v=lEL_XkN69n8'>watch the video</a>, or try building a <a target='_blank' href='https://www.balena.io/blog/build-a-simple-radiation-monitor-using-a-raspberry-pi-influxdb-and-grafana/'>simpler version</a>."
+    },
+    {
+      "title": "That \"busted\" USB stick or SD card might actually be fixable...",
+      "image": "img/etcher.png",
+      "button_text": "Fix your drive",
+      "link": "https://www.balena.io/blog/did-etcher-break-my-usb-sd-card/",
+      "text": "Our Hardware Hackers and Engineers put tons of USB sticks and SD cards to work using Etcher. Sometimes these drives get corrupted and just need a quick fix. Check out the guide to learn more."
+    },
+    {
+      "title": "Build your own LoRa networks with TTN’s Basics Station and balena",
+      "image": "img/lora.png",
+      "button_text": "Try it out",
+      "link": "https://www.balena.io/blog/deploy-a-basics-station-lora-gateway-with-ttn-and-balena/",
+      "text": "Learn how to command a fleet of sensors using The Things Network’s Basics Station and balena. What will you build next?"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Community project spotlight: SCRobotics uses balenaOS in prototyping",
+      "image": "",
+      "link": "https://www.balena.io/blog/rapid-prototyping-a-gps-tracker-with-balenaos-a-community-perspective/",
+      "text": "If you’re curious about how to prototype with balena, check out this guide from SCRobotics. They use balenaOS to prototype a GPS tracker, which you can build by following <a target='_blank' href='https://www.balena.io/blog/rapid-prototyping-a-gps-tracker-with-balenaos-a-community-perspective/'>this project</a>."
+    },
+    {
+      "title": "Build your own IoT security camera network with kerberos.io",
+      "image": "",
+      "link": "https://www.youtube.com/watch?v=MXmg_IadRNk&list=PLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk&index=4&t=0s",
+      "text": "On IoT Happy Hour episode 15, we were joined by Cedric Verstraeten. He walked the crew through how to set up kerberos.io with balena and tackled some user Q&A. Check out the <a target='_blank' href='https://www.youtube.com/watch?v=MXmg_IadRNk&list=PLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk&index=4&t=0s'>episode</a>."
+    },
+    {
+      "title": "Learn more about how RAK builds LoRa gateways",
+      "image": "",
+      "link": "https://www.youtube.com/watch?v=m4xCeOilTT0",
+      "text": "We had the wonderful opportunity to have Jose Marcellino from RAK on IoT Happy Hour episode 17, where the crew talked about building a LoRa network. <a target='_blank' href='https://www.youtube.com/watch?v=m4xCeOilTT0'>Catch up on the episode</a> and don’t forget to like and subscribe."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-august-2020"
+  },
+
+  "charlie": {
+    "text": "Our <a target='_blank' href='https://www.balena.io/docs/reference/base-images/base-images/'>base images</a> include the <code>balena-info</code> utility which provides base image information and any warning or deprecation messages. Simply <a target='_blank' href='https://www.balena.io/docs/learn/manage/ssh-access/'>ssh</a> into a container and run <code>balena-info</code>:<img src='img/charlie.png'>"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a Backend Engineer to help our team to build and maintain the core of balena’s products and services. Get involved with the technical direction for our platform, and design and build its improvements. Get in touch if you have a strong interest in building resilient and robust systems, as well as successful products for our users.",
+    "link": "https://apply.workable.com/balena/j/8BF6036D98/",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more.",
+    "list": []
+  }
+}
