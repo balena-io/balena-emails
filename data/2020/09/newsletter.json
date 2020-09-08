@@ -96,7 +96,7 @@
   },
 
   "charlie": {
-    "text": "Did you know that you can now speed up your development process by combining livepush with custom monitors? By using the <code>dev-cmd-live</code> directive, you can override the existing Dockerfile’s <code>CMD</code> when running livepush to use nodemon, webpack-dev-server, or your program of choice. Read more about livepush and it’s directives <a target='_blank' href='https://github.com/balena-io-modules/livepush#webpack-dev-servernodemonmy-custom-monitor-is-faster'>here</a>.<br><br><img src='img/charlie.png'>"
+    "text": "Did you know that you can now speed up your development process by combining livepush with custom monitors? By using the <code>dev-cmd-live</code> directive, you can override the existing Dockerfile’s <code>CMD</code> when running livepush to use nodemon, webpack-dev-server, or your program of choice. Read more about livepush and its directives <a target='_blank' href='https://github.com/balena-io-modules/livepush#webpack-dev-servernodemonmy-custom-monitor-is-faster'>here</a>.<br><br><img src='img/charlie.png'>"
   },
 
   "jobs": {
