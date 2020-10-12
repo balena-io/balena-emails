@@ -16,7 +16,7 @@
   "header": {
     "dark": "yes",
     "title": "October 2020",
-    "title_color": "rgb(41, 81, 112)",
+    "title_color": "rgb(248, 249, 253)",
     "image": "img/hero.png",
     "image_height": 628,
     "image_width": 1200
@@ -28,21 +28,21 @@
     {
       "title": "Reflecting on balenaSummit 2020",
       "link": "https://www.balena.io/blog/how-we-ran-a-virtual-summit-for-100-people/",
-      "image": "img/fin.png",
+      "image": "img/summit.png",
       "button_text": "Read the recap",
       "text": "Our team gathers every year to reflect, share, and grow together to set up the next year. Even though this year’s event was remote, we made the most of it as well as a few new memories."
     },
     {
       "title": "Introducing high-level device metrics",
       "link": "https://www.balena.io/blog/introducing-lightweight-high-level-device-metrics-balenacloud/",
-      "image": "img/vpn.png",
+      "image": "img/metrics.png",
       "button_text": "Try it out",
       "text": "Now you can see device metrics right from the balenaCloud dashboard with no extra code. We built this feature in a day as part of our recent Release Party."
     },
     {
       "title": "The DIY way to fix the balenaFin temp issue",
       "link": "https://www.balena.io/blog/fixing-the-balenafin-high-temp-issue-the-diy-way/",
-      "image": "img/vpn.png",
+      "image": "img/temp.png",
       "button_text": "Learn more",
       "text": "Last month we mentioned that we’re addressing balenaFin’s temperature issue. Here’s the latest way to fix it the DIY way."
     }
@@ -50,14 +50,14 @@
   "posts": [
     {
       "title": "Create your own local AI project with Edge Impulse",
-      "image": "img/cam.png",
+      "image": "img/impulse.png",
       "button_text": "Try it out",
       "link": "https://www.balena.io/blog/how-to-classify-socks-using-a-raspberry-pi-edge-impulse-and-balena/",
       "text": "All you need is a Raspberry Pi and Edge Impulse to start your own machine learning project. We start with matching socks, <i>but the possibilities are endless</i>."
     },
     {
       "title": "Have you tried Deploy with balena?",
-      "image": "img/ble.png",
+      "image": "img/dwb.png",
       "button_text": "Set it up",
       "link": "https://www.balena.io/blog/deploy-with-balena-makes-it-easier-to-deploy-and-share-iot-apps/",
       "text": "You’ve probably seen Deploy with balena on many projects. Get an inside look at how to set it up and why it’s helping users improve how they share and adopt projects."
