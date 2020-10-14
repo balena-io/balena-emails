@@ -22,22 +22,22 @@
     "image_width": 1200
   },
   "featured": {
-    "text": "Hello there, readers!<br><br>We are energized and inspired after our remote 2020 Summit event! Also, did you know that we built a feature in a day? Try out high-level device metrics in the dashboard.<br><br>Fresh from the lab are guides on starting your own local AI project using Edge Impulse, and how to add Deploy with balena to your next IoT project to improve how other users adopt and share it.<br><br>As always, check out our highlighted community projects and see you during the next IoT Happy Hour."
+    "text": "Hello there, readers!<br><br>We’re energized and inspired after <a target='_blank' href='https://www.balena.io/blog/how-we-ran-a-virtual-summit-for-100-people/'>this year’s remote 2020 Summit event</a>! Also, did you know that we built a feature in a day? Try out <a target='_blank' href='https://www.balena.io/blog/introducing-lightweight-high-level-device-metrics-balenacloud/'>high-level device metrics</a> in the dashboard.<br><br>Fresh from the lab are guides on starting your own <a target='_blank' href='https://www.balena.io/blog/how-to-classify-socks-using-a-raspberry-pi-edge-impulse-and-balena/'>local AI project using Edge Impulse</a>, and how to add <a target='_blank' href='https://www.balena.io/blog/deploy-with-balena-makes-it-easier-to-deploy-and-share-iot-apps/'>Deploy with balena</a> to your next IoT project to improve how other users adopt and share it.<br><br>As always, check out our highlighted community projects and see you during the next IoT Happy Hour."
   },
   "news": [
     {
-      "title": "Reflecting on balenaSummit 2020",
+      "title": "How we ran our remote Summit 2020",
       "link": "https://www.balena.io/blog/how-we-ran-a-virtual-summit-for-100-people/",
       "image": "img/summit.png",
       "button_text": "Read the recap",
-      "text": "Our team gathers every year to reflect, share, and grow together to set up the next year. Even though this year’s event was remote, we made the most of it as well as a few new memories."
+      "text": "Our team gathers every year to reflect, share, and grow together to set up the next year. Learn how we ran the 2020 event remotely for ~100 teammates around the world."
     },
     {
       "title": "Introducing high-level device metrics",
       "link": "https://www.balena.io/blog/introducing-lightweight-high-level-device-metrics-balenacloud/",
       "image": "img/metrics.png",
       "button_text": "Try it out",
-      "text": "Now you can see device metrics right from the balenaCloud dashboard with no extra code. We built this feature in a day as part of our recent Release Party."
+      "text": "Now you can see device metrics right from the balenaCloud dashboard with no extra code. We built this feature in a day as part of our <a target='_blank' href='https://www.youtube.com/watch?v=O1m6SOHUBKA'>recent Release Party</a>"
     },
     {
       "title": "The DIY way to fix the balenaFin temp issue",
