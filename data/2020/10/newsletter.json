@@ -1,0 +1,106 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter October 2020",
+    "mailchimp_subject_line": "October updates: News from balena Summit 2020, how we built a feature in a day, and start an AI project with Edge Impulse",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena October 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-10",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "October 2020",
+    "title_color": "rgb(248, 249, 253)",
+    "image": "img/hero.png",
+    "image_height": 628,
+    "image_width": 1200
+  },
+  "featured": {
+    "text": "Hello there, readers!<br><br>We’re energized and inspired after <a target='_blank' href='https://www.balena.io/blog/how-we-ran-a-virtual-summit-for-100-people/'>this year’s remote 2020 Summit event</a>! Also, did you know that we built a feature in a day? Try out <a target='_blank' href='https://www.balena.io/blog/introducing-lightweight-high-level-device-metrics-balenacloud/'>high-level device metrics</a> in the dashboard.<br><br>Fresh from the lab are guides on starting your own <a target='_blank' href='https://www.balena.io/blog/how-to-classify-socks-using-a-raspberry-pi-edge-impulse-and-balena/'>local AI project using Edge Impulse</a>, and how to add <a target='_blank' href='https://www.balena.io/blog/deploy-with-balena-makes-it-easier-to-deploy-and-share-iot-apps/'>Deploy with balena</a> to your next IoT project to improve how other users adopt and share it.<br><br>As always, check out our highlighted community projects and see you during the next IoT Happy Hour."
+  },
+  "news": [
+    {
+      "title": "How we ran our remote Summit 2020",
+      "link": "https://www.balena.io/blog/how-we-ran-a-virtual-summit-for-100-people/",
+      "image": "img/summit.png",
+      "button_text": "Read the recap",
+      "text": "Our team gathers every year to reflect, share, and grow together to set up the next year. Learn how we ran the 2020 event remotely for ~100 teammates around the world."
+    },
+    {
+      "title": "Introducing high-level device metrics",
+      "link": "https://www.balena.io/blog/introducing-lightweight-high-level-device-metrics-balenacloud/",
+      "image": "img/metrics.png",
+      "button_text": "Try it out",
+      "text": "Now you can see device metrics right from the balenaCloud dashboard with no extra code. We built this feature in a day as part of our <a target='_blank' href='https://www.youtube.com/watch?v=O1m6SOHUBKA'>recent Release Party</a>"
+    },
+    {
+      "title": "The DIY way to fix the balenaFin temp issue",
+      "link": "https://www.balena.io/blog/fixing-the-balenafin-high-temp-issue-the-diy-way/",
+      "image": "img/temp.png",
+      "button_text": "Learn more",
+      "text": "Last month we mentioned that we’re addressing balenaFin’s temperature issue. Here’s the latest way to fix it the DIY way."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Create your own local AI project with Edge Impulse",
+      "image": "img/impulse.png",
+      "button_text": "Try it out",
+      "link": "https://www.balena.io/blog/how-to-classify-socks-using-a-raspberry-pi-edge-impulse-and-balena/",
+      "text": "All you need is a Raspberry Pi and Edge Impulse to start your own machine learning project. We start with matching socks, <i>but the possibilities are endless</i>."
+    },
+    {
+      "title": "Have you tried Deploy with balena?",
+      "image": "img/dwb.png",
+      "button_text": "Set it up",
+      "link": "https://www.balena.io/blog/deploy-with-balena-makes-it-easier-to-deploy-and-share-iot-apps/",
+      "text": "You’ve probably seen Deploy with balena on many projects. Get an inside look at how to set it up and why it’s helping users improve how they share and adopt projects."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Take a look at our massive Inkyshot fleet",
+      "image": "",
+      "link": "https://www.youtube.com/watch?v=H43s1VDo3AI",
+      "text": "Learn how we kept our team connected and inspired during Summit 2020 using <a target='_blank' href='https://www.youtube.com/watch?v=H43s1VDo3AI'>InkyShots distributed across the globe</a>."
+    },
+    {
+      "title": "Applying balena to home automation",
+      "image": "",
+      "link": "https://twitter.com/ProfFalken/status/1312656143425175552",
+      "text": "Props to ProfFalken for using balena to <a target='_blank' href='https://twitter.com/ProfFalken/status/1312656143425175552'>deploy home automation</a>. You can also use <a target='_blank' href='https://www.balena.io/blog/monitor-air-quality-around-your-home-with-home-assistant-and-balena/'>Home Assistant and balena as well</a>."
+    },
+    {
+      "title": "Did we catch you at PyCon India or ARM Dev Summit?",
+      "image": "",
+      "link": "https://twitter.com/vipulgupta2048/status/1312658675895398400",
+      "text": "Glad to see <a target='_blank' href='https://twitter.com/vipulgupta2048/status/1312658675895398400'>PyCon India 2020</a> folks enjoying our balena workshop. We also are thrilled to see the excitement for balena out of <a target='_blank' href='https://twitter.com/fixxxxxxer/status/1313187144781848576'>ARM Dev Summit</a>."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-october-2020"
+  },
+
+  "charlie": {
+    "text": "Oftentimes a device can end up in an ‘Offline’ state while still working and locally accessible. How can we connect to a faulty production device in the field?<br><br>If you have a working device sharing the same network you can use it as a gateway device to remote SSH into the faulty one. You’ll need the UUIDs of both the gateway ('Online') and target ('Offline') devices, as well as your balena username, and run the following command.<br><br><img src='img/charlie.png'><br><br>You can read more about this process <a target='_blank' href='https://www.balena.io/docs/learn/more/masterclasses/device-debugging/#4-accessing-a-device-using-a-gateway-device'>here</a>."
+  },
+
+  "jobs": {
+    "text": "We’re looking for a Lead Security Engineer to join our remote team. <br>Do you have the skills to improve how we secure our product and its infrastructure?",
+    "link": "https://apply.workable.com/balena/j/01A0106413/",
+    "button_text": "Learn more and apply"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more.",
+    "list": []
+  }
+}
