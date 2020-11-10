@@ -4,6 +4,14 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.0.4
+## (2020-11-10)
+
+* newsletter: october fixes [Tomás Migone]
+* newsletter: add updated assets [Tomás Migone]
+* newsletter: October [Tomás Migone]
+* Fix typo [Tomás Migone]
+
 # v2.0.3
 ## (2020-09-08)
 
