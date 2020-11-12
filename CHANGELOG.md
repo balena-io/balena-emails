@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.0.5
+## (2020-11-12)
+
+* newsletter: added november 2020 data [Tomás Migone]
+
 # v2.0.4
 ## (2020-11-10)
 
