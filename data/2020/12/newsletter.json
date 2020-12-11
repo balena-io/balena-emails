@@ -1,0 +1,116 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter December 2020",
+    "mailchimp_subject_line": "December updates: Meet balenaHub, see our holiday gift guide, create an AI audio analyzer with Coral, and build a Scratch server",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena December 2020",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2020-12",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "December 2020",
+    "title_color": "rgb(41, 81, 112)",
+    "image": "img/hero.png",
+    "image_height": 628,
+    "image_width": 1200
+  },
+
+  "featured": {
+    "text": "Hello, readers!<br><br>We’re excited to announce <a href='https://hub.balena.io/'>balenaHub</a>: find and deploy ready-made edge and IoT projects made by product builders like you, or share your own app with the world. Try it out!<br><br>From the lab, we show educators <a href='https://www.balena.io/blog/build-a-scratch-server-using-a-raspberry-pi-and-balena/'>how to set up a Scratch server on a Raspberry Pi</a>, and introduce <a href='https://www.balena.io/blog/analyze-sounds-using-ai-on-the-edge-and-fleet-intelligence-part-1/'>AI-driven audio analysis</a> using Coral and balena. We also took a deep look at the <a href='https://www.balena.io/blog/why-is-the-balenafin-right-for-fleet-owners-part-3-networking/'>networking features of balenaFin</a>.<br><br>Check out our <a href='https://www.balena.io/blog/holiday-gift-suggestions-for-the-hardware-hackers-in-your-life/'>holiday gift guide</a> if you need ideas and see some interesting balena community spotlights below. Happy holidays, everyone."
+  },
+
+  "news": [
+    {
+      "title": "Introducing balenaHub",
+      "link": "https://www.balena.io/blog/introducing-balenahub-an-easier-way-to-find-and-publish-apps-and-projects-for-edge-devices/ ",
+      "image": "img/hub.png",
+      "button_text": "Learn more",
+      "text": "As part of <a href='https://www.youtube.com/watch?v=H9WdDZooL4Q'>Release Party #2</a>, we assembled and launched balenaHub, a new way to find edge and IoT projects that are proven, and ready to deploy. Or you can submit your own project to share with the community."
+    },
+    {
+      "title": "Announcing EtcherPro pre-order date: 5 Jan 2021",
+      "link": "https://forums.balena.io/t/etcherpro-progress-updates/23741/27",
+      "image": "img/etcherpro.png",
+      "button_text": "Stay updated",
+      "text": "We’re starting the new year by accepting pre-order requests for <a href='https://www.balena.io/etcher/pro/''>EtcherPro</a> starting on 5 Jan 2021. Follow along on our journey to launching EtcherPro <a href='https://forums.balena.io/t/etcherpro-progress-updates/23741/27'>on the forums</a>."
+    }
+  ],
+
+  "posts": [
+    {
+      "title": "Create an audio analysis project using AI",
+      "image": "img/coral.png",
+      "button_text": "See the project",
+      "link": "https://www.balena.io/blog/analyze-sounds-using-ai-on-the-edge-and-fleet-intelligence-part-1/",
+      "text": "AI-driven audio analysis can quantify the world around us by sound. Imagine measuring noise pollution or predicting machine failure all with Coral, balena, and a microphone."
+    },
+    {
+      "title": "Build your own Scratch server for one person or a whole classroom",
+      "image": "img/scratch.png",
+      "button_text": "Build it",
+      "link": "https://www.balena.io/blog/build-a-scratch-server-using-a-raspberry-pi-and-balena/",
+      "text": "Scratch is a popular way for young students to practice coding and systematic problem solving. Now you can load up Scratch on a Raspberry Pi using balena-- educators can build just one or an entire fleet easily."
+    },
+    {
+      "title": "Get a closer look at balenaFin’s networking capabilities",
+      "image": "img/fin.png",
+      "button_text": "Learn more",
+      "link": "https://www.balena.io/blog/why-is-the-balenafin-right-for-fleet-owners-part-3-networking",
+      "text": "Our custom carrier board, balenaFin, has certain networking capabilities that prepare it for industrial, remote environments. Take a closer look at our hardware."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Congrats to these community members for adding their projects to balenaHub",
+      "image": "",
+      "link": "https://hub.balena.io",
+      "text": "Let's take a moment to applaud: <ul><li>AlexProgrammerDE (<a href='https://github.com/AlexProgrammerDE/balena-minecraft-server'>balena Minecraft</a>),</li> <li>Willswire (<a href='https://github.com/willswire/balena-cups'>wireless printing via CUPS and balena</a>),</li> <li>MatthewCroughan (<a href='https://github.com/MatthewCroughan/octobalena'>remotely control 3D printers with octobalena</a>),</li> <li>klutchell (<a href='https://github.com/klutchell/balena-pihole'>create your own ad blocker</a>),</li> <li>opendatacam (<a href='https://github.com/balenalabs-incubator/opendatacam'>AI and computer vision with balena</a>), and </li><li>edgeimpulse (<a href='https://github.com/edgeimpulse/balena-cam-tinyml'>machine learning with a Raspberry Pi and balena</a>)</li></ul>Thanks for being a part of our first set of balenaHub apps. Check out all the apps on <a href='https://hub.balena.io/'>balenaHub</a> or submit your own."
+    },
+    {
+      "title": "It’s that time of the year-- festive lights!",
+      "image": "",
+      "link": "https://twitter.com/Connect_Cloud/status/1336043444234571779",
+      "text": "Hats off to @Connect_Cloud for creating this <a href='https://twitter.com/Connect_Cloud/status/1336043444234571779'>adorable 3D RGB LED tree</a>. We’re also talking all about festive LED lighting on the forums-- <a href='https://forums.balena.io/t/fadecandy-raspberry-pi-balena-and-250-led-holiday-lighting-woes/218610/7'>join us</a>."
+    },
+    {
+      "title": "We showed the community how to “balena-ify” an app for balenaHub",
+      "image": "",
+      "link": "https://youtu.be/JYVDpHyMk6U?t=2002",
+      "text": "For a more hands-on approach, check out this <a href='https://youtu.be/JYVDpHyMk6U?t=2002'>recent IoT Happy Hour</a>, where the team answered some community questions on how to prepare an app for balenaHub."
+    },
+    {
+      "title": "Glad to be a part of the dual boot adventure",
+      "image": "",
+      "link": "https://twitter.com/MartinsBane/status/1334939691431424005",
+      "text": "Whether for your next IoT project or to adventure into new operating system territory, balenaEtcher is the way to go, <a href='https://twitter.com/MartinsBane/status/1334939691431424005'>as this community member knows</a>."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-december-2020"
+  },
+
+  "charlie": {
+    "text": "You can use Deploy with balena to also deploy a specific branch of a project<br> with different configurations. This can be very handy when debugging your application or developing new features.<br><br>To deploy a project from a specific branch using a customized balena.yml, use the following URL structure:<br><br> https://dashboard.balena-cloud.com/deploy?tarballUrl=<repo url>/archive/<branch name>.tar.gz&repoUrl=<repo url> &configUrl=https://raw.githubusercontent.com/<org>/<repo name>/<branch name>/balena.yml <br><br>You can read more about the options used above in <a href='https://www.balena.io/docs/learn/deploy/deploy-with-balena-button/#query-string-parameters'>our docs</a>."
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. Could any of these fit you?<br><br>- <a target='_blank' href='https://apply.workable.com/balena/j/01A0106413/'>Lead Security Engineer</a><br>- <a href='https://apply.workable.com/balena/j/A13B328FC6/' target='_blank'>Simulation and Modeling Engineer</a><br>- <a href='https://apply.workable.com/balena/j/8BF6036D98/' target='_blank'>Backend Engineer</a><br><br>Check them out or introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more. All of our previous episodes are available on our <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk'>YouTube channel</a>, too.",
+    "list": []
+  }
+}
