@@ -1,11 +1,11 @@
 <mj-section background-color="rgb(248, 249, 253)">
   <mj-column width="568px">
 
-    <mj-text line-height="21px" font-size="12px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699" align="center" padding-bottom="0px">
+    <mj-text line-height="21px" font-size="12px" font-weight="400" font-family="Lato" color="#527699" align="center" padding-bottom="0px">
       You are receiving this newsletter because you are a balena user, or have signed up to receive our newsletters on the <a href="https://balena.io">balena.io</a> website. No longer interested? Unsubscribe <a href="*|UNSUB|*">here</a>.
     </mj-text> 
 
-    <mj-text line-height="21px" font-size="12px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699" align="center">
+    <mj-text line-height="21px" font-size="12px" font-weight="400" font-family="Lato" color="#527699" align="center">
       <a href="*|ARCHIVE|*">View this email in your browser</a>
     </mj-text>
 

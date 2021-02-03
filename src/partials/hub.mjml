@@ -1,0 +1,33 @@
+<mj-wrapper background-color="#eff8ff">
+
+  <mj-column width="528px" border-radius="5px" background-color="#ffffff" padding="0px">
+    {{#each @root.hub }}
+      {{> hub-card }}
+      {{#unless @last}}<mj-divider border-width="0.5px" border-style="dashed" border-color="#dde1f0" padding-top="0px" padding-bottom="0px" />{{/unless}}
+    {{/each }}
+  </mj-column>
+  <mj-section padding-top="0px" padding-bottom="0px">
+
+  <mj-wrapper>
+
+    <mj-column width="290px">
+      <mj-image align="left" src="https://assets.balena.io/newsletter/hub-logos.png" target="_blank" padding-right="0px" />
+    </mj-column>
+    <mj-column width="238px">
+      <mj-image align="center" src="https://assets.balena.io/newsletter/hub-icon.png" width="40px" padding-bottom="0px" />
+      <mj-text font-size="18px" font-weight="600" font-family="Lato" color="#527699" align="center" letter-spacing="0.02px" line-height="1.28" padding-bottom="0px">
+        Discover more and share with the world
+      </mj-text>
+
+      <mj-button align="center" font-family="Lato" font-weight="600" background-color="#00adee" border-radius="500px" color="#f8f9fd" 
+        href="https://hub.balena.io" 
+      target="_blank">
+        Visit balenaHub
+      </mj-button>
+
+    </mj-column>
+
+
+  </mj-wrapper>
+</mj-section>
+</mj-wrapper>
