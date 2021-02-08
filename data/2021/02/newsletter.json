@@ -38,6 +38,30 @@
     }
   ],
 
+  "hub": [
+    {
+      "name": "balenaPlant",
+      "author": "balenalabs-incubator",
+      "description": "Use a Raspberry Pi, temperature, humidity, and moisture sensor to automatically water your plant.",
+      "image": "https://raw.githubusercontent.com/balenalabs-incubator/balena-plant-saver/master/logo.png",
+      "link": "https://github.com/balenalabs-incubator/balena-plant-saver"
+    },
+    {
+      "name": "Heimdall",
+      "author": "phil-d-wilson",
+      "description": "A way to organise all those links to your most used web sites and web applications in a simple way",
+      "image": "https://raw.githubusercontent.com/phil-d-wilson/heimdall/main/logo.png",
+      "link": "https://github.com/phil-d-wilson/heimdall"
+    },
+    {
+      "name": "AdGuard Home",
+      "author": "klutchell",
+      "description": "AdGuard Home is a network-wide software for blocking ads & tracking.",
+      "image": "https://raw.githubusercontent.com/klutchell/balena-adguard/main/logo.png",
+      "link": "https://github.com/klutchell/balena-adguard"
+    }
+  ],
+
   "posts": [
     {
       "title": "Keep your plant-friends happy and healthy with automated watering",
@@ -49,12 +73,6 @@
   ],
 
   "projects": [
-    {
-      "title": "What’s new on balenaHub this month?",
-      "image": "",
-      "link": "https://hub.balena.io",
-      "text": "Here’s a round up of all these new projects for you to check out:<br><br><ul><li>balenaPlant: Measure temperature, humidity and moisture to automatically water your plants</li><li>Heimdall: Organise all those links to your most used web sites and web applications</li><li>AdGuard: a network-wide software for blocking ads & tracking</li><li>Train Departure Display: Display replica near real-time UK railway station departure data</li><li>Ruuvitag: Collect data from a ruuvitag BLE sensor and chart it in a dashboard</li><li>WiFi Repeater: Easily create a WiFi Access Point or WiFi repeater</li><li>Cryptocurrency Dashboard: Connect a raspberry pi to a TV monitor and track cryptocurrencies</li><li>balenaLocating: Never lose your stuff with Bluetooth Low Energy (BLE) beacons and Raspberry Pi sensors</li></ul>"
-    },
     {
       "title": "Track your parcels using AI",
       "image": "",
