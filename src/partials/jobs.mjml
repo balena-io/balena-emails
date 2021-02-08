@@ -5,22 +5,22 @@
 
       <mj-wrapper border="solid 1px #e8ebf2">
         <mj-column>
-          <mj-text font-size="20px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
+          <mj-text font-size="20px" font-weight="400" font-family="Lato" color="#527699">
             Work with us!
           </mj-text>
 
 
           {{#if @root.jobs.text}}
-            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato">
               {{{ @root.jobs.text }}}
             </mj-text>
           {{else}}
-            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
+            <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato">
               We’re always on the lookout for interested, talented and passionate people to join our team. Find our currently open positions and apply!
             </mj-text>
           {{/if}}
 
-          <mj-button align="left" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" 
+          <mj-button align="left" font-family="Lato" font-weight="500" background-color="#00adee" border-radius="500px" color="#f8f9fd" 
           {{#if @root.jobs.link}}
             href="{{@root.jobs.link}}" 
           {{else}}
