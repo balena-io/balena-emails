@@ -4,6 +4,12 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.4.0
+## (2021-02-09)
+
+* february-2021: Added hub section [Tomás Migone]
+* Add Feb 2021 newsletter [Tomás Migone]
+
 # v2.3.0
 ## (2021-02-08)
 
