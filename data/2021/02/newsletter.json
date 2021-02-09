@@ -1,14 +1,15 @@
 {
   "configuration": {
     "mailchimp_recipients": "ab92290a0b",
-    "mailchimp_title": "Newsletter January 2021",
-    "mailchimp_subject_line": "January updates: Pre-order your EtcherPro, get to know balenaBlocks, and improve how you organize team members and apps on balenaCloud",
-    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena January 2021",
+    "mailchimp_title": "Newsletter February 2021",
+    "mailchimp_subject_line": "February updates: balenaBlocks has a new home, automated plant watering, and see our newest balenaHub apps",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena February 2021",
     "mailchimp_from_name": "balena",
     "mailchimp_reply_to": "hello@balena.io",
     "mailchimp_test_emails": [
       "tomas@balena.io",
-      "andrewn@balena.io"
+      "andrewn@balena.io",
+      "lizzie@balena.io"
     ],
     "netlify_site_name": "balena-newsletter-2021-02",
     "assets_folder": "img"
@@ -16,7 +17,7 @@
 
   "header": {
     "dark": "no",
-    "title": "January 2021",
+    "title": "February 2021",
     "title_color": "rgb(41, 81, 112)",
     "image": "img/hero.png",
     "image_height": 800,
@@ -24,107 +25,78 @@
   },
 
   "featured": {
-    "text": "Happy new year, dear readers!<br><br>Let’s kick off the new year with some exciting news-- EtcherPro pre-orders <a href='https://store.balena.io/products/pre-order-etcher-pro'>are now open</a>. Use it to flash up to 16 SD cards, USB sticks, or devices at once, without a computer. Order yours <a href='https://store.balena.io/products/pre-order-etcher-pro'>today</a>.<br><br>We added a few improvements to balenaCloud as well: check out our recently-added <a href='https://www.balena.io/blog/balena-introduces-new-collaboration-and-organization-management-features/'>Organizations feature</a> and <a href='https://www.balena.io/blog/introducing-the-new-balenacloud-sidebar/'>updated sidebar navigation</a>. The easier you can manage your teams and device fleets, the smoother the project work becomes.<br><br>From the lab, we introduced <a href='https://www.balena.io/blog/introducing-balenablocks-jumpstart-your-iot-app-development/'>balenaBlocks</a>, lightweight containerized IoT app functionality that you can add to your next project. We also revised our Nvidia guide to make it a lot easier to <a href='https://www.balena.io/blog/how-to-use-nvidia-jetson-devices-on-balenaos/'>get started with edge AI</a> using a Jetson device and balena.<br><br>Catch up on community highlights and new balenaHub apps as well. Take care and have a great start to the new year."
+    "text": "Hello dear readers!<br><br>This month we’re (re)introducing balenaBlocks with a <a href='https://hub.balena.io/blocks'>new home on balenaHub</a> and a <a href='https://youtu.be/Mllay6Z2-qQ?t=1571'>live demo</a>.  If you’re interested in finding new IoT or edge projects to try, want to submit your own app, or find balenaBlocks to build with, you’ll find them all on <a href='https://hub.balena.io'>balenaHub</a>.<br><br>From the lab, learn the basics about automated plant watering with <a href='https://www.balena.io/blog/keep-your-plant-friends-happy-and-healthy-with-automated-watering-balenaplant/'>balenaPlant</a>. Try the project out to see the connector and dashboard balenaBlocks at work.<br><br>We had a few community members walk through their projects on the IoT Happy Hour, including <a href='https://www.youtube.com/watch?v=--TAHGCkX9E'>PiHole</a> and an <a href='https://abhatikar.medium.com/doorstep-package-monitoring-8a0ab8699f5e'>AI-driven bird watcher</a>. Check out our new balenaHub apps and other community news. Take care out there!"
   },
 
   "news": [
     {
-      "title": "Pre-order EtcherPro today",
-      "link": "https://store.balena.io/products/pre-order-etcher-pro",
-      "image": "img/EP.png",
+      "title": "balenaBlocks are now available on balenaHub",
+      "link": "https://hub.balena.io/blocks",
+      "image": "img/blocks-hub.png",
       "button_text": "Learn more",
-      "text": "We’re taking preorders of EtcherPro, including reservations for our 50 Special Edition metallic gray units. Visit our store for more information and to reserve your EtcherPro!"
-    },
-    {
-      "title": "Try our new collaboration and organization tools",
-      "link": "https://www.balena.io/blog/balena-introduces-new-collaboration-and-organization-management-features/",
-      "image": "img/orgs.png",
-      "button_text": "Get the details",
-      "text": "Add new layers of coordination to your balenaCloud account using Organizations. Create organizations and teams, and manage which members can access which applications. Now available for all users."
-    },
-    {
-      "title": "Improving how you navigate balenaCloud",
-      "link": "https://www.balena.io/blog/introducing-the-new-balenacloud-sidebar/",
-      "image": "img/RP3.png",
-      "button_text": "Check it out",
-      "text": "During our recent <a href='https://www.youtube.com/watch?v=HOqy4rE8CAo'>Release Party</a>, the team assembled and deployed new updates to the balenaCloud sidebar navigation to better reflect how fleet owners and product builders (like you) collaborate and work together."
+      "text": "Take some of the code complexity out of your next IoT build by using one of our ready-made,  drop-in chunks of functionality designed to handle the basics. Now you can find (and submit your own) blocks on the Hub."
     }
   ],
 
   "hub": [
     {
-      "image": "https://raw.githubusercontent.com/AlexProgrammerDE/balena-minecraft-server/master/logo.png",
-      "name": "Minecraft server",
-      "author": "AlexProgrammerDE",
-      "link": "https://balena.io",
-      "description": "Build a Minecraft Server using a Raspberry Pi 4! Supports common Servers, SCP, RCON & Wifi Connect."
+      "name": "balenaPlant",
+      "author": "balenalabs-incubator",
+      "description": "Use a Raspberry Pi, temperature, humidity, and moisture sensor to automatically water your plant.",
+      "image": "https://raw.githubusercontent.com/balenalabs-incubator/balena-plant-saver/master/logo.png",
+      "link": "https://github.com/balenalabs-incubator/balena-plant-saver"
     },
     {
-      "image": "https://raw.githubusercontent.com/balenalabs/balena-sound/master/logo.png",
-      "name": "balenaSound",
-      "author": "balenaLabs",
-      "link": "https://balena.io",
-      "description": "Build a single or multi-room streamer for an existing audio device using a Rasbperry Pi! Supports Bluetooth, Airplay and Spotify Connect."
+      "name": "Heimdall",
+      "author": "phil-d-wilson",
+      "description": "A way to organise all those links to your most used web sites and web applications in a simple way",
+      "image": "https://raw.githubusercontent.com/phil-d-wilson/heimdall/main/logo.png",
+      "link": "https://github.com/phil-d-wilson/heimdall"
     },
     {
-      "image": "https://raw.githubusercontent.com/just4give/bird-watcher-fin/master/logo.png",
-      "name": "Bird Watcher",
-      "author": "balenaLabs",
-      "link": "https://balena.io",
-      "description": "Smart Bird Feeder Powered by Edge Impulse and Balena"
+      "name": "AdGuard Home",
+      "author": "klutchell",
+      "description": "AdGuard Home is a network-wide software for blocking ads & tracking.",
+      "image": "https://raw.githubusercontent.com/klutchell/balena-adguard/main/logo.png",
+      "link": "https://github.com/klutchell/balena-adguard"
     }
   ],
 
   "posts": [
     {
-      "title": "Get to know balenaBlocks",
-      "image": "img/balenaBlocks.png",
-      "button_text": "Meet the blocks",
-      "link": "https://www.balena.io/blog/introducing-balenablocks-jumpstart-your-iot-app-development/",
-      "text": "To reduce the friction in IoT app development, we created balenaBlocks-- lightweight, container images that bring functions like web browsing, bluetooth connectivity, data transfer, and more to your next edge project."
-    },
-    {
-      "title": "Build an edge AI project with Nvidia Jetson and balena",
-      "image": "img/AI.png",
-      "button_text": "Learn more",
-      "link": "https://www.balena.io/blog/how-to-use-nvidia-jetson-devices-on-balenaos/",
-      "text": "Hardware Hacker Alan pared down the code required to get going with Jetson devices and balena. We updated his getting started guide that gets anyone interested in edge AI on their way toward success."
+      "title": "Keep your plant-friends happy and healthy with automated watering",
+      "image": "img/plant.png",
+      "button_text": "Try the project",
+      "link": "https://www.balena.io/blog/keep-your-plant-friends-happy-and-healthy-with-automated-watering-balenaplant/",
+      "text": "Attention proud plant parents! Never let your plants go thirsty with this automatic watering system-- just sit back and watch your indoor forest thrive. Find out what you need for this build in our latest blog."
     }
   ],
 
   "projects": [
     {
-      "title": "Try these newly-added balenaHub apps",
+      "title": "Track your parcels using AI",
       "image": "",
-      "link": "https://hub.balena.io",
-      "text": "We added these new <a href='https://hub.balena.io/'>balenaHub</a> apps over the holiday-- consider it a late gift from us to you all. <a href='https://hub.balena.io/'>Check them out</a> or <a href='https://hub.balena.io/submit'>submit your own projects</a>.<br><br><ul><li><strong>AdGuard:</strong> block ads and tracking on your home network</li><li><strong>UptimeRobot:</strong> an open source way to monitor website uptime</li><li><strong>Node-RED:</strong> Use Node-RED and balena</li><li><strong>Home Assistant:</strong> control and monitor home automation tools</li><li><strong>Bird Watcher:</strong> Classify visiting birds with edge AI</li><li><strong>Bluetooth Router:</strong> share an internet connection over Bluetooth</li><li><strong>NextCloud:</strong> Access and share data from any of your devices, on your terms</li></ul>"
+      "link": "https://abhatikar.medium.com/doorstep-package-monitoring-8a0ab8699f5e",
+      "text": "Check out community member Abhijeet’s <a href='https://abhatikar.medium.com/doorstep-package-monitoring-8a0ab8699f5e'>doorstep package monitoring and security system</a> powered by balenaCloud and MQTT broker."
     },
     {
-      "title": "Check out this chirp-classifying bird feeder",
+      "title": "Cheers to the RaspberryPint crew",
       "image": "",
-      "link": "https://www.hackster.io/mithun-das/smart-bird-feeder-powered-by-edge-impulse-and-balena-fin-bd6416",
-      "text": "This <a href='https://www.hackster.io/mithun-das/smart-bird-feeder-powered-by-edge-impulse-and-balena-fin-bd6416'>clever bird feeder</a> uses Edge Impulse and a balenaFin to classify visiting birds by face and voice. Nice work, Mithun Das!"
-    },
-    {
-      "title": "Monitoring bees with balena",
-      "image": "",
-      "link": "https://twitter.com/embedded_iot/status/1340976178333663234",
-      "text": "Catch up on community member Alex’s “PoE hack” to <a href='https://twitter.com/embedded_iot/status/1340976178333663234'>connect his EnviroPlus and Pi Zero via USB</a>, as well as the rest of his epic beekeeping project."
-    },
-    {
-      "title": "Reading analog sensors with a balenaFin and Node-RED",
-      "image": "",
-      "link": "https://twitter.com/datacake/status/1340987136036790273",
-      "text": "The folks at Datacake are mixing up a lightweight way to collect and monitor analog sensor data. Check out <a href='https://twitter.com/datacake/status/1340987136036790273'>the progress</a>."
+      "link": "https://www.youtube.com/watch?v=RYwu4WLtsu0&feature=youtu.be",
+      "text": "We recently hung out with the crew at RaspberryPint to <a href='https://www.youtube.com/watch?v=RYwu4WLtsu0&feature=youtu.be'>talk about all things IoT and edge development</a>. Check the link to catch up on the talk."
     }
   ],
 
   "share": {
-    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-january-2021"
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-february-2021"
+  },
+
+  "charlie": {
+    "text": "Here’s a way to <a href='https://www.balena.io/docs/learn/manage/serv-vars/'>pass service and environment variables</a> when pushing code to a device. This is particularly helpful when <a href='https://www.balena.io/docs/learn/develop/local-mode/'>developing in local mode</a>.<br><br><img src='/img/charlie.png'><br><br>Check out the <a href='https://www.balena.io/docs/reference/cli/#--env-env'>docs</a> for more information."
   },
 
   "jobs": {
-    "text": "We’re looking for a number of roles for our growing team. Could any of these fit you?<br><br>- <a target='_blank' href='https://apply.workable.com/balena/j/01A0106413/'>Lead Security Engineer</a><br>- <a href='https://apply.workable.com/balena/j/A13B328FC6/' target='_blank'>Simulation and Modeling Engineer</a><br>- <a href='https://apply.workable.com/balena/j/8BF6036D98/' target='_blank'>Backend Engineer</a><br><br>Check them out or introduce yourself to us via open call. We’d love to get to know you better.",
+    "text": "We’re looking for a number of roles for our growing team. Could any of these fit you?<br><br>- <a target='_blank' href='https://apply.workable.com/balena/j/01A0106413/'>Lead Security Engineer</a><br>- <a href='https://apply.workable.com/balena/j/8BF6036D98/' target='_blank'>Backend Engineer</a><br><br>Check them out or introduce yourself to us via open call. We’d love to get to know you better.",
     "link": "https://apply.workable.com/balena",
     "button_text": "Apply today"
   },
