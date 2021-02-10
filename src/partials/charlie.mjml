@@ -1,7 +1,7 @@
 <mj-section background-color="rgb(248, 249, 253)">
   <mj-column width="568px">
 
-    <mj-text font-size="13px" font-weight="400" line-height="21px" font-family="Lato" color="#527699">
+    <mj-text font-size="13px" font-weight="400" line-height="21px" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
       {{{ @root.charlie.text }}}
     </mj-text>
 

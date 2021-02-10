@@ -1,11 +1,11 @@
 <mj-section background-color="rgb(248, 249, 253)" padding-bottom="0px">
   <mj-column width="568px">
     {{#if @root.events.text}}
-      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato">
+      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
         {{{ @root.events.text }}}
       </mj-text>
     {{else}}
-      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato">
+      <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
         Here are some upcoming events you might like to check out, if you see the balena logo next to an event that means we’ll be there - come and say hello!
       </mj-text>
     {{/if}}

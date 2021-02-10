@@ -2,7 +2,7 @@
   <mj-group>
     <mj-column>
       <mj-image src="https://assets.balena.io/newsletter/2019-08-etcherpro/balena@2x_black.png" alt="balena.io logo" width="110px" padding-bottom="0px"/>
-      <mj-text align="center" color="#527699" padding-bottom="3px" font-family="Lato" font-size="12px" font-weight="400" line-height="1.3">
+      <mj-text align="center" color="#527699" padding-bottom="3px" font-family="Lato,Helvetica,Arial,sans-serif" font-size="12px" font-weight="400" line-height="1.3">
         Balena.io
       </mj-text>
       <mj-text align="center" padding-top="0px">

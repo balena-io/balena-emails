@@ -1,6 +1,6 @@
 <mj-section {{#if @root.banner.color}} background-color="@root.banner.color" {{else}} background-color="rgb(248, 249, 253)" {{/if}}  css-class="featured_padding">
   <mj-column width="568px">
-    <mj-text line-height="21px" font-size="13px" font-weight="400" font-family="Lato" color="#527699">
+    <mj-text line-height="21px" font-size="13px" font-weight="400" font-family="Lato,Helvetica,Arial,sans-serif" color="#527699">
       {{{ @root.featured.text }}}
     </mj-text>
   </mj-column>

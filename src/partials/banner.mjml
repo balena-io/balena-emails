@@ -14,7 +14,7 @@
   </mj-column>
 
   <mj-column width="30%">
-    <mj-button css-class="mobile_share_button" align="left" padding-top="15%" padding-left="0px" font-family="Lato" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="{{ @root.banner.link }}" target="_blank">
+    <mj-button css-class="mobile_share_button" align="left" padding-top="15%" padding-left="0px" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="500" background-color="{{ @root.banner.button_color }}" border-radius="{{ @root.banner.button_radius }}" color="#f8f9fd" href="{{ @root.banner.link }}" target="_blank">
       {{ @root.banner.button_text }}
     </mj-button>
   </mj-column>

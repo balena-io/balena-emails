@@ -7,15 +7,15 @@
   {{/if}}
 
   <mj-column {{#if image}} width="86%" {{else}} width="568px" {{/if}}>
-    <mj-text font-size="14px" font-weight="600" line-height="normal" font-family="Lato" color="#2a506f" letter-spacing="normal" padding-bottom="5px">
+    <mj-text font-size="14px" font-weight="600" line-height="normal" font-family="Lato,Helvetica,Arial,sans-serif" color="#2a506f" letter-spacing="normal" padding-bottom="5px">
       {{ name }} <span style="font-size: 12px; color: #5b82a7; font-weight: normal; line-height: normal; letter-spacing: normal;">&nbsp; by {{ author }}</span>
     </mj-text>
 
-    <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.36" font-family="Lato" padding-top="5px" padding-bottom="5px">
+    <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.36" font-family="Lato,Helvetica,Arial,sans-serif" padding-top="5px" padding-bottom="5px">
       {{{ description }}}
     </mj-text>
 
-    <mj-text align="right" font-size="14px" font-weight="600px" line-height="normal" font-family="Lato" color="#2a506f" letter-spacing="normal" padding-bottom="5px">
+    <mj-text align="right" font-size="14px" font-weight="600px" line-height="normal" font-family="Lato,Helvetica,Arial,sans-serif" color="#2a506f" letter-spacing="normal" padding-bottom="5px">
       <a style="font-weight: 600;" href="{{link}}" target="_blank">Read more</a>
     </mj-text>
 

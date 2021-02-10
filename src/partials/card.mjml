@@ -7,17 +7,17 @@
   {{/if}}
 
   <mj-column {{#if image}} width="67%" {{else}} width="568px" {{/if}}>
-    <mj-text font-size="16px" font-weight="600" line-height="1.4" font-family="Lato" color="#2a506f">
+    <mj-text font-size="16px" font-weight="600" line-height="1.4" font-family="Lato,Helvetica,Arial,sans-serif" color="#2a506f">
       {{ title }}
     </mj-text>
 
-    <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato">
+    <mj-text color="#527699" font-size="13px" font-weight="400" line-height="1.62" font-family="Lato,Helvetica,Arial,sans-serif">
       {{{ text }}}
     </mj-text>
 
     {{#if link}}
       {{#if button_text}}
-        <mj-button align="left" font-family="Lato" font-weight="600" background-color="#00adee" border-radius="500px" color="#f8f9fd" href="{{link}}" target="_blank">
+        <mj-button align="left" font-family="Lato,Helvetica,Arial,sans-serif" font-weight="600" background-color="#00adee" border-radius="500px" color="#f8f9fd" href="{{link}}" target="_blank">
           {{ button_text }}
         </mj-button>
       {{/if}}
