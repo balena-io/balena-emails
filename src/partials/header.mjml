@@ -31,7 +31,7 @@
     </mj-column>
   {{/if}}
     <mj-column>
-      <mj-text font-family="Lato" font-size="14px" 
+      <mj-text font-family="Lato, Helvetica, Arial, sans-serif" font-size="14px" 
       {{#if @root.header.title_color}} 
         color="{{@root.header.title_color}}" 
       {{else}} 

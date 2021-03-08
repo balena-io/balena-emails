@@ -1,6 +1,6 @@
 <mj-section {{#if background-color}} background-color="{{background-color}}" {{else}} background-color="rgb(248, 249, 253)" {{/if}} padding-top="10px" padding-bottom="0px">
   <mj-column width="568px">
-    <mj-social font-size="25px" color="#2a506f" font-weight="400" font-family="Lato" icon-size="30px" mode="horizontal" align="left">
+    <mj-social font-size="25px" color="#2a506f" font-weight="400" font-family="Lato, Helvetica, Arial, sans-serif" icon-size="30px" mode="horizontal" align="left">
       <mj-social-element {{#if icon}} src="{{icon}}" {{else}} src="https://assets.balena.io/newsletter/balena-icon.png" {{/if}}>
         &nbsp;&nbsp;{{title}}
       </mj-social-element>
