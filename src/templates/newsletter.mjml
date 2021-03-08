@@ -1,6 +1,5 @@
 <mjml>
   <mj-head>
-    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700" />
     <mj-style>
       a {
         color: #2199e8;
@@ -11,7 +10,7 @@
         font-size: 14px;
         font-weight: 400;
         line-height: 1.3;
-        font-family: Lato;
+        font-family: Lato, Helvetica, Arial, sans-serif;
         color: #527699;
       }
 
@@ -74,7 +73,7 @@
     <!-- News -->
     {{#if @root.news}}
       <mj-spacer height="4px" />
-      {{> section_header title="News from balenaHQ" }}
+      {{> section_header title="The latest from balena" }}
 
       {{#each @root.news }}
         {{> card }}
@@ -87,15 +86,6 @@
       {{> section_header title="This month on balenaHub" icon="https://assets.balena.io/newsletter/hub-icon.png" background-color="#eff8ff" }}
       
       {{> hub }}
-    {{/if}}
-
-    <!-- Blog posts -->
-    {{#if @root.posts}}
-      <mj-spacer height="4px" />
-      {{> section_header title="The latest from our blog" }}
-      {{#each @root.posts }}
-        {{> card }}
-      {{/each }}
     {{/if}}
 
     <!-- Share -->
@@ -136,7 +126,7 @@
     <!-- Remove this section once events resume -->
     {{#if @root.events}}
       {{> section_header title="Hang out with us" }}
-      {{> card text=@root.events.text image="img/happy.png" title="IoT Happy Hour" link="https://www.youtube.com/balenaio" button_text="Join our next session" }}
+      {{> card text=@root.events.text image="img/iot.png" title="IoT Happy Hour" link="https://www.youtube.com/balenaio" button_text="Join our next session" }}
     {{/if}}
 
     <!-- Social/Footer/Disclaimer -->
