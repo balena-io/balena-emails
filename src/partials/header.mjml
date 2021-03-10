@@ -5,9 +5,9 @@
       background-url="{{append (append (append 'https://' @root.configuration.netlify_site_name) '.netlify.com/') @root.header.image}}" 
     {{else}}
       background-url="{{@root.header.image}}" 
-    {{/if}} 
-  {{else}} 
-    background-url="https://assets.balena.io/newsletter/hero_default.png" 
+    {{/if}}
+  {{else}}
+  padding-bottom="0px"
   {{/if}} 
   background-size="cover" background-repeat="no-repeat" 
   {{#if @root.header.color}} 
@@ -37,7 +37,7 @@
       {{else}} 
         color="#fff" 
       {{/if}} 
-      align="right" padding-top="24px" height="321px" css-class="mobile_height">
+      align="right" padding-top="24px" {{#if @root.header.image}}height="321px" css-class="mobile_height"{{/if}}>
         {{ @root.header.title }}
       </mj-text>
 

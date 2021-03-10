@@ -18,14 +18,11 @@
   "header": {
     "dark": "no",
     "title": "March 2021",
-    "title_color": "rgb(41, 81, 112)",
-    "image": "img/hero.png",
-    "image_height": 800,
-    "image_width": 1200
+    "title_color": "rgb(41, 81, 112)"
   },
 
   "featured": {
-    "text": "Hello, dear readers!<br><br>This month we launched <a href='https://www.balena.io/blog/offline-updates-make-it-easier-to-update-balena-devices-without-the-internet/' target='__blank'>Offline Updates</a>: update balenafied devices that are in areas where internet connectivity is limited. And, by popular demand, we also put together a guide on how to <a href='https://www.balena.io/blog/iot-fleet-monitoring-with-datadog-and-balenacloud-how-small-agent-containers-make-a-big-impact/' target='__blank'>set up Datadog’s IoT Agent</a> with balenaCloud to monitor fleet metrics.<br><br>As always, we have a number of community spotlights, new apps on balenaHub, and are looking for new teammates to join balena! Read on for more details."
+    "text": "Hello, dear readers!<br><br>This month we launched <a href='https://www.balena.io/blog/offline-updates-make-it-easier-to-update-balena-devices-without-the-internet/' target='__blank'>Offline Updates</a>: update balenafied devices that are in areas where internet connectivity is limited. By popular demand, we also put together a guide on how to <a href='https://www.balena.io/blog/iot-fleet-monitoring-with-datadog-and-balenacloud-how-small-agent-containers-make-a-big-impact/' target='__blank'>set up Datadog’s IoT Agent</a> with balenaCloud to monitor fleet metrics.<br><br>As always, we have a number of community spotlights, new apps on balenaHub, and are looking for new teammates to join balena! Read on for more details."
   },
 
   "news": [
@@ -90,7 +87,7 @@
       "text": "This month we were joined on the IoT Happy Hour by a balena user who builds open, accessible and affordable technology for conservation projects, <a href='https://www.youtube.com/watch?v%3DDfJG-siA_YE%26t%3D2174s' target='__blank'>check out the episode</a> featuring footage from their turtle cams!"
     },
     {
-      "title": "We talk to the team at Helium!",
+      "title": "We talked to the team at Helium!",
       "image": "",
       "link": "https://www.youtube.com/watch?v%3DDfJG-siA_YE%26t%3D2174s",
       "text": "Check out our <a href='https://www.youtube.com/watch?v%3D9pxJuoziaG0%26list%3DPLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk' target='__blank'>latest IoT Happy Hour episode</a> where we invited the team from Helium to teach you to create a hotspot using balena and the new LoRaWAN network that Helium’s community is creating."
@@ -102,7 +99,7 @@
   },
 
   "charlie": {
-    "text": "Every month, Charlie the CLI unicorn gives us a useful product builder tip. This month, we’ll take a look at the <a href='https://www.balena.io/docs/reference/base-images/base-images' target='__blank'><code>balena-idle</code></a> utility.<br><br>Call <code>balena-idle</code> in your scripts and it’ll keep the container idling:<br><br><img src='img/charlie.png'><br><br>This is helpful when debugging or if you execute a command that exits immediately! There are options to change to message or interval between each message (<code>-m</code> and <code>-i</code>)."
+    "text": "Every month, Charlie the CLI Unicorn gives us a useful product builder tip. This month, we’ll take a look at the <a href='https://www.balena.io/docs/reference/base-images/base-images' target='__blank'><code>balena-idle</code></a> utility.<br><br>Call <code>balena-idle</code> in your scripts and it’ll keep the container idling:<br><br><img src='img/charlie.png'><br><br>This is helpful when debugging or if you execute a command that exits immediately! There are options to change to message or interval between each message (<code>-m</code> and <code>-i</code>)."
   },
 
   "jobs": {
