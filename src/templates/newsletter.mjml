@@ -126,7 +126,7 @@
     <!-- Remove this section once events resume -->
     {{#if @root.events}}
       {{> section_header title="Hang out with us" }}
-      {{> card text=@root.events.text image="img/iot.png" title="IoT Happy Hour" link="https://www.youtube.com/balenaio" button_text="Join our next session" }}
+      {{> card text=@root.events.text image="img/happy.png" title="IoT Happy Hour" link="https://www.youtube.com/balenaio" button_text="Join our next session" }}
     {{/if}}
 
     <!-- Social/Footer/Disclaimer -->
