@@ -4,6 +4,12 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.4.2
+## (2021-03-10)
+
+* newsletter: march 2021 [Tomás Migone]
+* newsletter: add 2021-03 [Tomás Migone]
+
 # v2.4.1
 ## (2021-03-08)
 
