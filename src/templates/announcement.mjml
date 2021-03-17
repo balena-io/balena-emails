@@ -60,8 +60,6 @@
   </mj-head>
   <mj-body>
 
-    {{> covid_header }}
-
     {{> header }}
 
     {{> featured }}
@@ -71,8 +69,6 @@
       <mj-spacer height="4px" />
       {{> banner }}
     {{/if}}
-
-    {{> covid_banner }}
 
     <!-- Social/Footer/Disclaimer -->
     {{> footer }}

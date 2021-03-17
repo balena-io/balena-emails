@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Billing Role Exceptions",
+    "mailchimp_subject_line": "Changes to your balena device access",
+    "mailchimp_preview_text": "Action Required: One month to edit your account",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "solutions@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "role-inconsistency",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "",
+    "image": "",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "Hello,<br><br>According to our records, you currently have chargeable devices (i.e. devices beyond the 10 granted in Starter Applications, or devices in <a href='https://www.balena.io/docs/learn/manage/app-types' target='__blank'>paid application types</a>) in your free balenaCloud account.<br><br>As of <b>April 23rd 2021</b>, we will be removing the legacy exception in our database that has allowed certain users on free plans to have chargeable devices in their account. On that date, any remaining chargeable devices in your account will be frozen. They will not be deleted, and they will not stop running any on-device software, but you will no longer be able to manage them from balenaCloud.<br><br>In order to continue managing your devices after April 23rd, you have three options:<ol><li><a href='https://www.balena.io/docs/learn/manage/actions/#transfer-application-ownership' target='__blank'>Move them to a paid organization</a></li><li><a href='https://www.balena.io/docs/learn/manage/billing/#changing-your-billing-plan' target='__blank'>Upgrade your account to a paid plan</a></li><li>If you have fewer than 10 devices, <a href='https://www.balena.io/docs/learn/manage/app-types/#convert-between-application-types' target='__blank'>change the App Type to Starter</a></li></ol>Please reach out to solutions@balena.io if you have any questions or concerns.<br><br>Thank you!<br><br>Team Balena"
+  }
+}
