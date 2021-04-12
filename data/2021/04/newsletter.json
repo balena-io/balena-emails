@@ -1,0 +1,102 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter April 2022",
+    "mailchimp_subject_line": "Introducing balena Ambassadors, try out the new blocks on the hub, and hear about our latest release party",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena April 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-04",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "no",
+    "title": "March 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello, dear readers!<br><br>This month we are introducing you to the first group of <a href='https://www.balena.io/blog/introducing-the-balena-ambassador-program/'>balena Ambassadors</a>. We also held a Release Party that focused on getting the team together to improve our balenaCloud docs.<br><br>Check out this month’s community spotlights, some new blocks on balenaHub, and see our two new job openings this month! Read on for more details."
+  },
+
+  "news": [
+    {
+      "title": "Introducing the balena Ambassador Program!",
+      "link": "https://www.balena.io/blog/introducing-the-balena-ambassador-program/",
+      "image": "img/ambassador.png",
+      "button_text": "Read more",
+      "text": "We invited seven outstanding members of the balena community to join our brand new ambassador program. Watch this space because we are sure you will be seeing a lot more of them soon."
+    },
+    {
+      "title": "Improving balenaCloud Docs",
+      "link": "https://www.balena.io/blog/release-party-improving-balenacloud-docs/",
+      "image": "img/docs.png",
+      "button_text": "Learn more",
+      "text": "For this latest Release Party, we made a team competition out of improving our docs, and live streamed the experience for everyone to get a look behind the scenes."
+    },
+    {
+      "title": "Building with Blocks",
+      "link": "https://www.youtube.com/watch?v=GLzRwLen6Hc",
+      "image": "img/blocks.png",
+      "button_text": "Watch the episode",
+      "text": "In our latest IoT Happy Hour episode, we were joined by the balena Hardware Hackers who demoed building an app using the two newest blocks (Sensor and Pulse) on balenaHub."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "sensor",
+      "author": "balenaLabs",
+      "description": "Auto-detects connected i2c sensors and publsihed data on HTTP or MQTT.",
+      "image": "https://raw.githubusercontent.com/balenablocks/sensor/main/logo.png",
+      "link": "https://github.com/balenablocks/sensor"
+    },
+    {
+      "name": "pulse",
+      "author": "balenaLabs",
+      "description": "A block for counting pulses on a Raspberry Pi GPIO pin.",
+      "image": "https://raw.githubusercontent.com/balenablocks/pulse/main/logo.png",
+      "link": "https://github.com/balenablocks/pulse"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Create a real time inventory of your fridge",
+      "text": "Forget your grocery list? <a href='https://www.hackster.io/389845/fridge-aliments-detector-405e2c' target='__blank'>This hackster project</a> keeps a real time inventory of your fridge on your phone, so you will never be left guessing again!"
+    },
+    {
+      "title": "Build a simulated drone swarm",
+      "text": "Drones are pretty cool, and swarms of them are becoming an increasingly popular use case. <a href='https://forums.balena.io/t/multi-drones-simulation-with-balenacloud-and-boards/276532' target='__blank'>Check out this tutorial</a>, posted to our forum by one of our fantastic community members who has used balena and ArduPilot to build a drone swarm simulation."
+    },
+    {
+      "title": "Get ready for bird watching this spring",
+      "text": "<a target='__blank' href='https://www.disk91.com/2021/projects/iot/bird-watcher-with-balena-fin-or-raspberrypi/'>Check out this community-built, step-by-step bird watcher project tutorial</a> that features the balenaFin. Get started on it quickly via <a href='https://hub.balena.io/' target='__blank'>balenaHub</a>."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-april-2021"
+  },
+
+  "charlie": {
+    "text": "Did you know you can use livepush alongside custom monitors like <code>webpack-dev-server</code> or <code>nodemon</code>? Special case programs can be extremely fast, and livepush does not stop you from using them! Use the <code>dev-cmd-live</code> directive to override the existing Dockerfile’s <code>CMD</code> when running livepush, and then choose your program of choice. <br><br><img style='width: 50%' src='img/livepush.png'><br><br><a target='_blank' href='https://github.com/balena-io-modules/livepush#webpack-dev-servernodemonmy-custom-monitor-is-faster'>Visit this repo</a> to learn more about livepush and its directives."
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- <a target='_blank' href='https://apply.workable.com/balena/j/D4F0E4F44B/'>Security Engineer</a><br>- <a target='_blank' href='https://apply.workable.com/balena/j/9B1E649C68/'>Product Engineer (balenaEtcher)</a><br>- <a href='https://apply.workable.com/balena/j/EBEF590056/' target='_blank'>Frontend Engineer</a><br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more. Join our next session where the balena team will show you how to build a custom balenaOS image from source for a single board computer which doesn’t currently have balena support. <a href='https://www.youtube.com/watch?v%3DNpMC2WWSpNI' target='__blank'>Click to watch live with us on Friday at 16:00 UTC!</a>",
+    "list": []
+  }
+}
