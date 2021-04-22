@@ -1,7 +1,7 @@
 {
   "configuration": {
     "mailchimp_recipients": "ab92290a0b",
-    "mailchimp_title": "Newsletter April 2022",
+    "mailchimp_title": "Newsletter April 2021",
     "mailchimp_subject_line": "Introducing balena Ambassadors, try out the new blocks on the hub, and hear about our latest release party",
     "mailchimp_preview_text": "Monthly updates on projects, features and events from balena April 2021",
     "mailchimp_from_name": "balena",
@@ -17,12 +17,12 @@
 
   "header": {
     "dark": "no",
-    "title": "March 2021",
+    "title": "April 2021",
     "title_color": "rgb(41, 81, 112)"
   },
 
   "featured": {
-    "text": "Hello, dear readers!<br><br>This month we are introducing you to the first group of <a href='https://www.balena.io/blog/introducing-the-balena-ambassador-program/'>balena Ambassadors</a>. We also held a Release Party that focused on getting the team together to improve our balenaCloud docs.<br><br>Check out this month’s community spotlights, some new blocks on balenaHub, and see our two new job openings this month! Read on for more details."
+    "text": "Hello, dear readers!<br><br>This month we are introducing you to the first group of <a href='https://www.balena.io/blog/introducing-the-balena-ambassador-program/'>balena Ambassadors</a>. We also held a Release Party that focused on getting the team together to improve our <a href='https://www.balena.io/blog/release-party-improving-balenacloud-docs/' target='__blank'>balenaCloud docs</a>.<br><br>Check out this month’s community spotlights, some new blocks on balenaHub, and see our two new job openings this month! Read on for more details."
   },
 
   "news": [
