@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Important user permission and role changes in balenaCloud",
+    "mailchimp_subject_line": "Changes to your balena roles",
+    "mailchimp_preview_text": "Operator and Developer role changes",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "solutions@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "role-changes",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "",
+    "image": "",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "Here’s an update on a few changes we’re making to the Operator and Developer roles in all  balenaCloud organizations.<br><br><b>The Operator role now has the ability to deactivate devices and download images from the dashboard</b><br>This role is intended to provide users with the ability to manage devices within a fleet and carry out any change necessary to work with a single device. We’re thinking this role is likely used by those who are working directly with devices in manufacturing, assembly, and QA, as well as those out in the field installing, testing, debugging and operating those devices.<br><br>As such, Operators are permitted to carry out any change necessary to work with a single device, which extends to specifying what release that device should be running. Notably, Operators can now add devices by downloading images from the dashboard, as well as deactivate them, which we believe completes the suite of permissions necessary for this role.<br><br><b>The Developer role now has the ability to deactivate devices</b><br>This role is intended to give users the ability to work with every aspect of devices, allowing for full device management via inclusion of the permissions granted by the operator role, and adding the ability to create and manage releases. Allowing Developers to deactivate devices completes their suite of permissions in that they have control of the device aspect (everything an Operator can do), as well as that required to work with the software (e.g. create releases).<br><br><b>Why are we doing this?</b><br>We made these role changes in an effort to bring the balenaCloud UI in line with the permissions available via the CLI/API (i.e. Operators adding devices) and net-new permissions that were not possible anywhere previously (i.e. Operators and Developers deactivating devices).<br><br>These permissions changes give existing Operators and Developers more control than they had previously. We want to make sure these changes are highlighted and that everyone is aware of them.<br><br>Please get in touch if you have any questions about these changes."
+  }
+}
