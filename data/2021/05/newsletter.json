@@ -1,0 +1,92 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter May 2021",
+    "mailchimp_subject_line": "Learn how balenablocks accelerates edge app development, see our UX updates, and check out fantastic community projects",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena May 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-05",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "no",
+    "title": "May 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello, dear readers!<br><br>It’s been a busy month here at balena! <a href='https://www.balena.io/blog/release-party-making-balena-ux-improvements-to-support-new-users/' target='__blank'>Our 5th release party</a> led to some changes to the look and feel of balenaCloud to help new users build their first project. We also explored why <a href='https://www.balena.io/blog/balenablocks-in-depth-sensor-and-pulse/' target='__blank'>we created the audio, sensor, and pulse blocks</a> to inspire edge developers to try them out or build their own.<br><br>As always, check out this month’s community spotlights, job openings, and come hang out with us for our weekly IoT Happy Hour! Read on for more details."
+  },
+
+  "news": [
+    {
+      "title": "How balenaSound inspired the audio block",
+      "link": "https://www.balena.io/blog/how-balenasound-inspired-the-audio-block/",
+      "image": "img/sound.png",
+      "button_text": "Learn more",
+      "text": "Learn how bug fixing and maintaining balenaSound helped us create the audio block, and how you can start using it."
+    },
+    {
+      "title": "Release Party #5 - Making getting started easier for new users",
+      "link": "https://www.balena.io/blog/release-party-making-balena-ux-improvements-to-support-new-users/",
+      "image": "img/rp5.png",
+      "button_text": "See the post",
+      "text": "We got together to live stream releasing new UX elements to help new users learn how to use balenaCloud and start their first project."
+    },
+    {
+      "title": "Learn how to use our newest balenaBlocks",
+      "link": "https://www.balena.io/blog/balenablocks-in-depth-sensor-and-pulse/",
+      "image": "img/blocks.png",
+      "button_text": "Check them out",
+      "text": "Last month we released our new `pulse` and `sensor` blocks, both designed to simplify how you  bring data from sensors and other equipment into your projects."
+    }
+  ],
+
+  "hub": [
+  ],
+
+  "projects": [
+    {
+      "title": "A Fitbit for Bees? Yes please!",
+      "text": "<a href='https://abhatikar.medium.com/fitbit-for-bees-its-more-than-just-honey-9ccf9a283fd0' target='__blank'>Check out our community member Abhatikar’s blog</a> post where he explains his build for an environment monitor to discover more about the secret lives of bees."
+    },
+    {
+      "title": "Check out this balenaSound build guide",
+      "text": "YouTuber leepsvideo created a nice walkthrough of <a href='https://www.youtube.com/watch?v=bQHuVH_UHq4' target='__blank'>installing balenaSound</a>. We’d love to see how other people build this project and many others on balenaHub. Let us know if you create your own tutorial!"
+    },
+    {
+      "title": "What’s better than a GNSS? And RTK GNSS of course…",
+      "text": "<a href='https://forums.balena.io/t/rtk-gnss-base-with-balena/304278' target='__blank'>In this forum post</a>, community member Khancyr explains how they built a Real Time Kinetic (RTK) Global Navigation Satellite System (GNSS) using a balenaFin."
+    },
+    {
+      "title": "Happy Hour from the team at ARM",
+      "text": "Last month, we were joined by the team from ARM for our <a href='https://www.youtube.com/watch?v=_FXMx1rImZI' target='__blank'>IoT Happy Hour</a> to talk about how they use a Raspberry Pi 4 to control a Raspberry Pi Pico, controlled by balena."
+    },
+    {
+      "title": "Building a dashboard for openbalena",
+      "text": "Check out, or join, this great discussion and ongoing build log of <a href='https://forums.balena.io/t/open-balena-dashboard-project/221998/30' target='__blank'>community member Razikus’ openbalena dashboard</a>. Also try the Android app version and let the community know what you think about it."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-may-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- <a target='_blank' href='https://apply.workable.com/balena/j/D4F0E4F44B/'>Security Engineer</a><br>- <a target='_blank' href='https://apply.workable.com/balena/j/9B1E649C68/'>Product Engineer (balenaEtcher)</a><br>- <a href='https://apply.workable.com/balena/j/EBEF590056/' target='_blank'>Frontend Engineer</a><br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more. Join our next session where the balena team will show you how to build a custom balenaOS image from source for a single board computer which doesn’t currently have balena support. <a href='https://www.youtube.com/watch?v%3DNpMC2WWSpNI' target='__blank'>Click to watch live with us on Friday at 16:00 UTC!</a>",
+    "list": []
+  }
+}
