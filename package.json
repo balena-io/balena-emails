@@ -1,6 +1,6 @@
 {
   "name": "resin-emails",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "description": "balena.io email generator.",
   "repository": "balena-io/resin-emails",
   "main": "gulp build",
