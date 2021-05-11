@@ -6,7 +6,7 @@
 
   <mj-column width="45%">
     <mj-text css-class="mobile_share_text" line-height="18px" padding-top="15px" padding-left="0px" padding-right="0px" align="center" font-size="18px" font-weight="400" font-family="Lato, Helvetica, Arial, sans-serif" color="rgb(41,80,111)">
-      <strong>You like our stories?</strong>
+      <strong>Do you like our stories?</strong>
     </mj-text>
     <mj-text css-class="mobile_share_text" line-height="21px" padding-left="0px" padding-right="0px" padding-bottom="0px" align="center" font-size="13px" font-weight="400" font-family="Lato, Helvetica, Arial, sans-serif" color="#527699">
       See something in this newsletter<br>that you want to share? We encourage it!
