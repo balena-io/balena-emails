@@ -1,0 +1,123 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter June 2021",
+    "mailchimp_subject_line": "Introducing Open Fleets, the balenaPodcast, and new ways for you to get involved in the balena community",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena June 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-06",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "no",
+    "title": "June 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello, dear readers!<br><br>We’re pretty excited about <a target='_blank' href='https://www.balena.io/blog/introducing-open-fleets-and-self-submitted-apps-and-blocks-on-balenahub'>launching Open Fleets</a>, which now have over 400 users across a number of fleets anyone can try. Available on Spotify and other major podcast apps, we launched the first episode of our <a target='_blank' href=' https://open.spotify.com/episode/4XJBARiHmj0vwcszygKieJ?si=df70bfe07bac4cbd'>balenaPodcast series</a>. You can also learn more ways to <a target='_blank' href='https://www.balena.io/blog/five-ways-you-can-contribute-to-the-balena-community/'>get involved in the balena community</a>, see some interesting community-built projects, and find a few new job postings."
+  },
+
+  "news": [
+    {
+      "title": "Introducing Open Fleets",
+      "link": "https://www.balena.io/blog/introducing-open-fleets-and-self-submitted-apps-and-blocks-on-balenahub/",
+      "image": "img/fleets.png",
+      "button_text": "Read the post",
+      "text": "During Release Party #6, we introduced Open Fleets, and self-serve submissions to balenaHub. Get more details on how to submit your own Fleet or Project and how to join other interesting Fleets."
+    },
+    {
+      "title": "An interview with Eben Upton",
+      "link": "https://open.spotify.com/episode/4XJBARiHmj0vwcszygKieJ?si=df70bfe07bac4cbd",
+      "image": "img/eben.png",
+      "button_text": "Listen now",
+      "text": "Our new podcast brings you conversations with people who deliver the fire of physical computing to the masses. In this first episode, we talk to Eben Upton, founder of the Raspberry Pi Foundation."
+    },
+    {
+      "title": "How can you get involved in the balena community",
+      "link": "https://www.balena.io/blog/five-ways-you-can-contribute-to-the-balena-community/",
+      "image": "img/community.png",
+      "button_text": "Learn more",
+      "text": "Are you doing something cool with balena and want to get more involved in the balena community? Here are five ways to get involved (and get some swag while you're at it). "
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Rosetta-at-home-arm - Fold for Covid",
+      "author": "balenaLabs",
+      "description": "Help fight the COVID-19 pandemic with your old laptop, Raspberry Pi, or other spare computer",
+      "image": "https://raw.githubusercontent.com/balenalabs/rosetta-at-home/master/logo.png",
+      "link": "https://github.com/balenalabs/rosetta-at-home"
+    },
+    {
+      "name": "balenaSound",
+      "author": "balenaLabs",
+      "description": "Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect",
+      "image": "https://raw.githubusercontent.com/balenalabs/balena-sound/master/logo.png",
+      "link": "https://github.com/balenalabs/balena-sound"
+    },
+    {
+      "name": "Balena-minecraft-server",
+      "author": "AlexProgrammerDE",
+      "description": "Build a Minecraft Server using a Raspberry Pi 4! Supports common Servers, SCP, RCON and Wifi Connect.",
+      "image": "https://raw.githubusercontent.com/AlexProgrammerDE/balena-minecraft-server/master/logo.png",
+      "link": "https://github.com/AlexProgrammerDE/balena-minecraft-server"
+    },
+    {
+      "name": "Pihole",
+      "author": "balenaLabs",
+      "description": "Pi-hole is a Linux network-level advertisement and Internet tracker blocking application!",
+      "image": "https://raw.githubusercontent.com/klutchell/balena-pihole/main/logo.png",
+      "link": "https://github.com/klutchell/balena-pihole"
+    },
+    {
+      "name": "Stellarium",
+      "author": "DavidT",
+      "description": "An educational star, constellation, planet, and night-sky mapping program running on a Raspberry Pi 4.",
+      "image": "https://raw.githubusercontent.com/balenalabs-incubator/stellarium/master/stellarium.png",
+      "link": "https://github.com/balenalabs-incubator/stellarium"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Build your edge impulse project with balenaOS",
+      "text": "Balena Ambassador Mithun Das has teamed up with other members of the balena community to <a target='_blank' href='https://www.hackster.io/400741/edge-impulse-object-detection-on-balena-os-fb76ae'>build this awesome machine learning object detection project</a> which you can build with just a few clicks!"
+    },
+    {
+      "title": "In frame person detection",
+      "text": "Using Tinker Board, balenaCloud and a v380 camera, community member Girish Joshi has <a target='_blank' href='https://girishjoshi.io/post/simple-person-detection-for-v380-camera-using-tinker-board-and-balena-cloud/'>built a great in-frame person detector</a> using readily available code."
+    },
+    {
+      "title": "Check out this technical report featuring balena and AWS",
+      "text": "Are you interested in reading more about how balenaCloud performs? We spotted <a target='_blank' href='https://www.mdpi.com/1424-8220/21/11/3773/htm'>this journal article</a> which discusses the design of a containerized IoT and M2M application, comparing balena and AWS’s IoT products."
+    },
+    {
+      "title": "Is there a DevOps book club happening on the Forums?",
+      "text": "Not quite a project, but maybe this discussion and the books referenced could inspire one. Check out this <a target='_blank' href='https://forums.balena.io/t/must-read-books-articles/251773'>small, steady conversation</a> about “must-read books” about DevOps."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-june-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Technical Sales Lead / Sales Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br>- Site Reliability Engineer (Americas)<br>- Security Engineer<br>- Frontend Engineer<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more. Join our next session where the balena team will show you how to build a custom balenaOS image from source for a single board computer which doesn’t currently have balena support. <a href='https://www.youtube.com/watch?v%3DNpMC2WWSpNI' target='__blank'>Click to watch live with us on Friday at 16:00 UTC!</a>",
+    "list": []
+  }
+}
