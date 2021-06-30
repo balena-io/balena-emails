@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Your thoughts on the global IoT supply shortage",
+    "mailchimp_subject_line": "Your thoughts on the global IoT supply shortage",
+    "mailchimp_preview_text": "Has your business been impacted?",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "solutions@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "iot-supply-shortage",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "",
+    "image": "",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "Hi,<br><br>We're aware that many of our customers are being impacted by the global chip and hardware component shortage, and are gathering more information on the scale and scope of the impact.<br><br>We would appreciate it if you could <a href='https://balena.typeform.com/to/IESydKFl' target='_blank'>complete this short survey</a> to help us better understand how our customers are being affected, and if there are ways in which Balena can help reduce the impact.<br><br>Thank you in advance,<br><br>The Balena Team"
+  }
+}
