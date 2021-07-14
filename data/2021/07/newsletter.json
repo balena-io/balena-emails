@@ -22,7 +22,7 @@
   },
 
   "featured": {
-    "text": "Hello, dear readers,<br><br>First off, we’re thankful for the adoption of <a target='_blank' href='https://hub.balena.io/'>open fleets and projects</a> on balenaHub! Keep on trying new projects out and giving us helpful user feedback.<br><br>This month, hear the balena origin story from our Founder and check out the balenaSense v2 revamp of one of our most popular projects. On the IoT Happy Hour, learn <a target='_blank' href='https://www.youtube.com/watch?v=rSPNz4L-u_s'>more about Helium</a>, and how to move your <a target='_target' href='https://www.youtube.com/watch?v=k0SHqailG24&list=PLM8eOeiKY7JVbDrARJo28v86xSr7k-SWl&index=24'>LoRaWAN gateways over to The Things Stack</a>.<br><br>And, as always, check out some of the awesome community projects that we’ve found and see our open roles here at Team balena."
+    "text": "Hello, dear readers,<br><br>First off, we’re thankful for the adoption of <a target='_blank' href='https://hub.balena.io/'>open fleets</a> on balenaHub! Keep on trying things out -- all the feedback helps us improve balenaHub for everyone.<br><br>This month, hear the <a href='https://open.spotify.com/episode/2A4zrAHhKB27weBurVL1TF'>balena origin story</a> from our Founder and check out the <a href='https://www.balena.io/blog/balenasense-v2-updated-temperature-pressure-and-humidity-monitoring-for-raspberry-pi/'>balenaSense v2 revamp</a>. On the IoT Happy Hour, learn <a target='_blank' href='https://www.youtube.com/watch?v=rSPNz4L-u_s'>more about Helium</a>, and how to move your <a target='_target' href='https://www.youtube.com/watch?v=k0SHqailG24&list=PLM8eOeiKY7JVbDrARJo28v86xSr7k-SWl&index=24'>LoRaWAN gateways over to The Things Stack</a>.<br><br>And, as always, check out some of the awesome community projects that we’ve found and see our open roles here at Team balena."
   },
 
   "news": [
@@ -31,14 +31,7 @@
       "link": "https://open.spotify.com/episode/2A4zrAHhKB27weBurVL1TF",
       "image": "img/podcast.png",
       "button_text": "Listen now",
-      "text": "Our founder and CEO, Alexandros Marionos, appeared as a guest on George Hristov’s podcast ‘Front Range Founders’, to talk about the story of Balena, Alex's operational philosophy, and his advice for young entrepreneurs."
-    },
-    {
-      "title": "A very Helium happy hour",
-      "link": "https://www.youtube.com/watch?v=rSPNz4L-u_s",
-      "image": "img/iot.png",
-      "button_text": "Watch the episode",
-      "text": "Last month we invited the team from Helium to join us for our IoT Happy Hour to celebrate that there are more than 50.000 hotspots out there using Helium LoRaWAN network!"
+      "text": "Our Founder and CEO, Alexandros Marinos, appeared as a guest on George Hristov’s podcast ‘Front Range Founders’, to talk about the story of balena, Alex's operational philosophy, and his advice for young entrepreneurs."
     },
     {
       "title": "The new-and-improved balenaSense v2",
@@ -46,6 +39,13 @@
       "image": "img/sense.png",
       "button_text": "Read the guide",
       "text": "Powered by balenaBlocks, get a closer look at the improved balenaSense v2 and how it removes the friction from setting up environmental sensors and tracking and collecting their data."
+    },
+    {
+      "title": "A very Helium happy hour",
+      "link": "https://www.youtube.com/watch?v=rSPNz4L-u_s",
+      "image": "img/iot.png",
+      "button_text": "Watch the episode",
+      "text": "Last month we invited the team from Helium to join us for our IoT Happy Hour to celebrate that there are more than 50,000 hotspots out there using Helium LoRaWAN network!"
     }
   ],
 
