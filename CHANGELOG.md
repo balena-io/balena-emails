@@ -4,6 +4,12 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.6.0
+## (2021-07-14)
+
+* Added July 2021 newsletter [Andrew Nhem]
+* newlsetter: July 2021 [Tomás Migone]
+
 # v2.5.0
 ## (2021-06-30)
 
