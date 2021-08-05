@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Applications are now called Fleets in balenaCloud: get the details",
+    "mailchimp_subject_line": "Applications are now called Fleets in balenaCloud: get the details",
+    "mailchimp_preview_text": "We've made some changes to balenaCloud that you need to be aware of.",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "apps-to-fleets",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "",
+    "image": "",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "<strong>Hey everyone,</strong><br><br><strong>Important announcement:</strong> Applications on balenaCloud are now called Fleets.<br><br>We’ve changed this to progress us towards our long-term vision of disentangling devices from software, allowing you to manage both independently and solve for use cases of ever-increasing complexity.<br><br><ul><li><strong>Names and UI labels:</strong> You’ll notice the usage of “applications” become “fleets” across our websites, docs, and user interface.</li><li><strong>Functionality and features:</strong> Everything should be normal, working as intended.</li></ul><br><h2>Why are we doing this?</h2>Our team believes in making sense of the world and using accurate terminology, so we can all have conversations and work together without getting confused. It’s an important thing to get right at this point in balena’s journey; <strong>we’re making this change to unlock a whole host of other features in the future.</strong><br><br>Get all of the details about this change on our <a href=''>blog post</a>.<br><br>- Team balena"
+  }
+}
