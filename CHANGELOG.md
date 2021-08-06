@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.7.0
+## (2021-08-06)
+
+* Add announcement email for Aug 2021 applications -> fleets change [Andrew Nhem]
+
 # v2.6.0
 ## (2021-07-14)
 
