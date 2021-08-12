@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.9.0
+## (2021-08-12)
+
+* Update section of Aug 2021 newsletter [Andrew Nhem]
+
 # v2.8.0
 ## (2021-08-12)
 
