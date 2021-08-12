@@ -1,0 +1,133 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter August 2021",
+    "mailchimp_subject_line": "Applications are now Fleets, run OpenVINO with balenaCloud, and a new  balenaPodcast episode",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena July 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-08",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "no",
+    "title": "August 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "<img src='/img/apps-to-fleets.png'><br><br><strong>Hello dear readers,</strong><br><br>You may have already noticed on balenaCloud that Applications are now known as Fleets. Learn more about <a href='https://www.balena.io/blog/the-road-to-multi-app-transitioning-balenacloud-applications-to-fleets/'>why we made this change</a> and what’s next for our product.<br><br>Also check out our <a href='https://www.balena.io/blog/balenapodcast-02-bringing-industrial-3d-printing-capability-to-the-masses/'>latest balenaPodcast episode</a> on bringing industrial manufacturing capability to the masses, a tutorial on how to <a href='https://www.balena.io/blog/how-to-run-edge-ai-with-openvino-on-balenacloud/'>run edge AI with OpenVINO</a> on balena, and, as always, highlights from our fantastic community."
+  },
+
+  "news": [
+    {
+      "title": "‘Applications’ are now called ‘Fleets’ on balenaCloud",
+      "link": "https://www.balena.io/blog/the-road-to-multi-app-transitioning-balenacloud-applications-to-fleets/",
+      "image": "img/fleets.png",
+      "button_text": "Read more",
+      "text": "We’ve changed this to unlock the next steps of our long-term product vision. Get the details on our announcement post."
+    },
+    {
+      "title": "How to run edge AI with OpenVINO on balenaCloud",
+      "link": "https://www.balena.io/blog/how-to-run-edge-ai-with-openvino-on-balenacloud/",
+      "image": "img/openvino.png",
+      "button_text": "Read the guide",
+      "text": "Learn how to deploy an AI application using an Intel NUC and the Intel Distribution of OpenVINO Toolkit, all managed on balenaCloud."
+    },
+    {
+      "title": "balenaPodcast ep02: democratizing industrial production",
+      "link": "https://www.balena.io/blog/balenapodcast-02-bringing-industrial-3d-printing-capability-to-the-masses/",
+      "image": "img/podcast.png",
+      "button_text": "Watch the episode",
+      "text": "In this episode, we discuss the democratization of industrial 3D printing, how we can make manufacturing more accessible and cost-friendly, space travel, and more. Also available on <a href='https://open.spotify.com/episode/61ZjhfAglNR0j59hm79Ri7'>Spotify</a>, <a href='https://podcasts.apple.com/gr/podcast/balenapodcast/id1570781785'>Apple</a>, and <a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81Y2EyMGNlMC9wb2RjYXN0L3Jzcw'>Google</a> podcast apps."
+    },
+    {
+      "title": "NOTE: We’ve deprecated some of our image maker endpoints",
+      "link": "https://github.com/balena-io/balena-sdk/#deprecation-policy",
+      "image": "img/generic.png",
+      "button_text": "Review the policy",
+      "text": "If you or your teams use these modules of the balena SDK or CLI you will need to upgrade to a newer version: <br><br>- balena-sdk v12.12.0 (released on 2019-09-28)<br>- balena-cli v11.13.0 (released on 2019-09-30)<br>- balena-sdk-python v7.8.0 (released on 2019-05-20)"
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Scitizen",
+      "author": "gh_pcorbel",
+      "description": "Help scientific research for the benefit of mankind and humanity",
+      "image": "https://raw.githubusercontent.com/pcorbel/scitizen/main/docs/assets/logo.png",
+      "link": "https://hub.balena.io/gh_pcorbel/scitizen"
+    },
+    {
+      "name": "White Noise Generator",
+      "author": "g_tomas_migone1",
+      "description": "Build your own white noise machine using your Raspbery Pi!",
+      "image": "https://raw.githubusercontent.com/balenalabs-incubator/white-noise-generator/master/logo.png",
+      "link": "https://hub.balena.io/g_tomas_migone1/white-noise-generator"
+    },
+    {
+      "name": "Agriai",
+      "author": "g_arijit_das",
+      "description": "Pest detection and classification made using Edge Impulse and balena.",
+      "image": "https://raw.githubusercontent.com/arijitdas123student/agri-ai-v2/master/logo.png",
+      "link": "https://hub.balena.io/g_arijit_das/agriai-v2"
+    },
+    {
+      "name": "Home Urbit",
+      "author": "gh_odyslam",
+      "description": "A new OS and peer-to-peer network that’s simple by design.",
+      "image": "https://raw.githubusercontent.com/OdysLam/home-urbit/master/assets/logo.png",
+      "link": "https://hub.balena.io/gh_odyslam/home-urbit"
+    },
+    {
+      "name": "Hostname (block)",
+      "author": "balenalabs",
+      "description": "An utility block to set the hostname of devices running balenaOS.",
+      "image": "https://raw.githubusercontent.com/balenablocks/hostname/master/logo.png",
+      "link": "https://github.com/balenablocks/hostname"
+    },
+    {
+      "name": "Browser Control (block)",
+      "author": "phil-d-wilson",
+      "description": "A remote control webApp for the balenablocks/browser block.",
+      "image": "https://raw.githubusercontent.com/balenablocks/browsercontrol/main/logo.png",
+      "link": "https://github.com/balenablocks/browsercontrol"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Speed up your software compilation",
+      "text": "Community member Khancyr has taken to the forums to show us all how you can use multiple nodes and balena to <a href='https://forums.balena.io/t/speeding-up-compilation-with-multiple-balena-boards/341653'>speed up software compilation</a>."
+    },
+    {
+      "title": "Why use balenaOS?",
+      "text": "Our users debate the topic of <a href='https://forums.balena.io/t/balenaos-vs-ubuntu-vs-k3os/342578'>balenaOS vs. Ubunto vs. k3os</a> and how balenaHub makes it easy for you to build open source projects in the forums."
+    },
+    {
+      "title": "Join the LoRaWAN community for their summer session",
+      "text": "Marc Pous of balena will be teaching at <a href='https://hopin.com/events/the-things-summer-academy'>The Things Summer Academy</a> this year, showing how you can build and connect your LoRaWAN gateways with balena."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-august-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- People Product Lead<br>- Fleet Reliability Engineer<br>- Full Stack Engineer - Developer Tools<br>- Technical Sales Lead / Sales Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. Instead, meet with us virtually during our weekly IoT Happy Hour!<br><br>Every Friday at 16:00 UTC, join our live stream to see IoT project builds, discuss hardware and software, talk shop, answer community questions, and more. Join our next session where the balena team will show you how to build a custom balenaOS image from source for a single board computer which doesn’t currently have balena support. <a href='https://www.youtube.com/watch?v%3DNpMC2WWSpNI' target='__blank'>Click to watch live with us on Friday at 16:00 UTC!</a>",
+    "list": []
+  }
+}
