@@ -103,6 +103,10 @@
 
   "projects": [
     {
+      "title": "Check out our latest community build logs",
+      "text": "We recently added a new <a href='https://forums.balena.io/c/show-and-tell/92'>Show and Tell category to balenaForums</a>, and many users have started sharing their recent projects and builds. <a href='https://forums.balena.io/c/show-and-tell/92'>Check them out</a> and add your own!"
+    },
+    {
       "title": "Speed up your software compilation",
       "text": "Community member Khancyr has taken to the forums to show us all how you can use multiple nodes and balena to <a href='https://forums.balena.io/t/speeding-up-compilation-with-multiple-balena-boards/341653'>speed up software compilation</a>."
     },
