@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.8.0
+## (2021-08-12)
+
+* Adding August 2021 newsletter content [Andrew Nhem]
+
 # v2.7.0
 ## (2021-08-06)
 
