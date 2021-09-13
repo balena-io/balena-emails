@@ -1,0 +1,116 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter September 2021",
+    "mailchimp_subject_line": "Build a LoRaWAN server with balena, make your own balenaBlocks, and see our new Show & Tell forum category!",
+    "mailchimp_preview_text": "Monthly updates on projects, features and events from balena September 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-09",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "no",
+    "title": "September 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello dear readers,<br><br>This month, we inspire you to build. Check out this tutorial on <a href='https://www.balena.io/blog/how-to-make-your-own-balenablocks-simple-drop-in-edge-app-functionality/'>creating your own balenaBlocks</a> and see new Projects and Fleets on <a href='https://hub.balena.io'>balenaHub</a>, including a citizen science project encouraging you to build your own environment sensor. Our ambassadors also <a href='https://www.youtube.com/watch?v=3w2Kph2h-OA'>share what they have been building this summer</a> and there are <a href='https://forums.balena.io/c/show-and-tell/92'>new build logs on the balenaForums</a>.<br><br>There's a <a href='https://www.balena.io/blog/balenapodcast-open-hardware-and-empowering-humanity-with-technology-jason-kridner-beagleboard/'>new episode of the balenaPodcast</a> to watch or listen to, featuring BeagleBoard co-founder Jason Kridner. We talk about open hardware and the future of technology accessibility.<br><br>Whether you're managing a massive IoT fleet, or just getting started, we encourage you to keep building upon your big idea."
+  },
+
+  "news": [
+    {
+      "title": "Build a private LoRaWAN server with balena",
+      "link": "https://www.balena.io/blog/run-your-private-the-things-stack-network-server-on-a-raspberry-pi-with-balena/",
+      "image": "https://assets.balena.io/blog-common/2021/09/newsletter-tts.png",
+      "button_text": "Read more",
+      "text": "Learn how to use balena, a Raspberry Pi, and The Things Stack to build a LoRaWAN network so that you can manage your own data without sharing it with a cloud provider."
+    },
+    {
+      "title": "Make your own balenaBlocks",
+      "link": "https://www.balena.io/blog/how-to-make-your-own-balenablocks-simple-drop-in-edge-app-functionality/",
+      "image": "https://assets.balena.io/blog-common/2021/09/newsletter-blocks.png",
+      "button_text": "Read the guide",
+      "text": "balenaBlocks are drop-in chunks of app functionality built to handle common tasks in edge and IoT projects. Use this guide to learn how to make your own block."
+    },
+    {
+      "title": "balenaPodcast ep03: on the future of modular, open hardware",
+      "link": "https://www.balena.io/blog/balenapodcast-open-hardware-and-empowering-humanity-with-technology-jason-kridner-beagleboard/",
+      "image": "https://assets.balena.io/blog-common/2021/09/newsletter-podcast-3.png",
+      "button_text": "Watch the episode",
+      "text": "Jason Kridner, co-founder of BeagleBoard, joined the balenaPodcast to talk about the future of open hardware and how we can empower the next wave of makers and creators with technology."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Ribbit-network",
+      "author": "g_keenan_johnson1",
+      "description": "The sensor for the world's largest crowdsourced network of open-source, low-cost, CO2 Gas Detection Sensors.",
+      "image": "https://raw.githubusercontent.com/Ribbit-Network/ribbit-network-frog-sensor/main/software/balena_fleet_logo.png",
+      "link": "https://hub.balena.io/g_keenan_johnson1/ribbit-network"
+    },
+    {
+      "name": "Bookstack",
+      "author": "gh_klutchell",
+      "description": "BookStack is a simple and free, self-hosted, easy-to-use wiki platform for organising and storing information.",
+      "image": "https://raw.githubusercontent.com/klutchell/balena-bookstack/main/logo.png",
+      "link": "https://hub.balena.io/gh_klutchell/bookstack"
+    },
+    {
+      "name": "MIDI-Synthesizer",
+      "author": "text/html",
+      "description": "Connect your MIDI instruments and start playing.",
+      "image": "https://raw.githubusercontent.com/texthtml/balena-midi-synthesizer/main/logo.png",
+      "link": "https://hub.balena.io/text_html/midi-synthesizer"
+    },
+    {
+      "name": "Helium-data-hotspot",
+      "author": "Marc Pous",
+      "description": "Deploys the Helium hotspot that doesn’t mine any HNT.",
+      "image": "https://raw.githubusercontent.com/mpous/helium-data-hotspot/main/logo.png",
+      "link": "https://hub.balena.io/marc6/helium-data-hotspot"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Meet other product builders on the balenaForums",
+      "text": "Community members and balena staff alike have been turning to the new <a href='https://forums.balena.io/c/show-and-tell/92'>Show & Tell category</a> on the forum to document their projects as they build."
+    },
+    {
+      "title": "Join the world’s largest CO2 detection network",
+      "text": "Keenan Johnson, a balena community member, is fighting climate change by building the world’s largest crowdsourced network of open-source, low-cost Greenhouse Gas detection sensors, known as the <a href='https://ribbitnetwork.org/'>Ribbit Network</a>!"
+    },
+    {
+      "title": "Catch up on The Things Academy’s summer session",
+      "text": "Want to know how you can build and connect your LoRaWAN gateways with balena? Last month, Marc Pous of balena was teaching just that at the Things Network’s summer session, <a href='https://www.youtube.com/watch?v=h38IFxHG7pA&list=PLM8eOeiKY7JUSpxCAiEr6eViQYwXZVkXy&index=5'>available on YouTube</a>."
+    },
+    {
+      "title": "A Happy Hour to inspire some new project ideas",
+      "text": "Our Ambassadors joined a recent <a href='https://www.youtube.com/watch?v=3w2Kph2h-OA'>IoT Happy Hour</a> to share projects that they have been hacking on this summer."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-september-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Analytics Engineer<br>- Visual / UI Designer<br>- People Lead<br>-Technical Sales Lead / Sales Engineer (EMEA)<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "We’re postponing our physical events to practice safe social distancing and keep our team safe and healthy. While we figure out what's next for our digital events, catch up on the IoT Happy Hour!<br><br>Each IoT Happy Hour features IoT project builds, hardware and software discussions, and community Q&A.",
+    "list": []
+  }
+}
