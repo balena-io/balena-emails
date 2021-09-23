@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "balena Hackathon 2021 (digital)",
+    "mailchimp_subject_line": "balena (digital) Hackathon 2021: edge developers and IoT product builders-- join us!",
+    "mailchimp_preview_text": "We're inviting edge and IoT developers and makers to hang out, learn, and share ideas.",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io"
+    ],
+    "netlify_site_name": "hackathon-2021",
+    "assets_folder": "img"
+  },
+  "header": {
+    "dark": "yes",
+    "title": "",
+    "image": "",
+    "image_height": 760,
+    "image_width": 1200
+  },
+  "featured": {
+    "color": "#ffffff",
+    "text": "<strong><img src='https://assets.balena.io/blog-common/2021/09/hackathon-2021-sm.png'><br><br>Hi there!</strong><br><br>Are you curious about how IoT development works? Have you been thinking about building an IoT project?<br><br>This is your invitation to join the balena virtual hackathon! Join us to:<br><ul><li>Learn how to build IoT projects using cloud and web-style development tools</li><li>Meet developers from around the world</li><li>Find out more about and build your own open fleet</li><li>Get inspired by talks from industry experts and the balena community</li></ul>The event will be taking place on the <strong>16th October, 2021, and will be kicking off at 10am IST, 10am CET and 10am PT</strong>, so that you can join us at a time that is local to you and hack async with developers from around the world.<br><br>Interested? <a href='https://www.eventbrite.com/e/iot-virtual-workshop-hackathon-with-balena-tickets-169976374913'>Learn more and register</a> for your place at the event."
+  }
+}
