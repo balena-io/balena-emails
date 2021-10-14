@@ -1,0 +1,127 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter October 2021",
+    "mailchimp_subject_line": "Join us at the 2021 Virtual Hackathon, take the balenaHub Challenge, and get EtcherPro updates!",
+    "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena October 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-10",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "October 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello dear readers,<br><br>We’re all fresh from our annual Summit 2021, so we have all kinds of new ideas and energy to bring into the rest of this year and into the new one. We hope to see you at our <a href='https://www.eventbrite.com/e/iot-virtual-workshop-hackathon-with-balena-tickets-169976374913'>Virtual Hackathon</a> coming up this month. Also, check out our <a href='https://hub.balena.io/challenge'>new competition</a> that features some great prizes up for grabs. We’re also extremely excited that the first <a href='https://store.balena.io/?d_id=176ccffa6de8af-098cb5fd79036b-6c112c7c-13c680-176ccffa6df984'>EtcherPros have been shipped</a>!<br><br>As always, get the latest community highlights and updates and check out new job openings at balena."
+  },
+
+  "news": [
+    {
+      "title": "Join the balenaHub Challenge",
+      "link": "https://hub.balena.io/challenge",
+      "image": "https://assets.balena.io/blog-common/2021/10/balenaHub-challenge.png",
+      "button_text": "Learn more",
+      "text": "We’re challenging developers worldwide to build an IoT Project or Fleet, add it to our growing marketplace, balenaHub, and share it with the world. Submit your work for a chance of winning a cash prize, and have it featured on balenaEtcher, which is used to flash millions of SD cards and USB drives every month!"
+    },
+    {
+      "title": "Take part in our 2021 Virtual Hackathon!",
+      "link": "https://www.eventbrite.com/e/iot-virtual-workshop-hackathon-with-balena-tickets-169976374913",
+      "image": "https://assets.balena.io/blog-common/2021/10/hackathon.png",
+      "button_text": "Register now",
+      "text": "Are you curious about how IoT development works? Have you been thinking about building an IoT project? Or, maybe you need some help on the upcoming balenaHub Challenge? Join us, edge developers, makers, and hackers from around the world on October 16th, 2021 for the event."
+    },
+    {
+      "title": "balenaPodcast ep04: Systems thinking and building better organizations",
+      "link": "https://www.youtube.com/watch?v=4OoEXLyf_gA",
+      "image": "https://assets.balena.io/blog-common/2021/10/podcast-ep4.png",
+      "button_text": "Watch the episode",
+      "text": "In this episode, Alex talks to Software Development Coach Chris R. Chapman about what next-gen engineering leaders need to build better organizations, why systems thinking is critical for any new leader, and how they need to apply psychology and empathy into the mix."
+    },
+    {
+      "title": "The first EtcherPro has been shipped!",
+      "link": "https://store.balena.io/?d_id=176ccffa6de8af-098cb5fd79036b-6c112c7c-13c680-176ccffa6df984",
+      "image": "https://assets.balena.io/blog-common/2021/10/first-EP.png",
+      "button_text": "Check it out",
+      "text": "EtcherPro is a stand-alone device that allows you to write to multiple cards or USB drives at once, at extreme speeds. After battling multiple challenges this year with the global components shortage, we’re pleased to announce that the EtcherPro has started to be shipped to the first customers who pre-ordered earlier this year."
+    },
+    {
+      "title": "Check out this alternative controller game prototype",
+      "link": "https://www.balena.io/blog/how-i-built-a-video-game-prototype-with-custom-hardware-and-balena/",
+      "image": "https://assets.balena.io/blog-common/2021/10/alt-game.png",
+      "button_text": "Read the post",
+      "text": "Follow along with balenista Julia as she builds this amazing project: an alternative controller video game prototype. Find her full project walkthrough on the balena blog."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Air-pi-play",
+      "author": "gh_rahul_thakoor",
+      "description": "Enable screen mirroring on tvs, monitors and projectors.",
+      "image": "https://raw.githubusercontent.com/rahul-thakoor/air-pi-play/master/logo.png",
+      "link": "https://hub.balena.io/gh_rahul_thakoor/air-pi-play"
+    },
+    {
+      "name": "TTNGateway-RPi",
+      "author": "resin67",
+      "description": "Build a Raspberry Pi based LoRaWAN Gateway.",
+      "image": "https://raw.githubusercontent.com/AmedeeBulle/ttn-gateway-containers/main/images/TheThingsNetwork-logo-circle.png",
+      "link": "https://hub.balena.io/resin67/ttngateway-rpi"
+    },
+    {
+      "name": "MIDI-Synthesizer (updated!)",
+      "author": "text/html",
+      "description": "Connect your MIDI instruments and start playing.",
+      "image": "https://raw.githubusercontent.com/texthtml/balena-midi-synthesizer/main/logo.png",
+      "link": "https://hub.balena.io/text_html/midi-synthesizer"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Calling for all IoT and edge project questions",
+      "text": "A big focus for our new IoT Project Clinic livestream is to answer edge developer and product builder questions. If you have interesting ones, please check out <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>this forum post</a> and ask away!"
+    },
+    {
+      "title": "How to set up your Helium hotspot with balena",
+      "text": "A Data-Only Hotspot is a type of Hotspot that participates on the Helium Network by transferring data from the end devices (LoRaWAN nodes). <a href='https://docs.helium.com/mine-hnt/data-only-guides/balena-data-only-hotspot/'>This Helium guide</a> walks you through how to set up your hotspot using balena."
+    },
+    {
+      "title": "Saving the turtles, one device at a time",
+      "text": "In <a href='https://arribada.org/2021/09/04/lorawan-vessel-tracking-for-small-scale-fisheries-spot-north-cyprus/'>their latest blog post</a>, balena customer Arribada walks through how they have used LoRa gateways and balena to track small fishing vessels with the Society for the Protection of Turtles."
+    },
+    {
+      "title": "Looking for an easy way to set up your LoRaWAN Gateway?",
+      "text": "Community member ronyvargas has shared <a href='https://forums.balena.io/t/lorawan-gateway-on-the-2-4ghz-band-using-balena/341998'>their easy guide</a> to setting up a LoRaWAN Gateway using balena and The Things Stack on our Forums."
+    },
+    {
+      "title": "Make a MIDI Synthesizer out of a Raspberry Pi",
+      "text": "Community member Mathroc added his MIDI Synthesizer project to balenaHub, but he’s been keeping us up to date with everything you need to build this project successfully in the <a href='https://forums.balena.io/t/make-a-midi-synthesizer-out-of-a-raspberry/345973'>‘Show & Tell’ category on our Forums</a>."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-october-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Hardware Engineer<br>- Full Stack Engineer - Product Development Platform<br>- Data Lead<br>- Visual / UI Designer<br>- People Lead<br>-Technical Sales Lead / Sales Engineer (EMEA)<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "The <a href='https://github.com/balenalabs'>balenaLabs team</a> welcomes experienced edge developers, makers, and builders to come and talk shop, ask questions, and get new ideas.<br><br>Submit your questions for the next live show on <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>this forum thread</a>, tweet us using the hashtag #IoTClinic or leave a comment <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPUkPJG4_Q8y87gaDwqk6Kk'>on one of our YouTube videos</a>.",
+    "list": []
+  }
+}
