@@ -1,0 +1,130 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter November 2021",
+    "mailchimp_subject_line": "The balenaHub Challenge ends on 30 November, smart curtains, robotics block, and the latest balena podcast",
+    "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena November 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-11",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "November 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello dear readers,<br><br>Remember, <a href='https://hub.balena.io/challenge'>balenaHub Challenge</a> entries (for a chance to win cash and be featured on Etcher) are due at the end of November. Good luck and have fun!<br><br>Catch up with a few of our virtual workshops from the last few weeks below. From the Labs, we have a <a href='https://www.balena.io/blog/improve-sleep-with-home-automation-curtains-balena/'>home curtain automation project</a> and a sneak peek at a <a href='https://www.balena.io/blog/build-one-or-many-robots-balena-ros-tech-stack-block/'>robotics-focused balenaBlock</a>. As always, see our community highlights and open roles at balena."
+  },
+
+  "news": [
+    {
+      "title": "Last call for balenaHub Challenge entries",
+      "link": "https://hub.balena.io/challenge",
+      "image": "https://assets.balena.io/blog-common/2021/10/balenaHub-challenge.png",
+      "button_text": "Get the details",
+      "text": "We’re challenging developers worldwide to build an IoT Project or Fleet, and add it to our growing marketplace, balenaHub, to share it with the world. Submit your work by November 30 2021 for a chance of winning a cash prize and a feature on balenaEtcher."
+    },
+    {
+      "title": "Build one (or many) robots with balena",
+      "link": "https://www.balena.io/blog/build-one-or-many-robots-balena-ros-tech-stack-block/",
+      "image": "https://assets.balena.io/blog-common/2021/11/newsletter-robot.png",
+      "button_text": "Learn more",
+      "text": "One of our Hardware Hackers gave us a sneak peek at a robotics block-- the beginning of how we plan to reduce friction for robot developers using balena at any scale."
+    },
+    {
+      "title": "Next-level home automation: smart curtains",
+      "link": "https://www.balena.io/blog/improve-sleep-with-home-automation-curtains-balena/",
+      "image": "https://assets.balena.io/blog-common/2021/11/newsletter-curtains.png",
+      "button_text": "See the guide",
+      "text": "Driven by a desire to automate how light enters the home to improve sleep, one of our balenaLabs residents built this smart curtain project."
+    },
+    {
+      "title": "balenaPodcast Episode 5: Consilience, and how to understand everything",
+      "link": "https://www.youtube.com/watch?v=FyuDhTqBdZQ",
+      "image": "https://assets.balena.io/blog-common/2021/11/newsletter-podcast05.png",
+      "button_text": "Watch the recording",
+      "text": "Tom Beakbane, author of <em>How to Understand Everything: Consilience: A New Way to See the World</em>, joined our podcast to explain what consilience is, and how the practice can help us have a deeper understanding of one another and of the world around us."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Nextcloud",
+      "author": "gh_klutchell",
+      "description": "A safe home for all your data!",
+      "image": "https://raw.githubusercontent.com/klutchell/balena-nextcloud/main/logo.png",
+      "link": "https://hub.balena.io/gh_klutchell/nextcloud"
+    },
+    {
+      "name": "Motorules-curtains",
+      "author": "g_p_ter_makra",
+      "description": "Move stepper motors to automate your curtains.",
+      "image": "https://raw.githubusercontent.com/mcraa/motorules/master/images/hub-logo512.png",
+      "link": "https://hub.balena.io/g_p_ter_makra/motorules-curtains"
+    },
+    {
+      "name": "nodeRED-mqtt",
+      "author": "marc6",
+      "description": "Build a Node-RED app with MQTT mosquitto.",
+      "image": "https://raw.githubusercontent.com/balenablocks/balena-node-red/master/logo.png",
+      "link": "https://hub.balena.io/marc6/nodered-mqtt"
+    },
+    {
+      "name": "Ockam (block)",
+      "author": "gh_jared_s",
+      "description": "A library for end-to-end encrypted messaging.",
+      "image": "https://raw.githubusercontent.com/ockam-network/ockam/develop/tools/docker/balena/ockam-logo-512.png",
+      "link": "https://github.com/ockam-network/ockam"
+    },
+    {
+      "name": "Tailscale (block)",
+      "author": "gh_hslatman",
+      "description": "Run a Tailscale mode on a balena device.",
+      "image": "https://raw.githubusercontent.com/hslatman/tailscale-balena-block/main/logo.png",
+      "link": "https://github.com/hslatman/tailscale-balena-block"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Send us your edge project questions and we’ll answer them live",
+      "text": "It has been fun to answer community questions about edge projects on the last few IoT Project Clinic episodes (catch up on <a href='https://youtu.be/x-4ZuCa8Y-Y?t=7'>ep. 03</a> and <a href='https://www.youtube.com/watch?v=eHLW7CS3t4E'>ep. 04</a>). If you have a project that you’d like to show off or want to ask questions live head over to the Forums and <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>let us know</a>."
+    },
+    {
+      "title": "Build your first edge AI device the easy way",
+      "text": "Catch up (or re-watch) the balena workshop at the Arm Dev Summit, where we demonstrated how to build <a href='https://devsummit.arm.com/en/sessions/80'>your first fully functional edge AI device</a> using a Jetson Nano, containerized services, and balenaCloud."
+    },
+    {
+      "title": "Scale your fleet of TinyML solutions",
+      "text": "Ambassador Mithun shared his proof of concept that shows how easy it is to <a href='https://www.hackster.io/mithun-das/scale-your-fleet-of-tinyml-solutions-680041'>deploy a fleet of edge devices running a TinyML model</a> with object detection capability using AWS IoT, Edge Impulse, and balena."
+    },
+    {
+      "title": "Monitor device fleet health wit the Datadog IoT agent",
+      "text": "We hung out with Datadog this month to learn <a href='https://www.youtube.com/watch?v=QKtDOixPUsY&list=PLdh-RwQzDsaMPmB6-woj8TEEeWP47BxDe&index=8'>how to easily gather IoT diagnostic information, logs, and other telemetry data</a>. Check out the video to learn how to add a Datadog IoT Agent container to a device and interpret the data."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-november-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Hardware Engineer<br>- Operations Manager<br>- Data Lead<br>- Generalist<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "The <a href='https://github.com/balenalabs'>balenaLabs team</a> welcomes experienced edge developers, makers, and builders to come and talk shop, ask questions, and get new ideas.<br><br>Submit your questions for the next live show on <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>this forum thread</a>, tweet us using the hashtag #IoTClinic or leave a comment <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPUkPJG4_Q8y87gaDwqk6Kk'>on one of our YouTube videos</a>.",
+    "list": []
+  }
+}
