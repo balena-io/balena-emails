@@ -8,7 +8,8 @@
     "watch": "gulp watch",
     "build": "gulp build",
     "staging": "gulp staging",
-    "publish": "gulp publish"
+    "publish": "gulp publish",
+    "test": "echo 0"
   },
   "author": "Tomás Migone <tomas@balena.io>",
   "license": "Apache-2.0",
