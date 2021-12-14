@@ -1,0 +1,132 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter December 2021",
+    "mailchimp_subject_line": "balenaCloud now supports the Raspberry Pi Zero 2, build a voice-controlled mood tracker, and learn more about Labs residencies",
+    "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena December 2021",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2021-12",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "December 2021",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello dear readers,<br><br>It's time to vote for your favorite projects on <a href='https://hub.balena.io'>balenaHub</a>: simply join or fork interesting Fleets and Projects. Also, try <a href='https://www.balena.io/blog/raspberry-pi-zero-2w-now-supported-on-balenacloud/'>adding Raspberry Pi Zero 2 Ws</a> to your balenaCloud fleets, go behind the scenes of our <a href='https://www.balena.io/blog/balenalabs-residencies-our-quest-to-improve-onboarding-at-balena/'>balenaLabs residencies</a>, and check out some <a href='https://www.balena.io/blog/holiday-gift-suggestions-for-the-hardware-hackers-in-your-life-2021/'>last-minute holiday gift inspiration</a>.<br><br>As always, you can join us on the IoT Project Clinic, Fridays at 4pm UTC, to see us working in the open, and check out the new job opportunities we have.<br><br>Happy holidays!"
+  },
+
+  "news": [
+    {
+      "title": "Raspberry Pi Zero 2 W: now supported!",
+      "link": "https://www.balena.io/blog/raspberry-pi-zero-2w-now-supported-on-balenacloud/",
+      "image": "https://assets.balena.io/blog-common/2021/12/newsletter-1.png",
+      "button_text": "Find out more",
+      "text": "The long awaited Raspberry Pi Zero 2 W is here and It’s no secret that here at balena, we are huge fans of the Raspberry Pi single board computers. We now support these powerful little devices."
+    },
+    {
+      "title": "balenaCloud outages: their causes and what we’re doing to resolve them",
+      "link": "https://www.balena.io/blog/balenacloud-outages-causes-and-what-were-doing-to-resolve-them/",
+      "image": "https://assets.balena.io/blog-common/2021/12/newsletter-5.png",
+      "button_text": "Get the details",
+      "text": "We’ve been growing and have identified scalability issues that require addressing. Read this article to learn more about what’s been going on and what we’re doing to resolve these issues."
+    },
+    {
+      "title": "What is the balenaLabs residency?",
+      "link": "https://www.balena.io/blog/balenalabs-residencies-our-quest-to-improve-onboarding-at-balena/",
+      "image": "https://assets.balena.io/blog-common/2021/12/newsletter-2.png",
+      "button_text": "Read more",
+      "text": "Onboarding is more than learning your new role and meeting teammates. Over the last few months, new hires have spent their first month building a project and getting to know the platform with the Labs team on our quest to improve onboarding."
+    },
+    {
+      "title": "Create a voice-controlled mood tracker",
+      "link": "https://www.balena.io/blog/build-self-hosted-voice-controlled-mood-tracker-rhasspy-balena/",
+      "image": "https://assets.balena.io/blog-common/2021/12/newsletter-3.png",
+      "button_text": "Read the tutorial",
+      "text": "Balenista Eduardo graduated from his Labs residency after building a self-hosted, voice-controlled mood tracker using Rhasspy and balena. Try it now on balenaHub!"
+    },
+    {
+      "title": "What’s on your gift list this year?",
+      "link": "https://www.balena.io/blog/holiday-gift-suggestions-for-the-hardware-hackers-in-your-life-2021/",
+      "image": "https://assets.balena.io/blog-common/2021/12/newsletter-4.png",
+      "button_text": "Check it out",
+      "text": "Looking for the perfect present for your Hardware Hacker friends? We asked the balena team for tips and compiled the answers so you can do some stress-free shopping."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Home Assistant Adguard",
+      "author": "abdul_isik",
+      "description": "A project to deploy Home Assistant and Adguard together.",
+      "image": "https://raw.githubusercontent.com/abdulisik/balena-homeassistant-adguard/master/logo.png",
+      "link": "https://hub.balena.io/g_abdul_isik/home_assistant-adguard_home"
+    },
+    {
+      "name": "Jenkins",
+      "author": "kwmlodozeniec",
+      "description": "Build a Jenkins image with Python 3.7.",
+      "image": "https://raw.githubusercontent.com/kwmlodozeniec/balena-jenkins/master/logo.png",
+      "link": "https://hub.balena.io/kwmlodozeniec/jenkins"
+    },
+    {
+      "name": "Gate God",
+      "author": "farley",
+      "description": "Automatically control your gates.",
+      "image": "https://hub.balena.io/static/media/default-app-logo.49d702fc.svg",
+      "link": "https://hub.balena.io/g_farley/gate_god"
+    },
+    {
+      "name": "Strand",
+      "author": "hardy_ferentschik_balena",
+      "description": "Measure temperature from a remote location.",
+      "image": "https://raw.githubusercontent.com/hferentschik/balena-strand/master/logo.png",
+      "link": "https://hub.balena.io/hardy_ferentschik_balena/strand"
+    },
+    {
+      "name": "Blinkt",
+      "author": "cniweb",
+      "description": "RESTful API for controlling a RPi with a Blinkt.",
+      "image": "https://raw.githubusercontent.com/cniweb/balena-python-blinkt/master/logo.png",
+      "link": "https://hub.balena.io/gh_cniweb/blinkt"
+    },
+    {
+      "name": "Weather",
+      "author": "hardy_ferentschik_balena",
+      "description": "Multicontainer weather station.",
+      "image": "https://raw.githubusercontent.com/hferentschik/balena-weather/master/logo.png",
+      "link": "https://hub.balena.io/hardy_ferentschik_balena/weather"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Good luck to all balenaHub Challenge participants",
+      "text": "Vote with your <em>fleet</em> for your favorite <a href='https://hub.balena.io'>balenaHub</a> entries! We'll tally up the votes on 31 December 2021 and announce our winner in the new year.<br><br><ul><li><strong>Home Assistant Adguard -</strong> A project to deploy Home Assistant and Adguard together</li><li><strong>Jenkins -</strong> Build a Jenkins image with Python 3.7</li><li><strong>Gate God -</strong> Automatically control your gates</li><li><strong>Strand -</strong> Measure temperature from a remote location</li><li><strong>Blinkt -</strong> RESTful API for controlling a RPi with a Blinkt</li><li><strong>Weather -</strong> Multicontainer weather station </li><li><strong>Jurubeba -</strong> A digital territory bu and for local communities</li><li><strong>Scitizen -</strong> Help scientific research for the benefit of mankind</li><li><strong>GPS Time -</strong> Provide accurate time via chrony ntp server</li><li><strong>Bird Watcher -</strong> Classify the birds around you</li><li><strong>balena Print -</strong> Add wireless and AirPrint capability to USB enabled printers</li><li><strong>Ribbit Network -</strong> A network of CO2 gas detection sensors</li><li><strong>Wifi-to-ethernet -</strong> Easily connect an Ethernet-only device to wifi</li><li><strong>Zigbee-edge-gateway -</strong> Full stack Zigbee Edge Gateway with MQTT</li><li><strong>Rickroll-fm -</strong> Build your own RPi FM radio station</li><li><strong>Learners Block -</strong> Let’s anyone share educational resources</li><li><strong>Agraiai-v2 -</strong> Pest detection and classification</li><li><strong>Peti -</strong> Uses Pi-Hole to schedule internet blocks</li></ul>"
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-december-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Hardware Engineer<br>- Warehouse Engineer<br>- Software Engineer - Product Development Platform<br>- Operations Manager<br>- Data Lead<br>- Generalist<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "The <a href='https://github.com/balenalabs'>balenaLabs team</a> welcomes experienced edge developers, makers, and builders to come and talk shop, ask questions, and get new ideas.<br><br>Submit your questions for the next live show on <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>this forum thread</a>, tweet us using the hashtag #IoTClinic or leave a comment <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPUkPJG4_Q8y87gaDwqk6Kk'>on one of our YouTube videos</a>.",
+    "list": []
+  }
+}

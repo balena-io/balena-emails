@@ -80,14 +80,15 @@
       {{/each }}
     {{/if}}
 
-    <!-- Hub -->
+    <!-- Hub 
     {{#if @root.hub}}
       <mj-spacer height="4px" />
       {{> section_header title="This month on balenaHub" icon="https://assets.balena.io/newsletter/hub-icon.png" background-color="#eff8ff" }}
       
       {{> hub }}
     {{/if}}
-
+    -->
+    
     <!-- Share -->
     {{#if @root.share}}
       <mj-spacer height="4px" />
@@ -126,7 +127,7 @@
     <!-- Remove this section once events resume -->
     {{#if @root.events}}
       {{> section_header title="Hang out with us" }}
-      {{> card text=@root.events.text image="img/fallback.png" title="Bring your questions to the IoT Project Clinic" link="https://www.youtube.com/watch?v=pYKcgMZSL1I&list=PLT5WZl9m5WoPmruqPG8_BGzVSOdtfX8Rk" button_text="Watch episodes" }}
+      {{> card text=@root.events.text image="img/fallback.png" title="Bring your questions to the IoT Project Clinic" link="https://www.youtube.com/watch?v=azlpPA2GSNo&list=PLT5WZl9m5WoPUkPJG4_Q8y87gaDwqk6Kk" button_text="Watch episodes" }}
     {{/if}}
 
     <!-- Social/Footer/Disclaimer -->
