@@ -1,0 +1,115 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter January 2022",
+    "mailchimp_subject_line": "Use an Nvidia GPU in an x86 device with balena, meet the balenaHub Challenge finalists, use Adafruit IO, and our latest podcast episode",
+    "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena January 2022",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2022-01",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "January 2022",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "Hello dear readers,<br><br>This month, by popular demand, we're teaching you how to use balenaOS with Nvidia GPUs on an x86 device. Check out our balenaHub Challenge finalists, our latest balenaPodcast episode with ideamarket.io, and learn how to use Adafruit IO on your next balena project.<br><br>As always, check out our latest balenaHub additions, community highlights, and check out the new job opportunities we have. We hope you're having a great start to a Happy New Year!"
+  },
+
+  "news": [
+    {
+      "title": "How to use NVIDIA GPU with an x86 device on balenaOS",
+      "link": "https://www.balena.io/blog/how-to-use-nvidia-gpu-on-x86-device-balenaOS/",
+      "image": "img/nvidia.png",
+      "button_text": "Read the guide",
+      "text": "Many projects which utilize machine learning require you to use an attached graphics processing unit (GPU). In our latest guide, we'll outline how to access an NVIDIA GPU on an x86 device to run CUDA or other software that requires GPU access."
+    },
+    {
+      "title": "Meet the balenaHub Challenge finalists",
+      "link": "https://www.balena.io/blog/balenahub-challenge-2021-finalists/",
+      "image": "img/hub.png",
+      "button_text": "Meet the finalists",
+      "text": "After users voted for their favorite entries, we identified the top 10 most popular Fleets and Projects. We kicked off the judging phase to test these projects and select the winners!"
+    },
+    {
+      "title": "Interface balena devices with Adafruit IO",
+      "link": "https://www.balena.io/blog/interfacing-balena-edge-devices-with-adafruitio/",
+      "image": "img/adafruit.png",
+      "button_text": "Check it out",
+      "text": "Use this guide to learn how to use Adafruit IO to build sleek user interfaces for your balena Fleets and Projects."
+    },
+    {
+      "title": "Listen to our latest podcast episode with ideamarket.io",
+      "link": "https://www.youtube.com/watch?v=b7pzh4GSKLc&t=3s",
+      "image": "img/podcast.png",
+      "button_text": "Listen Now",
+      "text": "We welcome Mike Elias, Founder of ideamarket.io, to talk about this crypto-powered  marketplace of ideas, where people can list and invest in ideas and curators that they think are worth caring about."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "balenaBlynk",
+      "author": "SamEureka DEV",
+      "description": "balenaBlynk is a balenaCloud hosted Blynk IoT server for Raspberry Pi.",
+      "image": "https://raw.githubusercontent.com/SamEureka/balenaBlynk/main/logo.png",
+      "link": "https://hub.balena.io/sameureka/balenablynk"
+    },
+    {
+      "name": "balenaPhono",
+      "author": "SamEureka",
+      "description": "Takes audio output from a turntable and creates a stream",
+      "image": "https://raw.githubusercontent.com/SamEureka/balenaPhono/main/logo.png",
+      "link": "https://hub.balena.io/sdennon/balenaphono"
+    },
+    {
+      "name": "BLE Lighthouse",
+      "author": "Ayan Pahwa",
+      "description": "Create centrally managed fleet of ble beacons on single board linux computers.",
+      "image": "https://raw.githubusercontent.com/iayanpahwa/ble-lighthouse/master/assets/ble-lighthouse.png",
+      "link": "https://hub.balena.io/g_ayan_pahwa/ble-lighthouse"
+    },
+    {
+      "name": "DuinoMine",
+      "author": "TypeChecked",
+      "description": "A balena project that mines Duino-Coin!",
+      "image": "https://raw.githubusercontent.com/cmumme/DuinoMine/main/assets/duco.svg",
+      "link": "https://hub.balena.io/gh_intelligentcappy/duinomine"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Build a holiday LED project using balena and Adafruit IO",
+      "text": "Balena Developer Advocate Ayan <a href='https://pythonawesome.com/a-holiday-lights-project-to-demonstrate-how-to-use-balena-with-adafruitio/' target='_blank'>created this wonderful holiday star lights project</a> using <a href='https://www.adafruit.com/' target='_blank'>AdafruitIO</a> and balena which you could use to power any LED strip configuration."
+    },
+    {
+      "title": "Making your old webcams easier to use",
+      "text": "<a href='https://www.stefanproell.at/posts/2021-11-18-balena/' target='_blank'>Check out this blog</a> where a balena user teaches us how to use balena and Nginx Proxy Manager to create a secure connection between an old webcam and web interface to prevent needing to manually update the camera's IP address every time it reboots."
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-january-2022"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Warehouse Engineer<br>- Generalist<br>- Operations Manager<br>- Hardware Engineer<br>- Data Lead<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+    "text": "The <a href='https://github.com/balenalabs'>balenaLabs team</a> welcomes experienced edge developers, makers, and builders to come and talk shop, ask questions, and get new ideas.<br><br>Submit your questions for the next live show on <a href='https://forums.balena.io/t/submit-your-questions-for-the-iot-project-clinic/349655/2'>this forum thread</a>, tweet us using the hashtag #IoTClinic or leave a comment <a href='https://www.youtube.com/playlist?list=PLT5WZl9m5WoPUkPJG4_Q8y87gaDwqk6Kk'>on one of our YouTube videos</a>.",
+    "list": []
+  }
+}
