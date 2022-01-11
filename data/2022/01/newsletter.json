@@ -22,12 +22,12 @@
   },
 
   "featured": {
-    "text": "Hello dear readers,<br><br>This month, by popular demand, we're teaching you how to use balenaOS with Nvidia GPUs on an x86 device. Check out our balenaHub Challenge finalists, our latest balenaPodcast episode with ideamarket.io, and learn how to use Adafruit IO on your next balena project.<br><br>As always, check out our latest balenaHub additions, community highlights, and check out the new job opportunities we have. We hope you're having a great start to a Happy New Year!"
+    "text": "Hello dear readers,<br><br>This month, by popular demand, we're teaching you how to use balenaOS with Nvidia GPUs on an x86 device. Check out our balenaHub Challenge finalists, our latest balenaPodcast episode with ideamarket.io, and learn how to use Adafruit IO on your next balena project.<br><br>As always, check out our latest balenaHub additions, community highlights, and see job opportunities we have. We hope you're having a great start to a Happy New Year!"
   },
 
   "news": [
     {
-      "title": "How to use NVIDIA GPU with an x86 device on balenaOS",
+      "title": "How to use NVIDIA GPUs with an x86 device on balenaOS",
       "link": "https://www.balena.io/blog/how-to-use-nvidia-gpu-on-x86-device-balenaOS/",
       "image": "img/nvidia.png",
       "button_text": "Read the guide",
@@ -103,7 +103,7 @@
   },
 
   "jobs": {
-    "text": "We’re looking for a number of roles for our growing team. <br><br>- Warehouse Engineer<br>- Generalist<br>- Operations Manager<br>- Hardware Engineer<br>- Data Lead<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "text": "We're looking for a number of roles for our growing team. <br><br>- Warehouse Engineer<br>- Generalist<br>- Operations Manager<br>- Hardware Engineer<br>- Data Lead<br>- Site Reliability Engineer (Americas)<br>- Site Reliability Engineer (EMEA)<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
     "link": "https://apply.workable.com/balena",
     "button_text": "Apply today"
   },
