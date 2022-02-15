@@ -1,0 +1,136 @@
+{
+  "configuration": {
+    "mailchimp_recipients": "ab92290a0b",
+    "mailchimp_title": "Newsletter February 2022",
+    "mailchimp_subject_line": "balena February news - Create a fleet of bluetooth beacons",
+    "mailchimp_preview_text": "Create a fleet of bluetooth beacons or a heart rate monitor, see the balenaHub Challenge results, and read our latest case study",
+    "mailchimp_from_name": "balena",
+    "mailchimp_reply_to": "hello@balena.io",
+    "mailchimp_test_emails": [
+      "tomas@balena.io",
+      "andrewn@balena.io",
+      "lizzie@balena.io"
+    ],
+    "netlify_site_name": "balena-newsletter-2022-02",
+    "assets_folder": "img"
+  },
+
+  "header": {
+    "dark": "yes",
+    "title": "February 2022",
+    "title_color": "rgb(41, 81, 112)"
+  },
+
+  "featured": {
+    "text": "We're constantly improving our dashboard to help you, our user. See the notice that tells you of a new version of the dashboard? We merge and deploy changes once they're ready so you can benefit from improvements straight away.<br><br>Check out the new changelog by clicking the version number on the bottom left corner of the dashboard to see not only <i>what</i> the change was but also <i>why</i> it was made.<br><br>In this month's email:<br><ul><li>Create a fleet of <a href='https://www.balena.io/blog/create-fleet-of-centrally-managed-bluetooth-low-energy-beacons-balena/' target='_blank'>bluetooth beacons</a></li><li>Build your own <a href='https://www.balena.io/blog/build-heartrate-monitor-using-raspberry-pi-and-balena/' target='_blank'>heart rate monitor</a></li><li>How an emerging <a href='https://www.balena.io/blog/QVNTRA-leverages-balena-to-scale-Aging-in-Place-IoT-solution/' target='_blank'>senior care service</a> builds on balenaCloud</li><li>The balenaHub Challenge results are in!</li><li>New hub projects, community highlights, new job opportunities</li></ul>"
+  },
+
+  "news": [
+    {
+      "title": "Create a fleet of bluetooth beacons",
+      "link": "https://www.balena.io/blog/create-fleet-of-centrally-managed-bluetooth-low-energy-beacons-balena/",
+      "image": "img/ble.png",
+      "button_text": "Read the tutorial",
+      "text": "Bluetooth Low-energy (BLE)beacons can help you locate objects, communicate information, and add new layers of experience to ambient computing. In this tutorial, balenista Ayan teaches you how to set one (or more) up with balena."
+    },
+    {
+      "title": "Build your own heart rate monitor",
+      "link": "https://www.balena.io/blog/build-heartrate-monitor-using-raspberry-pi-and-balena/",
+      "image": "img/heart.png",
+      "button_text": "Read the tutorial",
+      "text": "Measure your heart rate to manage your stress and improve your mental well-being with balenista Ryan's DIY guide to building your own monitoring device."
+    },
+    {
+      "title": "How an emerging senior care service builds on balenaCloud",
+      "link": "https://www.balena.io/blog/QVNTRA-leverages-balena-to-scale-Aging-in-Place-IoT-solution/",
+      "image": "img/qvntra.png",
+      "button_text": "Read more",
+      "text": "This month, we feature Thyge Knuhtsen, founder of QVNTRA, a smart assisted living start-up that was developed, prototyped, and launched using balena."
+    },
+    {
+      "title": "The balenaHub Challenge results are in!",
+      "link": "https://www.balena.io/blog/balenahub-challenge-2021-finalists/",
+      "image": "img/challenge.png",
+      "button_text": "Meet the finalists",
+      "text": "Congratulations to Keenan Johnson and his Fleet 'The Ribbit Network', our Hub Challenge winners, and to 2nd place 'Wifi-to-Ethernet' and 3rd place 'Balena Weather'!"
+    },
+    {
+      "title": "If you want to keep using the Raspberry Pi 4 B...",
+      "link": "https://www.balena.io/docs/faq/troubleshooting/troubleshooting/#raspberry-pi",
+      "image": "img/pi.png",
+      "button_text": "Read more",
+      "text": "The Raspberry Pi Foundation recently released <a href='https://forums.raspberrypi.com/viewtopic.php?t=329299' target='_blank'>hardware Rev 1.5</a> of the Raspberry Pi 4 Model B. This revision of the board requires a relatively recent version of balenaOS. We recommend using balenaOS v2.88.5+rev1 or later as balenaOS v2.75.0+rev1 and earlier versions won't boot."
+    }
+  ],
+
+  "hub": [
+    {
+      "name": "Ide49",
+      "author": "boser",
+      "description": "MicroPython Programming Environment.",
+      "image": "https://raw.githubusercontent.com/iot49/ide49/main/logo.png",
+      "link": "https://hub.balena.io/boser/ide49"
+    },
+    {
+      "name": "Balena-rtl-power",
+      "author": "jaomaloy",
+      "description": "Analyze radio waves in your area using an SDR and balena.",
+      "image": "https://raw.githubusercontent.com/jaomaloy/balena-rtl-power/main/images/logo.png",
+      "link": "https://hub.balena.io/gh_jaomaloy/balena-rtl-power"
+    },
+    {
+      "name": "Sensor2Notion",
+      "author": "g_ayan_pahwa",
+      "description": "Publish weather, air quality and local sensor data to Notion.",
+      "image": "https://raw.githubusercontent.com/iayanpahwa/sensor2notion/main/assets/logo.png",
+      "link": "https://hub.balena.io/g_ayan_pahwa/sensor2notion"
+    },
+    {
+      "name": "Sunlamp",
+      "author": "jon_rich",
+      "description": "An ambient lamp that can be programmed to mimic the natural light",
+      "image": "https://raw.githubusercontent.com/JonJRich/sunlamp/main/assets/sunlamp_logo_01.png",
+      "link": "https://hub.balena.io/jon_rich/sunlamp"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Build a 30 minute DIY home security system",
+      "text": "Check out Electromakers latest <a href='https://www.youtube.com/watch?v=KpxBXHH-nDA&t=291s' target='_blank'>YouTube roundup</a> which features the balena 30-minute DIY security camera project amongst many more cool makes this month."
+    },
+    {
+      "title": "Smart speakers without the price tag",
+      "text": "Are you wishing for a Sonos smart speaker but don’t really want to pay the hefty price for one? <a href='https://www.tomsguide.com/uk/how-to/raspberry-pi-wifi-speaker' target='_blank'>This article in TomsGuide</a> suggests grabbing a Raspberry Pi and trying balenaSound instead."
+    },
+    {
+      "title": "How to prototype your project idea",
+      "text": "Last year we attended the Ioterra PDC Conference, <a href='https://ioterra.com/articles/from-a-1st-operational-prototype-to-a-deployed-production-fleet/' target='_blank'>catch up on the talk</a> from balena Developer Advocate teaching you how to get your first device online and prototype your idea with balena."
+    },
+    {
+      "title": "Deploy balena to the Seeed Odyssey x86",
+      "text": "We partnered with Seeed to enable container-based application deployment and fleet management for embedded devices on the Seeed Odyssey x86, <a href='https://www.seeedstudio.com/blog/2022/01/27/seeed-partners-with-balena-to-enable-container-based-application-deployment-and-fleet-management-for-embedded-devices/' target='_blank'>Read more about it here.</a>"
+    },
+    {
+      "title": "Living in The Loop",
+      "text": "At balena we are not just proud of our products but our company culture which is highlighted <a href='https://corporate-rebels.com/a-new-way-of-organizing' target='_blank'>in this article</a> in Corporate Rebels where we talk about using ‘The Loop’ to continuously innovate."
+    },
+    {
+      "title": "How to setup Kubernetes with balena",
+      "text": "A balena community member has setup Kubernetes (K3s) on top of balena, it even registered new nodes and only needs a single env-var for the master node! <a href='https://diurnal.st/2021/12/04/k3s-balena.html' target='_blank'>Read more about how to set it up on their blog</a>"
+    }
+  ],
+
+  "share": {
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-december-2021"
+  },
+
+  "jobs": {
+    "text": "We’re looking for a number of roles for our growing team. <br><br>- Software Engineer<br>- Generalist<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+    "link": "https://apply.workable.com/balena",
+    "button_text": "Apply today"
+  },
+  
+  "events": {
+  }
+}
