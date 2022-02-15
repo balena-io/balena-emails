@@ -4,6 +4,12 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.14.1
+## (2022-02-15)
+
+* Fix typos [Tomás Migone]
+* newsletter: add jan 2022 [Tomás Migone]
+
 # v2.14.0
 ## (2021-12-14)
 
