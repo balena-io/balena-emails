@@ -22,7 +22,7 @@
   },
 
   "featured": {
-    "text": "We're constantly improving our dashboard to help you, our user. See the notice that tells you of a new version of the dashboard? We merge and deploy changes once they're ready so you can benefit from improvements straight away.<br><br>Check out the new changelog by clicking the version number on the bottom left corner of the dashboard to see not only <i>what</i> the change was but also <i>why</i> it was made.<br><br>In this month's email:<br><ul><li>Create a fleet of <a href='https://www.balena.io/blog/create-fleet-of-centrally-managed-bluetooth-low-energy-beacons-balena/' target='_blank'>bluetooth beacons</a></li><li>Build your own <a href='https://www.balena.io/blog/build-heartrate-monitor-using-raspberry-pi-and-balena/' target='_blank'>heart rate monitor</a></li><li>How an emerging <a href='https://www.balena.io/blog/QVNTRA-leverages-balena-to-scale-Aging-in-Place-IoT-solution/' target='_blank'>senior care service</a> builds on balenaCloud</li><li>The balenaHub Challenge results are in!</li><li>New hub projects, community highlights, new job opportunities</li></ul>"
+    "text": "We're <a href='https://www.balena.io/blog/the-balenacloud-dashboard-why-we-change-stuff-and-move-things/' target='_blank'>constantly improving our dashboard</a> to help you, our user. See the notice that tells you of a new version of the dashboard? We merge and deploy changes once they're ready so you can benefit from improvements straight away.<br><br>Check out <a href='https://www.balena.io/blog/the-balenacloud-dashboard-why-we-change-stuff-and-move-things/' target='_blank'>the new changelog</a> by clicking the version number on the bottom left corner of the dashboard to see not only <i>what</i> the change was but also <i>why</i> it was made.<br><br>In this month's email:<br><ul><li>Create a fleet of <a href='https://www.balena.io/blog/create-fleet-of-centrally-managed-bluetooth-low-energy-beacons-balena/' target='_blank'>bluetooth beacons</a></li><li>Build your own <a href='https://www.balena.io/blog/build-heartrate-monitor-using-raspberry-pi-and-balena/' target='_blank'>heart rate monitor</a></li><li>How an emerging <a href='https://www.balena.io/blog/QVNTRA-leverages-balena-to-scale-Aging-in-Place-IoT-solution/' target='_blank'>senior care service</a> builds on balenaCloud</li><li>The balenaHub Challenge results are in!</li><li>New hub projects, community highlights, new job opportunities</li></ul>"
   },
 
   "news": [
@@ -56,7 +56,7 @@
     },
     {
       "title": "If you want to keep using the Raspberry Pi 4 B...",
-      "link": "https://www.balena.io/docs/faq/troubleshooting/troubleshooting/#raspberry-pi",
+      "link": "https://www.balena.io/docs/faq/troubleshooting/troubleshooting/#balenaos-boot-issues-with-new-hardware-revision-of-rpi4",
       "image": "img/pi.png",
       "button_text": "Read more",
       "text": "The Raspberry Pi Foundation recently released <a href='https://forums.raspberrypi.com/viewtopic.php?t=329299' target='_blank'>hardware Rev 1.5</a> of the Raspberry Pi 4 Model B. This revision of the board requires a relatively recent version of balenaOS. We recommend using balenaOS v2.88.5+rev1 or later as balenaOS v2.75.0+rev1 and earlier versions won't boot."
@@ -109,7 +109,7 @@
     },
     {
       "title": "Deploy balena to the Seeed Odyssey x86",
-      "text": "We partnered with Seeed to enable container-based application deployment and fleet management for embedded devices on the Seeed Odyssey x86, <a href='https://www.seeedstudio.com/blog/2022/01/27/seeed-partners-with-balena-to-enable-container-based-application-deployment-and-fleet-management-for-embedded-devices/' target='_blank'>Read more about it here.</a>"
+      "text": "We partnered with Seeed to enable container-based application deployment and fleet management for embedded devices on the Seeed Odyssey x86. <a href='https://www.seeedstudio.com/blog/2022/01/27/seeed-partners-with-balena-to-enable-container-based-application-deployment-and-fleet-management-for-embedded-devices/' target='_blank'>Read more about it here.</a>"
     },
     {
       "title": "Living in The Loop",
@@ -117,12 +117,12 @@
     },
     {
       "title": "How to setup Kubernetes with balena",
-      "text": "A balena community member has setup Kubernetes (K3s) on top of balena, it even registered new nodes and only needs a single env-var for the master node! <a href='https://diurnal.st/2021/12/04/k3s-balena.html' target='_blank'>Read more about how to set it up on their blog</a>"
+      "text": "A balena community member has set up Kubernetes (K3s) on top of balena, even registering new nodes and only needs a single env-var for the master node! <a href='https://diurnal.st/2021/12/04/k3s-balena.html' target='_blank'>Read more about how to set it up on their blog</a>"
     }
   ],
 
   "share": {
-    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-december-2021"
+    "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-february-2022"
   },
 
   "jobs": {
