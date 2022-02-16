@@ -59,7 +59,7 @@
       "link": "https://www.balena.io/docs/faq/troubleshooting/troubleshooting/#balenaos-boot-issues-with-new-hardware-revision-of-rpi4",
       "image": "img/pi.png",
       "button_text": "Read more",
-      "text": "The Raspberry Pi Foundation recently released <a href='https://forums.raspberrypi.com/viewtopic.php?t=329299' target='_blank'>hardware Rev 1.5</a> of the Raspberry Pi 4 Model B. This revision of the board requires a relatively recent version of balenaOS. We recommend using balenaOS v2.88.5+rev1 or later as balenaOS v2.75.0+rev1 and earlier versions won't boot."
+      "text": "Our friends at Raspberry Pi recently released <a href='https://forums.raspberrypi.com/viewtopic.php?t=329299' target='_blank'>hardware Rev 1.5</a> of the Raspberry Pi 4 Model B. This revision of the board requires a relatively recent version of balenaOS. We recommend using balenaOS v2.88.5+rev1 or later as balenaOS v2.75.0+rev1 and earlier versions won't boot."
     }
   ],
 
