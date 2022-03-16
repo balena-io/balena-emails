@@ -1,0 +1,133 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter March 2022",
+      "mailchimp_subject_line": "Self-serve blocks are back and in the dashboard, use Notion with balena, AI drones, and more",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena March 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "tomas@balena.io",
+        "andrewn@balena.io",
+        "lizzie@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-03",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "March 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "Dear Reader,<br><br>When you log in to the balenaCloud dashboard, you’ll see <a href='https://www.balena.io/blog/balenablocks-public-roadmap/' target='_blank'>Blocks are now a primary entity</a>. <a href='https://www.balena.io/blog/introducing-balenablocks-jumpstart-your-iot-app-development/' target='_blank'> We created Blocks,</a> drop in chunks of functionality which are common across many IoT applications, to help jumpstart your IoT app development. Now you can add and manage blocks using all of the same tools you are familiar with for managing a fleet on balenaHub.<br><br>Also in this months email:<br><br><ul><li>Tracking your habits with Notion and balena</li><li>Managing a fleet of AI drones with balena</li><li>Support for the latest NVIDIA Jetson L4t</li><li>New Hub projects and fleets, community highlighs and job opportunities</li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Track your habits and environment using Notion and balena",
+        "link": "https://www.balena.io/blog/log-sensor-values-to-notion-using-balena/",
+        "image": "img/march-newsletter-1.png",
+        "button_text": "Try the project",
+        "text": "Learn how your environment is affecting your productivity by combining tracking your habits using <a href='https://www.notion.so/product' target='_blank'>Notion</a>, a free for personal use online project tracking app, with a balena environment monitor."
+      },
+      {
+        "title": "How Lorenz Technology provisions and manages AI drone fleets",
+        "link": "https://www.balena.io/blog/How-lorenz-technology-manages-AI-drone-fleets/",
+        "image": "img/march-newsletter-2.png",
+        "button_text": "Read more",
+        "text": "This month we are highlighting Lorenz Technology. Their mission is to simplify security and surveillance using a fleet of AI drones which collect, analyze, and share data in real time."
+      },
+      {
+        "title": "BalenaOS now supports the latest NVIDIA Jetson L4T",
+        "link": "https://www.balena.io/os/",
+        "image": "img/march-newsletter-3.png",
+        "button_text": "Go to balenaOS",
+        "text": "We have released L4T 32.6.1 - Jetpack 4.6 based OS images for devices in the Jetson Linux Driver Package which includes the Jetson Nano, TX2, TX2 NX, Xavier AGX, Xavier NX."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "balena-ethereum-node",
+        "author": "tmigone",
+        "description": "Run an ethereum node with one click!",
+        "image": "https://raw.githubusercontent.com/tmigone/balena-ethereum-node/master/assets/logo.png",
+        "link": "https://hub.balena.io/g_tomas_migone1/balena-ethereum-node"
+      },
+      {
+        "name": "balenaWPE",
+        "author": "WPE WebKit",
+        "description": "A hardware accelerated web browser based on WPE WebKit",
+        "image": "https://raw.githubusercontent.com/igalia/balena-wpe/main/logo.png",
+        "link": "https://hub.balena.io/wpe_webkit/balenawpe"
+      },
+      {
+        "name": "Frigate-amd64",
+        "author": "klutchell",
+        "description": "A complete and local NVR designed for Home Assistant with AI detection",
+        "image": "https://raw.githubusercontent.com/klutchell/balena-frigate/main/logo.png",
+        "link": "https://hub.balena.io/gh_klutchell/frigate-amd64"
+      },
+      {
+        "name": "balenaCodeServer",
+        "author": "SamEureka",
+        "description": "A free visual studio code based IDE that runs on your browser",
+        "image": "https://raw.githubusercontent.com/SamEureka/balenaCodeServer/main/logo.png",
+        "link": "https://hub.balena.io/sameureka/balenacodeserver"
+      },
+      {
+        "name": "Sense-hat",
+        "author": "hardy_ferentschik",
+        "description": "Multi-container app using a raspberry Pi with Sense Hat",
+        "image": "https://raw.githubusercontent.com/hferentschik/balena-sense-hat/master/images/sense-hat.png",
+        "link": "https://hub.balena.io/hardy_ferentschik_balena/sense-hat"
+      },
+      {
+        "name": "Balena-myst",
+        "author": "otkd",
+        "description": "Mysterium Network is building a global peer to peer network",
+        "image": "https://raw.githubusercontent.com/otkd/balena-myst/master/logo.svg",
+        "link": "https://hub.balena.io/gh_otkd/balena-myst"
+      },
+      {
+        "name": "Balena-rtl-power",
+        "author": "Jao's lab",
+        "description": "Analyze radio waves in your area using a SDR and balena",
+        "image": "https://raw.githubusercontent.com/jaomaloy/balena-rtl-power/main/images/logo-small.png",
+        "link": "https://hub.balena.io/gh_jaomaloy/balena-rtl-power"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "A new browser block based on WPE Webkit",
+        "text": "Igalia and balena have been working together to create the <a href='https://http503.gvatas.in/2022/02/03/a-new-balena-browser-block-based-on-wpe-webkit-is-here/' target='_blank'>balena-browser-wpe</a> block which uses the WPE Webkit Browser as its chosen web engine. "
+      },
+      {
+        "title": "Start a fully automated IoT Project",
+        "text": "A balena community member has <a href='https://blog.jaredallard.me/creating-a-fully-automated-iot-project/' target='_blank'>shared their advice</a> on publishing docker images, continuous delivery and tracking deployments with balena for their fully automated IoT project."
+      },
+      {
+        "title": "Calling all edge developers!",
+        "text": "At balena we are building a ‘Guide to getting started as an edge developer’ and we need your help! We want to hear your advice, tips, tricks and development stories to help newbies, add them to <a href='https://forums.balena.io/t/id-like-to-create-an-edge-developers-guide-to-the-galaxy/353193' target='_blank'>this forums post.</a>"
+      },
+      {
+        "title": "BalenaSound’s 3rd anniversary is coming up",
+        "text": "Next month we will be hosting a virtual meetup for balenaSound users to celebrate 3 years of our most popular labs projects. Meet the community and have your say on the future of balenaSound, <a href='https://www.eventbrite.com/e/balensound-anniversary-meet-up-tickets-296582766037' target='_blank'>register to join us here.</a>"
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-january-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Generalist<br>- Software Engineer<br>- Technical Sales Lead / Sales Engineer<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+      "link": "https://apply.workable.com/balena",
+      "button_text": "Apply today"
+    }
+  }
+  
