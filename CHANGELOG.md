@@ -4,6 +4,13 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.15.1
+## (2022-03-16)
+
+* newsletter: february fix [Tomás Migone]
+* newsletter: february 2022 fixes by top dawg nhem [Tomás Migone]
+* newsletter: february 2022 [Tomás Migone]
+
 # v2.15.0
 ## (2022-03-16)
 
