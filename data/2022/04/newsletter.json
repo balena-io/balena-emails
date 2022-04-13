@@ -1,0 +1,126 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter April 2022",
+      "mailchimp_subject_line": "Check out the balenaHub Container Registry, build an autonomous vehicle, meet Sunlamp, EtcherPro is FCC certified",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena April 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "tomas@balena.io",
+        "andrewn@balena.io",
+        "lizzie@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-04",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "April 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "Dear Reader,<br><br>Any block published to balenaHub is now available to download directly as a container image, no additional registry pushes required. <a href='https://www.balena.io/blog/improving-device-image-management-workflow-balenaHub-Container-Registry/'target='_blank'>The balenaHub Container Registry</a> also includes image release management and image references that you can use directly in your docker-compose files.<br><br>Also in this months email:<br><br><ul><li>Build an <a href='https://www.balena.io/blog/improving-device-image-management-workflow-balenaHub-Container-Registry/'target='_blank'>autonomous vehicle</a> (DonkeyCar!)</li><li>Build an automated <a href='https://www.balena.io/blog/meet-sunlamp-an-elegant-led-automation-solution-using-balena/'target='_blank'>LED Sunlamp</a></li><li><a href='https://forums.balena.io/t/etcherpro-progress-updates/23741/74?u=konmouz' target='_blank'>EtcherPro</a> is now FCC certified</li><li>Become a <a href='https://balena.typeform.com/to/NaY1nG24'target='_blank'>balena Ambassador</a></li><li>Build an <a href='https://forums.balena.io/t/open-balena-admin-an-admin-interface-for-openbalena/355324'target='_blank'>admin interface</a> for Openbalena</li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Build a DonkeyCar Autonomous Vehicle",
+        "link": "https://www.balena.io/blog/building-a-donkeycar-autonomous-vehicle-with-balena/",
+        "image": "img/april-newsletter-1.png",
+        "button_text": "Read the tutorial",
+        "text": "More people are looking to balena to manage fleets of autonomous vehicles and robots. Use this tutorial as your entry into this world, using the existing DonkeyCar stack and balena to build your first autonomous vehicle!"
+      },
+      {
+        "title": "Meet Sunlamp, an elegant LED automation solution",
+        "link": "https://www.balena.io/blog/meet-sunlamp-an-elegant-led-automation-solution-using-balena/",
+        "image": "img/april-newsletter-2.png",
+        "button_text": "Read the tutorial",
+        "text": "Balenista Jon recently graduated from his labs residency where he built an ambient light which mimics the natural light cycle of the sun throughout the day."
+      },
+      {
+        "title": "EtcherPro is now FCC certified!",
+        "link": "https://forums.balena.io/t/etcherpro-progress-updates/23741/74?u=konmouz",
+        "image": "img/april-newsletter-3.png",
+        "button_text": "Read the full update",
+        "text": "We've worked hard for months to find a solution to reduce EtcherPro emissions. By passing FCC Certification, we are now able to ship to U.S. destinations."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "Hotspot",
+        "author": "Coolab",
+        "description": "Create an access-point serving p2p applications, bridges and content!",
+        "image": "https://raw.githubusercontent.com/coolabnet/hotspot/main/logo.png",
+        "link": "https://hub.balena.io/coolab/hotspot"
+      },
+      {
+        "name": "Helium-OG",
+        "author": "NebraLtd",
+        "description": "Manage your original Helium miner remotely using Nebra",
+        "image": "https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Icon-Blue_bb758eaa-b10d-4ea6-a55e-babd69135b69.png?v=1620938774",
+        "link": "https://hub.balena.io/nebraltd/helium-og"
+      },
+      {
+        "name": "Starknet-node",
+        "author": "odyslam",
+        "description": "A safe view into StarkNet, a zero-knowledge rollup for Ethereum",
+        "image": "https://starkware.co/wp-content/uploads/2021/05/StarkNet-Icon.png",
+        "link": "https://hub.balena.io/gh_odyslam/starknet-node"
+      },
+      {
+        "name": "Chi-edge-raspberrypi",
+        "author": "ChameleonCloud",
+        "description": "Enroll in CHI@ Edge testbed for computer science research",
+        "image": "https://raw.githubusercontent.com/chameleoncloud/chi-edge-raspberrypi/main/chi-edge-raspberrypi-logo.png",
+        "link": "https://hub.balena.io/chameleon/chi-edge-raspberrypi"
+      },
+      {
+        "name": "balenaRancher",
+        "author": "SamEureka",
+        "description": "Kubernetes cluster with a Rancher server and k3s worker nodes",
+        "image": "https://raw.githubusercontent.com/SamEureka/balenaRancher/main/logo.png",
+        "link": "https://hub.balena.io/sameureka/balenarancher"
+      },
+      {
+        "name": "Meetbot",
+        "author": "VipulGupta",
+        "description": "A configurable Google Meet bot aimed at reducing friction in video calls",
+        "image": "https://raw.githubusercontent.com/balena-io-playground/meetbot/master/img/logo.png",
+        "link": "https://hub.balena.io/gh_vipulgupta2048/meetbot"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Become a balena Ambassador",
+        "text": "Do you love using any of the balena products? Would you like to connect to other balena enthusiasts, learn more about the product and shape the future of balena? <a href='https://app.pipefy.com/public/form/z6tunpV3'target='_blank'>Apply to become an ambassador.</a>"
+      },
+      {
+        "title": "Deploy CrateDB with balena",
+        "text": "CrateDB is a leading open-source, distributed SQL database, which you can now run on your IoT devices with balena using the <a href='https://hub.balena.io/marc6/cratedb-aarch64'target='_blank'>Crate block.</a> Check out the tutorial on <a href='https://community.crate.io/t/deploying-cratedb-on-balena-io/1067'target='_blank'>the Crate forums.</a>"
+      },
+      {
+        "title": "Build an admin interface for openbalena",
+        "text": "An incredible balena community member has created <a href='https://forums.balena.io/t/open-balena-admin-an-admin-interface-for-openbalena/355324'target='_blank'>open-balena-admin</a>, a platform to deploy and manage IoT devices using openbalena"
+      },
+      {
+        "title": "Build a LoRaWAN Gateway with LTE-M backhaul",
+        "text": "<a href='https://www.hackster.io/lorawan-to-cellular/build-you-lorawan-gateway-with-lte-m-backhaul-97e33e'target='_blank'>Build your LoRaWAN gateway</a> and connect it to LTE-M to offload the data using a SIMCom cellular modem and Monogoto SIM, and manage the whole system using balena."
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-january-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Generalist<br>- Software Engineer<br>- Technical Sales Lead / Sales Engineer<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+      "link": "https://apply.workable.com/balena",
+      "button_text": "Apply today"
+    }
+  }
+  
