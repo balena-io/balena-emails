@@ -80,14 +80,13 @@
       {{/each }}
     {{/if}}
 
-    <!-- Hub 
+    <!-- Hub -->
     {{#if @root.hub}}
       <mj-spacer height="4px" />
       {{> section_header title="This month on balenaHub" icon="https://assets.balena.io/newsletter/hub-icon.png" background-color="#eff8ff" }}
       
       {{> hub }}
     {{/if}}
-    -->
     
     <!-- Share -->
     {{#if @root.share}}

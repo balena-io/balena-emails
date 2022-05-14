@@ -1,0 +1,122 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter May 2022",
+      "mailchimp_subject_line": "Deploy a fleet of Helium hotspots, join the world’s largest greenhouse gas detection fleet, build Ubidots and Modbus with balena",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena May 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "andrewn@balena.io",
+        "lizzie@balena.io",
+        "ayan@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-05",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "May 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "Dear Reader,<br><br>Here at balena, we have noticed fleets of Helium miners and LoRaWAN gateways growing enormously over the last year. Helium is a crowdsourced LoRaWAN network running on blockchain where people personally host Helium hotspots to provide network coverage. If you don’t have yours yet, check out our blog post where we show you how to <a href='https://www.balena.io/blog/build-your-helium-data-only-hotspot-with-balena/'>deploy a fleet of Helium data-only hotspots</a> on Raspberry Pi and Seeed LoRaWAN concentrators.<br><br>Also in this months email:<br><ul><li>Join the largest network of <a href='https://www.balena.io/blog/join-the-largest-network-of-open-source-low-cost-greenhouse-gas-detection-sensors/'>open source greenhouse gas sensors</a></li><li>Try the balenasdk <a href='https://www.balena.io/docs/reference/sdk/node-sdk/trying-balenasdk-in-the-browser'>in your browser</a></li><li>Join the 2nd balenaHub meetup <a href='https://www.eventbrite.com/e/balenahub-meet-up-2-tickets-323180259857'>about LoRaWAN and Helium</a></li><li>New fleets and projects on <a href='https://hub.balena.io/'>balenaHub</a>, <a href='https://apply.workable.com/balena/?d_id=90d35076-34c6-4c79-ad54-a19a327f0571R'>job openings</a> and community highlights</li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Join the world’s largest network of greenhouse gas sensors",
+        "link": "https://www.balena.io/blog/join-the-largest-network-of-open-source-low-cost-greenhouse-gas-detection-sensors/",
+        "image": "https://assets.balena.io/blog-common/2022/05/ribbit.png",
+        "button_text": "Read the tutorial",
+        "text": "Build your greenhouse gas detection sensor, join the fleet which won the balenaHub Challenge, and contribute to the dataset providing the most accurate information on greenhouse gasses globally."
+      },
+      {
+        "title": "Easily copy text in balenaCloud",
+        "link": "https://dashboard.balena-cloud.com/login",
+        "image": "https://assets.balena.io/blog-common/2022/05/balenacloud.png",
+        "button_text": "Go to balenaCloud",
+        "text": "All copyable text in balenaCloud is now highlighted in red and will be styled like code. If you hover over it you will see the copy text icon appear which will copy the highlighted text when you click it."
+      },
+      {
+        "title": "balenaHub meetup #2 - LoRaWAN Gateways",
+        "link": "https://www.eventbrite.com/e/balenahub-meet-up-2-tickets-323180259857",
+        "image": "https://assets.balena.io/blog-common/2022/05/hub.png",
+        "button_text": "Register for your spot",
+        "text": "Join us at the 2nd balenaHub meetup on the 24th May 18:00 UTC. Each month we invite a different Fleet or Project owner to join us and talk about their development journey and answer your questions."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "Sensors-evolve",
+        "author": "gh_moondisco",
+        "description": "The Pi collects MySQL packets data via wifi.",
+        "image": "https://raw.githubusercontent.com/moondisco/SensorsEvolve/main/EVOLVE-Logo.png",
+        "link": "https://hub.balena.io/gh_moondisco/sensors-evolve"
+      },
+      {
+        "name": "Unifi-controller",
+        "author": "edwin3",
+        "description": "Fastest way to deploy a Unifi Controller for your network.",
+        "image": "https://raw.githubusercontent.com/aethernet/balena-unifi-controller/master/unifi-app-logo.jpg",
+        "link": "https://hub.balena.io/edwin3/unifi-controller"
+      },
+      {
+        "name": "Balena-zerotier-gateway",
+        "author": "gh_richbayliss",
+        "description": "Use your balenaOS device as a gateway in a ZeroTier VPN.",
+        "image": "https://raw.githubusercontent.com/richbayliss/balena-zerotier-gateway/master/logo.png",
+        "link": "https://hub.balena.io/gh_richbayliss/balena-zerotier-gateway"
+      },
+      {
+        "name": "balenaVirt",
+        "author": "g_joseph_alan_kogut",
+        "description": "Easily run virtual machines on balenaOS, powered by QEMU and KVM.",
+        "image": "https://raw.githubusercontent.com/balena-io-playground/balenaVirt/master/logo.png",
+        "link": "https://hub.balena.io/g_joseph_alan_kogut/balenavirt"
+      },
+      {
+        "name": "Gstreamer-playground",
+        "author": "edwin3",
+        "description": "Quickly start a gstreamer test and optimization setup.",
+        "image": "https://raw.githubusercontent.com/aethernet/gstreamer-playground/master/logo.png",
+        "link": "https://hub.balena.io/edwin3/gstreamer-playground"
+      },
+      {
+        "name": "Hound",
+        "author": "gh_vipulgupta2048",
+        "description": "An extremely fast git repository code searcher.",
+        "image": "https://hub.balena.io/static/media/default-app-logo.49d702fc.svg",
+        "link": "https://hub.balena.io/gh_vipulgupta2048/hound"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Send data from a Raspberry Pi to Ubidots with balena",
+        "text": "Ubidots help you rapidly assemble and launch IoT applications without needing to write code. <a href='https://www.youtube.com/watch?v=HrHzYrV3UmE'>Check out this YouTube video</a> where they teach you to provision a device and send data to Ubidots with balena."
+      },
+      {
+        "title": "Enroll in the CHI@Edge testbed for computer science research",
+        "text": "We’re excited to see a large-scale scientific research fleet be added to balenaHub. Enroll your edge / IoT device into the CHI@Edge testbed for computer science research all by <a href='https://hub.balena.io/chameleon/chi-edge-workers'>joining this open fleet</a>."
+      },
+      {
+        "title": "Connect a Modbus device with balena",
+        "text": "<a href='https://www.youtube.com/watch?v=SGRgHpboDVA'>In this tutorial by Zigurat Business School</a>, we show you step by step how to connect a Modbus based Schneider Electric device to the balena platform so you can convert legacy to digital."
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-may-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Generalist<br>- Software Engineer<br>- Backend Engineer<br>- CLI Engineer<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We’d love to get to know you better.",
+      "link": "https://apply.workable.com/balena",
+      "button_text": "Apply today"
+    }
+  }
+  
