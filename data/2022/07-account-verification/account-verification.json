@@ -1,0 +1,26 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "balena Account Email Verification",
+      "mailchimp_subject_line": "Your balenaCloud account needs email verification",
+      "mailchimp_preview_text": "We're enhancing account security at balena and need you to verify your email.",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "tomas@balena.io"
+      ],
+      "netlify_site_name": "account-verification",
+      "assets_folder": "img"
+    },
+    "header": {
+      "dark": "yes",
+      "title": "",
+      "image": "",
+      "image_height": 760,
+      "image_width": 1200
+    },
+    "featured": {
+      "color": "#ffffff",
+      "text": "<br><br>Hi there,<br><br>You may have noticed recent dashboard notifications advising that we’ve introduced email verification for all balenaCloud users.<br><br>To complete verification, and add this additional layer of security to your account, <strong><a href='https://https://dashboard.balena-cloud.com/login'>please log in</a></strong>, click the link in the banner (shown below) and follow the instructions.<br><br><img src='/img/dashboard-notification.png'> <br> - Team balena"
+    }
+  }
