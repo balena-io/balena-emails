@@ -23,15 +23,15 @@ require.extensions[ '.mjml' ] = function (module, filename) {
 // Check if required arguments are valid
 if (!argv.datafile || !fs.existsSync(argv.datafile)) {
   console.log(`Invalid data file: ${argv.datafile || 'no file provided'}.`)
-  console.log(`Usage: npm run <script> -- --datafile path/to/datafile.json --template <newsletter|survey>`)
+  console.log(`Usage: npm run <script> -- --datafile path/to/datafile.json --template <newsletter|survey|account-verification>`)
   process.exit(0)
 } else {
   console.log(`Loading ${path.join(__dirname, argv.datafile)}. WARNING: Changes on this file are not watched.`)
 }
 
-if (!argv.template || ![ 'newsletter', 'announcement' ].includes(argv.template)) {
+if (!argv.template || ![ 'newsletter', 'announcement', 'account-verification'].includes(argv.template)) {
   console.log(`Invalid template selected: ${argv.template}`)
-  console.log(`Usage: npm run <script> -- --datafile path/to/datafile.json --template <newsletter|survey>`)
+  console.log(`Usage: npm run <script> -- --datafile path/to/datafile.json --template <newsletter|survey|account-verification>`)
   process.exit(0)
 } else {
   console.log(`Using ${argv.template} template...`)
