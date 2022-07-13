@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.19.0
+## (2022-07-13)
+
+* Add template for email/account verification [Nitish Agarwal]
+
 # v2.18.0
 ## (2022-06-14)
 
