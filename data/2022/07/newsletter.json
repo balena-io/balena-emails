@@ -1,0 +1,123 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter July 2022",
+      "mailchimp_subject_line": "Intro blurb: A single unified balenaOS image, backup data with Blues Wireless, use Cloud Relay to send data to your preferred cloud provider",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena July 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "andrewn@balena.io",
+        "lizzie@balena.io",
+        "ayan@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-07",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "July 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "BalenaOS is now (since v2.85) available in a single unified image that can be configured at runtime for development or production mode. We're moving on from maintaining both development and production images to reduce operational overhead as well as giving us a better understanding of how our users would manage an image in production. Instead, you can now access development mode via runtime configuration changes. <a href='https://www.balena.io/blog/unified-balenaos-releases-now-available/'>Learn more.</a></a><br><br>Also in this months email:<br><ul><li><a href='https://www.balena.io/blog/how-to-set-up-blues-wireless-backup-sensor-data-raspberry-pi-balena/'>Setup Blues Wireless<a/> to back up your sensor data</li><li>Easily <a href='https://www.balena.io/blog/introducing-cloud-relay-block-send-data-to-cloud-provider/'>send data</a> to your favorite cloud provider</a></li><li>How to <a href='https://www.balena.io/blog/prototype-deploy-scale-robotics-ros-solutions-with-balena/'>prototype, deploy and scale robotics solutions</a></li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Setup Blues Wireless to backup sensor data using balena",
+        "link": "https://www.balena.io/blog/how-to-set-up-blues-wireless-backup-sensor-data-raspberry-pi-balena/",
+        "image": "https://assets.balena.io/blog-common/2022/07/newsletter-1.png",
+        "button_text": "Read the tutorial",
+        "text": "In this post, we introduce Blues Wireless, and how to use it as a backup method of connectivity with embedded devices, like Raspberry Pis using a balena Block."
+      },
+      {
+        "title": "Introducing the Cloud Relay Block: send data to your favorite cloud provider",
+        "link": "https://www.balena.io/blog/introducing-cloud-relay-block-send-data-to-cloud-provider/",
+        "image": "https://assets.balena.io/blog-common/2022/07/newsletter-2.png",
+        "button_text": "Find out more",
+        "text": "Want to send data from your balena device to a cloud IoT provider like AWS, Azure, or Google Cloud? The Cloud Relay Block packages this automation on the device so you only need to send your data to it, while the block manages the rest!"
+      },
+      {
+        "title": "Using NFS Server to share external storage between containers",
+        "link": "https://www.balena.io/blog/using-nfs-server-to-share-external-storage-between-containers-balena/",
+        "image": "https://assets.balena.io/blog-common/2022/07/newsletter-4.png",
+        "button_text": "Find out how they use balena",
+        "text": "To help with their machine learning use case, customers and community members Theia Scientific and Volkov Labs created the Theiascope™ platform put together a NFS server solution to help process large amounts of data with edge devices."
+      },
+      {
+        "title": "Prototype, deploy, and scale robotics solutions with balena",
+        "link": "https://www.balena.io/blog/prototype-deploy-scale-robotics-ros-solutions-with-balena/",
+        "image": "https://assets.balena.io/blog-common/2022/07/newsletter-3.png",
+        "button_text": "Read the tutorial",
+        "text": "Hardware Hacker Cristian has been hard at work creating new balena blocks, and in this post he walks through how anyone can use these blocks to prototype, deploy, and scale an IoT robot fleet."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "balenaAir",
+        "author": "balenaAir",
+        "description": "An indoor air quality monitoring device",
+        "image": "https://raw.githubusercontent.com/balenair/balenair/master/logo.png",
+        "link": "https://hub.balena.io/organizations/balenair/fleets/balenair"
+      },
+      {
+        "name": "Balena-app",
+        "author": "Volkov Lab",
+        "description": "The Balena Application plugin for Grafana",
+        "image": "https://raw.githubusercontent.com/VolkovLabs/volkovlabs-balena-app/main/img/block.png",
+        "link": "https://hub.balena.io/organizations/volkovlabs/projects/balena-app"
+      },
+      {
+        "name": "Surya-sense",
+        "author": "vishalbalhara",
+        "description": "Take readings from a BME680 on a Raspberry Pi, store with InfluxDB and view with Grafana",
+        "image": "https://raw.githubusercontent.com/vishalbalhara/surya-sense/master/images/hub-logo512.png",
+        "link": "https://hub.balena.io/organizations/gh_vishalbalhara/fleets/surya-sense"
+      },
+      {
+        "name": "balenaVirt",
+        "author": "joseph_alan_kogut",
+        "description": "Easily run virtual machines on balenaOS, powered by QEMU and KVM",
+        "image": "https://raw.githubusercontent.com/balena-io-playground/balenaVirt/master/logo.png",
+        "link": "https://hub.balena.io/organizations/g_joseph_alan_kogut/projects/balenavirt"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Try the Blues Wireless notecard blocks on balenaHub",
+        "text": "<a href='https://blues.io/blog/balena-integration/'>Find out more</a> about the new blocks which make it trivial to add a Notecard to balena projects, and allows balena users to easily and securely send data over a cellular network."
+      },
+      {
+        "title": "Balena at DockerCon - Scaling to 100k+ devices",
+        "text": "Last month balena Developer Advocate Marc Pous <a href='https://www.docker.com/blog/from-edge-to-mainstream-scaling-to-100k-iot-devices/'>showcased how containers can enable deployments of 100,000+ IoT devices</a> and that the Raspberry Pi can readily replicate and distribute containers."
+      },
+      {
+        "title": "BalenaHub Meetup #4 - Citizen Science",
+        "text": "Catch up on the last balenaHub Meetup discussing home automation and <a href='https://www.eventbrite.com/e/balenahub-meet-up-4-tickets-374352517457?utm_medium=email&utm_source=campaign&utm_campaign=balenahub_july_meet&utm_content=eventbrite'>register here</a> for the next meetup where we discuss some of the citizen science fleets on Hub."
+      },
+      {
+        "title": "Partnering with graduate students to explore customer projection models",
+        "text": "Over the past semester, we've worked with students studying business analytics at Rensselaer Polytechnic Institute (RPI) to build customer projections. <a href='https://www.balena.io/blog/partnering-with-rpi-graduate-students-to-explore-customer-churn/'>Find out how it went here.</a>"
+      },
+      {
+        "title": "Deploy more easily with Tilt",
+        "text": "Tilt is a toolkit for fixing the pains of microservice development. <a href='https://blog.jaredallard.me/using-tilt-with-balena/'>In this blog post</a>, a balena community member shows us how Tilt can save you needing to manually rebuild your docker compose file. "
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-june-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Senior Software Engineer - Remote, Australia based<br>- Picker - Athens<br>- Backend Engineer<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We'd love to get to know you better.",
+      "link": "https://apply.workable.com/balena/?utm_source=Newsletter&utm_media=email",
+      "button_text": "Apply today"
+    }
+  }
+  
