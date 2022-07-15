@@ -7,9 +7,7 @@
       "mailchimp_from_name": "balena",
       "mailchimp_reply_to": "hello@balena.io",
       "mailchimp_test_emails": [
-        "andrewn@balena.io",
-        "lizzie@balena.io",
-        "ayan@balena.io"
+        "lizzie@balena.io"
       ],
       "netlify_site_name": "balena-newsletter-2022-07",
       "assets_folder": "img"
@@ -22,7 +20,7 @@
     },
   
     "featured": {
-      "text": "BalenaOS is now (since v2.85) available in a single unified image that can be configured at runtime for development or production mode. We're moving on from maintaining both development and production images to reduce operational overhead as well as giving us a better understanding of how our users would manage an image in production. Instead, you can now access development mode via runtime configuration changes. <a href='https://www.balena.io/blog/unified-balenaos-releases-now-available/'>Learn more.</a></a><br><br>Also in this months email:<br><ul><li><a href='https://www.balena.io/blog/how-to-set-up-blues-wireless-backup-sensor-data-raspberry-pi-balena/'>Setup Blues Wireless<a/> to back up your sensor data</li><li>Easily <a href='https://www.balena.io/blog/introducing-cloud-relay-block-send-data-to-cloud-provider/'>send data</a> to your favorite cloud provider</a></li><li>How to <a href='https://www.balena.io/blog/prototype-deploy-scale-robotics-ros-solutions-with-balena/'>prototype, deploy and scale robotics solutions</a></li></ul>"
+      "text": "balenaOS is now (since v2.85) available in a single unified image that can be configured at runtime for development or production mode. We're moving on from maintaining both development and production images to reduce operational overhead as well as giving us a better understanding of how our users would manage an image in production. Instead, you can now access development mode via runtime configuration changes. <a href='https://www.balena.io/blog/unified-balenaos-releases-now-available/'>Learn more.</a></a><br><br>Also in this months email:<br><ul><li><a href='https://www.balena.io/blog/how-to-set-up-blues-wireless-backup-sensor-data-raspberry-pi-balena/'>Setup Blues Wireless<a/> to back up your sensor data</li><li>Easily <a href='https://www.balena.io/blog/introducing-cloud-relay-block-send-data-to-cloud-provider/'>send data</a> to your favorite cloud provider</a></li><li>How to <a href='https://www.balena.io/blog/prototype-deploy-scale-robotics-ros-solutions-with-balena/'>prototype, deploy and scale robotics solutions</a></li></ul>"
     },
   
     "news": [
@@ -34,7 +32,7 @@
         "text": "In this post, we introduce Blues Wireless, and how to use it as a backup method of connectivity with embedded devices, like Raspberry Pis using a balena Block."
       },
       {
-        "title": "Introducing the Cloud Relay Block: send data to your favorite cloud provider",
+        "title": "Introducing the Cloud Relay Block: send data to your cloud service provider",
         "link": "https://www.balena.io/blog/introducing-cloud-relay-block-send-data-to-cloud-provider/",
         "image": "https://assets.balena.io/blog-common/2022/07/newsletter-2.png",
         "button_text": "Find out more",
@@ -111,7 +109,7 @@
     ],
   
     "share": {
-      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-june-2022"
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-july-2022"
     },
   
     "jobs": {
