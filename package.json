@@ -1,6 +1,6 @@
 {
   "name": "resin-emails",
-  "version": "2.19.0",
+  "version": "2.20.0",
   "description": "balena.io email generator.",
   "repository": "balena-io/resin-emails",
   "main": "gulp build",
@@ -29,6 +29,6 @@
     "rimraf": "^3.0.0"
   },
   "versionist": {
-    "publishedAt": "2022-07-15T16:31:26.637Z"
+    "publishedAt": "2022-08-10T12:37:03.104Z"
   }
 }

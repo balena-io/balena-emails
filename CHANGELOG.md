@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.20.0
+## (2022-08-10)
+
+* Add August Newsletter and graphics [Lizzie Epton]
+
 # v2.19.0
 ## (2022-07-15)
 
