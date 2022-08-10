@@ -1,0 +1,118 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter August 2022",
+      "mailchimp_subject_line": "Discover Apps in balenaHub, Introducing balenaAir, learn how to analyze radio waves using balena",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena August 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "lizzie@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-08",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "August 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "Dear Readers, <br><br>You might remember that a little while ago we renamed balenaCloud <strong>Applications</strong> to <strong>Fleets.</strong> This month we surfaced a new concept on balenaHub and balenaCloud: <strong>Apps</strong>. Apps are a response to a specific use case, built out of many services or balenaBlocks, and are self-contained. Read more about <a href='https://www.balena.io/blog/road-to-multi-app-mile-2-surfacing-apps-on-balenahub-balenacloud/'>Apps and the road to multi-app</a> on our blog.<br><br>Also in this months email:<br><ul><li>An introduction to balenaAir</li><li>A tutorial on analyzing radio waves with balena</li><li>Catch up on the latest balenaHub meet-up</li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Introducing balenaAir",
+        "link": "https://www.balena.io/blog/introducing-balenair-affordable-air-quality-monitor-for-home-or-office/",
+        "image": "https://assets.balena.io/blog-common/2022/08/august-1.png",
+        "button_text": "Read more",
+        "text": "balenaAir is an affordable air quality monitor for the home or office which we built in light of Covid-19 to monitor the air quality in our own offices, and now you can build your own."
+      },
+      {
+        "title": "Visualize and analyze Radio Waves with RTL Power",
+        "link": "https://www.balena.io/blog/visualize-and-analyze-radio-waves-with-rtl-power-and-balena/",
+        "image": "https://assets.balena.io/blog-common/2022/08/august-2.png",
+        "button_text": "Read the tutorial",
+        "text": "The latest balenaLabs resident graduates with their project which uses Software Defined Radio, RTL power, and balena to visualize and analyze signal frequency bands easily."
+      },
+      {
+        "title": "balenaHub Meetup #4",
+        "link": "https://www.youtube.com/watch?v=StM7Sbcf3as",
+        "image": "https://assets.balena.io/blog-common/2022/08/august-3.png",
+        "button_text": "Watch the recording",
+        "text": "This month we put the spotlight on two of the Fleets on balenaHub trying to make a positive change in our society; LearnersBlock and The Ribbit Network. Catch up on the recording to hear more about them from their creators."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "balena-woof",
+        "author": "matthew_jameson",
+        "description": "Help your dog communicate using a button, speaker, and RPi!",
+        "image": "https://raw.githubusercontent.com/mjameson9/balena-woof/main/logo.png",
+        "link": "https://hub.balena.io/organizations/g_matthew_jameson/fleets/balena-woof"
+      },
+      {
+        "name": "ISEG_RPI",
+        "author": "stephane_betbeder",
+        "description": "The most popular digital signage project for the RPi",
+        "image": "https://raw.githubusercontent.com/Screenly/screenly-ose/master/static/img/ose-logo.png",
+        "link": "https://hub.balena.io/organizations/stephane_betbeder/fleets/iseg_rpi"
+      },
+      {
+        "name": "Balena-unifi",
+        "author": "Bluenation Studio",
+        "description": "Unifi controller allows you to set up your Ubiquiti Unifi devices",
+        "image": "https://raw.githubusercontent.com/BluenationStudio/balena-unifi/master/ui.webp",
+        "link": "https://hub.balena.io/organizations/gh_kubo6472/fleets/balena-unifi"
+      },
+      {
+        "name": "Kolibri-app",
+        "author": "maggie0002",
+        "description": "An adaptable set of open solutions specially developed to support learning",
+        "image": "https://github.com/maggie0002/kolibri/raw/main/logo.png",
+        "link": "https://hub.balena.io/organizations/maggie0002/apps/kolibri-app"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Join us at The Things Conference",
+        "text": "Balena Developer Advocate Marc Pous will be speaking about how you can build your own private LoRaWAN network server and gateway at this year's The Things Conference, find out more and <a href='https://www.thethingsnetwork.org/conference/'>get your ticket here</ato join us."
+      },
+      {
+        "title": "Easier updates for your device offline",
+        "text": "A community member has shared their solution <a href='https://forums.balena.io/t/interactive-bash-script-that-performs-a-balena-offline-update-on-an-sd-card/360241/2'>on the balena forums</a> for performing an offline update on their device using an interactive bash script."
+      },
+      {
+        "title": "Theia Scientific present their Hub application at GrafanaCon 2022",
+        "text": "<a href='https://grafana.com/go/grafanaconline/2022/theia-scientific-ml-for-image-analysis-use-case/'>Catch up on Theia Scientific's talk at GrafanaCon</a> where they discuss their balenaHub application which uses Grafana and machine learning for real-time microscopy image analysis."
+      },
+      {
+        "title": "Use CM4 IO board's Real-time clock inside a container",
+        "text": "<a href='https://www.linuxfixes.com/2022/07/solved-balenaos-use-raspberry-pi.html'>This blogpost from linuxfixes</a> walks you through how to make your CM4 IO board remember the newly set datetime whenever the device reboots, overriding the one you previously set."
+      },
+      {
+        "title": "Create a digital marketing display using the Browser Block",
+        "text": "This month, one of the balena Ambassadors <a href='https://forums.balena.io/t/creating-a-digital-marketing-display/359727'>shared on the forums</a> how they created a low-cost, easily maintained digital marketing display for local shops using the browser block and balena."
+      },
+      {
+        "title": "Using balena and Edge Impulse to detect fire",
+        "text": "<a href='https://www.youtube.com/watch?v=sSWKqTUm7ek&t=187s'>Check out the Raspberry Pi Foundations video</a> where a young community member presents her project which uses balena and Edge Impulse machine learning to tackle the real-world problem of wildfires in her community."
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-july-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Picker - Athens<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We'd love to get to know you better.",
+      "link": "https://apply.workable.com/balena/?utm_source=Newsletter&utm_media=email",
+      "button_text": "Apply today"
+    }
+  }
+  
