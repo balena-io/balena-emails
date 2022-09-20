@@ -1,0 +1,121 @@
+{
+    "configuration": {
+      "mailchimp_recipients": "ab92290a0b",
+      "mailchimp_title": "Newsletter September 2022",
+      "mailchimp_subject_line": "Build your own voice assistant, communicate with your dog using balena, where you can find us this month",
+      "mailchimp_preview_text": "Monthly updates on projects, features, and events from balena September 2022",
+      "mailchimp_from_name": "balena",
+      "mailchimp_reply_to": "hello@balena.io",
+      "mailchimp_test_emails": [
+        "lizzie@balena.io"
+      ],
+      "netlify_site_name": "balena-newsletter-2022-09",
+      "assets_folder": "img"
+    },
+  
+    "header": {
+      "dark": "yes",
+      "title": "September 2022",
+      "title_color": "rgb(41, 81, 112)"
+    },
+  
+    "featured": {
+      "text": "Dear Readers, <br><br>BalenaEngine is a fork from <a href='https://mobyproject.org/'>Moby Project,</a> which <a href='https://docs.docker.com/engine/deprecated/#legacy-overlay-storage-driver'>deprecated the use of the aufs storage driver</a> with the 19.03.x release series. Because of this balenaOS is also looking to deprecate the use of AUFS. Read more about this and how it might affect your devices <a href='https://www.balena.io/blog/balenaEngine-aufs-storage-driver-deprecation/'> in our latest blog.</a><br><br>Also in this months email:<br><ul><li>Two new IoT project tutorials</li><li>Find out which events we're attending this month</li><li>New Fleets and Apps on balenaHub</li></ul>"
+    },
+  
+    "news": [
+      {
+        "title": "Communicate with your dog using balena!",
+        "link": "https://www.balena.io/blog/help-your-dog-communicate-with-buttons-using-balena/",
+        "image": "https://assets.balena.io/blog-common/2022/09/september-1.png",
+        "button_text": "Read the tutorial",
+        "text": "New balenista Matt used his dog as inspiration for his labs residency and built a system for her to use buttons to communicate with him; you can find this on balenaHub! "
+      },
+      {
+        "title": "Build your own voice assistant on balena",
+        "link": "https://www.balena.io/blog/build-your-own-voice-assistant/",
+        "image": "https://assets.balena.io/blog-common/2022/09/september-2.png",
+        "button_text": "Read the tutorial",
+        "text": "Otavio has also graduated from his residency this month with his voice assistant using the balena audio block, Rhasspy and home assistant. "
+      },
+      {
+        "title": "The balenaHub Meet-up is back!",
+        "link": "https://www.eventbrite.com/e/balenahub-meet-up-5-tickets-388593582867?utm_medium=email&utm_source=campaign&utm_campaign=balenahub_september_meet&utm_content=eventbrite",
+        "image": "https://assets.balena.io/blog-common/2022/08/august-3.png",
+        "button_text": "Register Here",
+        "text": "Join us on the 27th of September for the 5th balenaHub meetup where we will be discussing Grafana with Mikhail Volkov, the founder at Volkov Labs and using MING with balena ambassador Alex Lennon."
+      }
+    ],
+  
+    "hub": [
+      {
+        "name": "Edt-offline",
+        "author": "Digital Democracy",
+        "description": "A low-energy device that creates an access-point serving applications",
+        "image": "https://github.com/digidem/edt-offline/raw/main/docs/imgs/logo.png",
+        "link": "https://hub.balena.io/organizations/digital_democracy/fleets/edt-offline"
+      },
+      {
+        "name": "balena-passbolt",
+        "author": "AnatomicJC",
+        "description": "Passbolt is an open source collaborative password manager",
+        "image": "https://raw.githubusercontent.com/AnatomicJC/balena-passbolt/master/logo.png",
+        "link": "https://hub.balena.io/organizations/g_jean_christophe_vassort/fleets/balena-passbolt"
+      },
+      {
+        "name": "Plex-seedbox",
+        "author": "maggie0002",
+        "description": "Quickest and easiest way to get Plex and friends running on a RPi4",
+        "image": "https://github.com/maggie0002/balena-plex-seedbox/raw/main/logo.png",
+        "link": "https://hub.balena.io/organizations/maggie0002/apps/plex-seedbox"
+      },
+      {
+        "name": "Lumeo-gateway",
+        "author": "Lumeo, Inc",
+        "description": "Create and deploy custom video analytics applications in minutes",
+        "image": "https://assets.lumeo.com/media/logo/lumeo-icon-512.png",
+        "link": "https://hub.balena.io/organizations/lumeo/apps/lumeo-gateway"
+      },
+      {
+        "name": "Obico-octoprint",
+        "author": "paulokinho",
+        "description": "Remotely control your 3D-printer with Obico, Octoprint and balena!",
+        "image": "https://raw.githubusercontent.com/paulokinho/obico-octoprint/master/logo.png",
+        "link": "https://hub.balena.io/organizations/gh_paulokinho/apps/obico-octoprint"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Use an NFS to share information between containers",
+        "text": "<a href='https://www.youtube.com/watch?v=_kyNSLeAT84'>Check out this great video</a> from Volkov Labs where they show you  how to use their Network File System to share external storage between containers."
+      },
+      {
+        "title": "Seeed Studio and Volkov Labs use edge ML on an electron microscope",
+        "text": "Using Grafana and balena Seeed and Volkov Labs have collaborated with Theia Scientific to create a real-time AI-powered microscopy image analysis at the edge. <a href='https://www.seeedstudio.com/blog/2022/08/19/using-grafana-for-real-time-ai-powered-microscopy-image-analysis-at-the-edge/'>Read all about it here<a/>"
+      },
+      {
+        "title": "Using a RPi and balena to monitor radiation",
+        "text": "Not only does this community built project run on balenaCloud it is built using balena Blocks! <a href='https://www.electromaker.io/project/view/using-balena-on-pi-to-make-a-radiation-alerts-monitor'>Follow the tutorial on Electromaker</a> to build your own."
+      },
+      {
+        "title": "22-23rd September (Amsterdam, Netherland) - The Things Conference 2022",
+        "text": "Balena Developer Advocate Marc Pous will be speaking about how you can build your own private LoRaWAN network server and gateway at this year's The Things Conference, find out more and <a href='https://www.thethingsnetwork.org/conference/'>get your ticket here.</a>"
+      },
+      {
+        "title": "29th September (Virtual) - Edge Impulse Imagine 2022",
+        "text": "Balena Hardware Hacker Alan Boris will be speaking about running Machine Learning Models on the Nvidia Jetson CPU and GPU, with balena, Cuda and Edge Impulse. Bring your NVIDIA Jetson and join us. <a href='https://edgeimpulse.com/imagine'>Register here</a>"
+      }
+    ],
+  
+    "share": {
+      "sublink": "Check%20out%20what's%20new%20this%20month%20at%20@balena_io:%20https%3A%2F%2Fbalena.io/blog%2Fbalena-monthly-roundup-july-2022"
+    },
+  
+    "jobs": {
+      "text": "We're looking for a number of roles for our growing team. <br><br>- Finance Director<br><br>Check them out, or if you think you could be a great fit for balena, design your own role and introduce yourself to us via open call. We'd love to get to know you better.",
+      "link": "https://apply.workable.com/balena/?utm_source=Newsletter&utm_media=email",
+      "button_text": "Apply today"
+    }
+  }
+  
