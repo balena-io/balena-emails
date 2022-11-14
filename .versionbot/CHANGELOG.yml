@@ -1,0 +1,1219 @@
+- commits:
+    - subject: add-flowzone-yml-file
+      hash: d8a85ffa0d168594a726a4b312dc791753fd9b12
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Lizzie Epton
+  version: 2.22.0
+  title: ""
+  date: 2022-11-14T17:05:31.949Z
+- version: 2.21.0
+  date: 2022-09-20T13:58:26Z
+  commits:
+    - hash: b524c35de561d708e4d0d8ab95ee1570fd3b20ed
+      author: Lizzie Epton
+      footers:
+        change-type: minor
+        signed-off-by: Lizzie Epton <lizzie@balena.io>
+      subject: september newsletter
+      body: null
+- version: 2.20.0
+- date: 2022-08-10T12:41:02Z
+- commits:
+    - hash: 9a8e21fd0d0b6f431a13267ec7b41f035c0c6673
+- commits:
+    - author: Lizzie Epton
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Lizzie Epton <lizzie@balena.io>
+- commits:
+    - subject: Add August Newsletter and graphics
+- commits:
+    - body: null
+- version: 2.19.0
+- date: 2022-07-15T16:59:46Z
+- commits:
+    - hash: c424ed0a5322c85659c6bef8a8a70eb8c86c0ffb
+- commits:
+    - author: Lizzie Epton
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Lizzie Epton <lizzie@balena.io>
+- commits:
+    - subject: Add July newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: d0d8c6096b514368f5b83cc25f4021c288b24a0b
+- commits:
+    - author: andrew
+- commits:
+    - subject: minor edits, resync with MC
+- commits:
+    - body: null
+- version: 2.18.0
+- date: 2022-06-14T22:19:34Z
+- commits:
+    - hash: c38759341913d3acb3acf9409d33810edabd36e1
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add June 2022 newsletter
+- commits:
+    - body: null
+- version: 2.17.0
+- date: 2022-05-14T00:17:17Z
+- commits:
+    - hash: 17b207fc714755bdab4d821dde8dcc461a2a72b2
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add May 2022 newsletter
+- commits:
+    - body: null
+- version: 2.16.0
+- date: 2022-04-13T13:28:23Z
+- commits:
+    - hash: 5eb8b8dc75760a0ee025016b824c71f86ea360f7
+- commits:
+    - author: Lizzie Epton
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Lizzie Epton <lizzie@balena.io>
+- commits:
+    - subject: Add-April-newsletter
+- commits:
+    - body: null
+- version: 2.15.1
+- date: 2022-03-16T13:36:42Z
+- commits:
+    - hash: f30054ee36b0ea20b9df44468f58ae63115022b5
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: february 2022"
+- commits:
+    - body: null
+- commits:
+    - hash: 087f49990c25a6879f44c8c6ad09fd425da57aea
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: february 2022 fixes by top dawg nhem"
+- commits:
+    - body: null
+- commits:
+    - hash: f245c9959da55edff42586ee8cbda286319f2a3a
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: february fix"
+- commits:
+    - body: null
+- version: 2.15.0
+- date: 2022-03-16T13:14:13Z
+- commits:
+    - hash: 6af2df8c1c576ebf3b7253ee1c9189947fc67fd1
+- commits:
+    - author: Lizzie Epton
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Lizzie Epton <lizzie@balena.io>
+- commits:
+    - subject: add march newsletter
+- commits:
+    - body: null
+- version: 2.14.1
+- date: 2022-02-15T19:01:43Z
+- commits:
+    - hash: f218fec2e8c9d31f9cd29312eba3f4c6cb57405c
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: add jan 2022"
+- commits:
+    - body: null
+- commits:
+    - hash: 1c57d356475c66f74c09414dea88cbee506ba593
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Fix typos
+- commits:
+    - body: null
+- version: 2.14.0
+- date: 2021-12-14T22:41:22Z
+- commits:
+    - hash: 398fd7c4c5e0e68d641e33401880d54d8294eb5b
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add Dec 2021 newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: 3186b0eb685e37fd1b7fdc50136da22a631a2439
+- commits:
+    - author: andrew
+- commits:
+    - subject: add test script to satisfy balena tests
+- commits:
+    - body: null
+- version: 2.13.0
+- date: 2021-11-16T17:07:43Z
+- commits:
+    - hash: f599d5bc3a5e2d9ce80c14fd0cfbbdac9d9b1875
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add Nov 2021 newsletter
+- commits:
+    - body: null
+- version: 2.12.0
+- date: 2021-10-14T00:29:10Z
+- commits:
+    - hash: 37899d768859e3bfac590cb4ca1accd6cbbef33d
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Adding Oct 2021 newsletter
+- commits:
+    - body: null
+- version: 2.11.0
+- date: 2021-09-23T20:15:39Z
+- commits:
+    - hash: cda2e86a6157cb3df8cbb9da7e733b6c0440c415
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Adding hackathon 2021 first email
+- commits:
+    - body: null
+- version: 2.10.0
+- date: 2021-09-13T22:46:58Z
+- commits:
+    - hash: 602fad7cdc53311f44e24dd6241431ae4a81493d
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add Sept 2021 newsletter
+- commits:
+    - body: "* includes change to IoT HH section to indicate watching previous eps"
+- version: 2.9.1
+- date: 2021-08-13T20:47:36Z
+- commits:
+    - hash: 473210c984c97d50bdef7f51c827d1adf73f34be
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Fix typo
+- commits:
+    - body: null
+- version: 2.9.0
+- date: 2021-08-12T17:22:05Z
+- commits:
+    - hash: 6f5905cbf8c0f94f5a51319f96a462ed1530c03d
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update section of Aug 2021 newsletter
+- commits:
+    - body: null
+- version: 2.8.0
+- date: 2021-08-12T15:24:05Z
+- commits:
+    - hash: 6ee8df75d4888d90ea3801f6a90e8f3fe61694a5
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Adding August 2021 newsletter content
+- commits:
+    - body: null
+- version: 2.7.0
+- date: 2021-08-06T16:17:50Z
+- commits:
+    - hash: 75b885288bc73d8d3b8c6ddeaec626db57d2a869
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Add announcement email for Aug 2021 applications -> fleets change
+- commits:
+    - body: null
+- commits:
+    - hash: 3d37f9814e372985260cf1f2ba3ae2d304919e1e
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - subject: Edits from Chris
+- commits:
+    - body: null
+- version: 2.6.0
+- date: 2021-07-15T13:24:51Z
+- commits:
+    - hash: d12765dfa18765c73156bd810b56368a16808cd2
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newlsetter: July 2021"
+- commits:
+    - body: null
+- commits:
+    - hash: aa5e57848a37af949a90bf93455f474f8c299489
+- commits:
+    - author: Andrew Nhem
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Added July 2021 newsletter
+- commits:
+    - body: null
+- version: 2.5.0
+- date: 2021-06-30T18:44:15Z
+- commits:
+    - hash: ada325ea9766afc6f8ba214fcf47a78b35d262bf
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "2021-06: add shortage announcement"
+- commits:
+    - body: null
+- version: 2.4.8
+- date: 2021-06-14T13:13:30Z
+- commits:
+    - hash: 82509cd2bb1538974bc4733c573e408056b8a7d5
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: add june 2021"
+- commits:
+    - body: null
+- version: 2.4.7
+- date: 2021-05-11T16:24:57Z
+- commits:
+    - hash: 27d193d97b04cfe5ae127c1c9804400ba4c4aa0a
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: may 2021"
+- commits:
+    - body: null
+- version: 2.4.6
+- date: 2021-04-22T19:17:12Z
+- commits:
+    - hash: f7820dd1053c2bf29419928c4e9a01ee3da08b30
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "announcement: role changes april 2021"
+- commits:
+    - body: null
+- version: 2.4.5
+- date: 2021-04-22T13:27:18Z
+- commits:
+    - hash: 675b7f6fb8711b517a876f1d5857d0d2894dbca4
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: april 2021 fixes"
+- commits:
+    - body: null
+- version: 2.4.4
+- date: 2021-04-12T15:53:26Z
+- commits:
+    - hash: 4b96dd723eb7d31241d0ce1c07cb72724e30998a
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: added april 2021"
+- commits:
+    - body: null
+- version: 2.4.3
+- date: 2021-03-17T13:31:01Z
+- commits:
+    - hash: 5988804445fb6cdf8996c1b524b6f04a142b4ff5
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Add 2013-03 role announcement
+- commits:
+    - body: null
+- version: 2.4.2
+- date: 2021-03-10T12:42:56Z
+- commits:
+    - hash: 09c34ea1abb99640ae0801b9522f38e38b8ed8e5
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: add 2021-03"
+- commits:
+    - body: null
+- commits:
+    - hash: ac130c927641fb6de30be24a695bd5abd9343c47
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: march 2021"
+- commits:
+    - body: null
+- version: 2.4.1
+- date: 2021-03-08T19:25:37Z
+- commits:
+    - hash: 67549a3f08d7273177894eac82a45ae3d545ae43
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: fix fonts
+- commits:
+    - body: null
+- version: 2.4.0
+- date: 2021-02-09T12:29:07Z
+- commits:
+    - hash: 1ed7de6441e81062f0e524b5ac8fec8ad85595bb
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Add Feb 2021 newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: 4bcd6cd2baa5675ff5dbd7f7512f380466329dab
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "february-2021: Added hub section"
+- commits:
+    - body: null
+- commits:
+    - hash: 01ad7298bd7d7591f7be7a033d1082cc701e27f7
+- commits:
+    - author: andrew
+- commits:
+    - subject: added and removed imgs
+- commits:
+    - body: null
+- version: 2.3.0
+- date: 2021-02-08T17:09:14Z
+- commits:
+    - hash: 3ab55bf9d9cc908af4a6a6f7899835768cde25a2
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        connects-to: "#38"
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Add hub section
+- commits:
+    - body: null
+- version: 2.2.0
+- date: 2021-01-08T21:29:38Z
+- commits:
+    - hash: 433346ffa6527021843030fa6e426d31f4ba9ff9
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Andrew <andrew@balena.io>
+- commits:
+    - subject: Adding January 2021 newsletter
+- commits:
+    - body: null
+- version: 2.1.0
+- date: 2020-12-11T00:34:29Z
+- commits:
+    - hash: 248b8b76033544b8f319ec74a0ffa21b6f32f3c4
+- commits:
+    - author: andrew
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Andrew Nhem <andrewn@balena.io>
+- commits:
+    - subject: Add December 2020 newsletter
+- commits:
+    - body: null
+- version: 2.0.5
+- date: 2020-11-12T13:06:07Z
+- commits:
+    - hash: 9a3067add26c4f7440e3475aa9bbce856864a544
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: added november 2020 data"
+- commits:
+    - body: null
+- version: 2.0.4
+- date: 2020-11-10T19:15:44Z
+- commits:
+    - hash: 37485faa6b85efd62a85e4813f24f0724b5e52f4
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Fix typo
+- commits:
+    - body: null
+- commits:
+    - hash: dd6720145c5eb6ca0ce9830a5bf6f7b13b867f6c
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: October"
+- commits:
+    - body: null
+- commits:
+    - hash: b8c4ba925b926dfd9d12b7ff389156e4a68a9991
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: add updated assets"
+- commits:
+    - body: null
+- commits:
+    - hash: 18eff917125beed68b357b3eba9792026cdd7e6e
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: october fixes"
+- commits:
+    - body: null
+- commits:
+    - hash: bf7fe47a145e8278c74f6390f82807d6f5f8eed2
+- commits:
+    - author: Tomás Migone
+- commits:
+    - subject: Merge branch 'master' into newsletter-2020-09
+- commits:
+    - body: null
+- version: 2.0.3
+- date: 2020-09-08T20:07:11Z
+- commits:
+    - hash: a27cde9cf313cb40a0b631722985651019940ef3
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: september 2020"
+- commits:
+    - body: null
+- version: 2.0.2
+- date: 2020-08-07T14:53:21Z
+- commits:
+    - hash: 4d0f643f9e92dc93c3659728df58d3306dda0209
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: august 2020"
+- commits:
+    - body: null
+- version: 2.0.1
+- date: 2020-07-06T19:57:48Z
+- commits:
+    - hash: de21eaaf5f00ce047ce3d52ce1f7c14e71453434
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: july 2020"
+- commits:
+    - body: null
+- version: 2.0.0
+- date: 2020-06-03T16:45:30Z
+- commits:
+    - hash: b8045a537b05fc6fea8a4ea7ec922ad6aeebf8a6
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: "newsletter: june 2020 feedback"
+- commits:
+    - body: null
+- commits:
+    - hash: ec369d99619874319943300e65683f05a1d6819f
+- commits:
+    - author: Tomás Migone
+- commits:
+    - footers:
+        change-type: major
+- commits:
+    - footers:
+        signed-off-by: Tomás Migone <tomas@balena.io>
+- commits:
+    - subject: Replace Zurb foundation stack with MJML.
+- commits:
+    - body: |-
+        Zurb foundation components are very outdated and not actively mantained.
+        MJML replaces Zurb Foundation for Emails, Inky and Panini components.
+        Changelog:
+        - Replace Zurb foundation stack with MJML
+        - Add netlify integration
+        - Add mailchimp integration
+        - Added template types (currently newsletter and announcement)
+- version: 1.1.0
+- date: 2019-02-19T08:49:17Z
+- commits:
+    - hash: 707602ddd1168a6b808cee4cb49e8c9431f0c49e
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Add events
+- commits:
+    - body: null
+- commits:
+    - hash: 4d1e7877deb77d19496f5e1416779c5256c1b8c1
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: jan2019
+- commits:
+    - body: null
+- commits:
+    - hash: 1e99b6673a857dd2e00424d469bd7bd4b27dfdda
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: 2019-02
+- commits:
+    - body: null
+- commits:
+    - hash: b9302f465b6085e9d0f9b7a4782b513557101905
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Update readme
+- commits:
+    - body: null
+- commits:
+    - hash: 7dc0ff71a3621ec034e04ba3bdda6414a72b8094
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Code refactoring
+- commits:
+    - body: null
+- commits:
+    - hash: d54219ef2dc341572049271095e1736737842abb
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Daniel Andrade daniel@danielandrade.net
+- commits:
+    - subject: Add static content to use balena assets.
+- commits:
+    - body: null
+- commits:
+    - hash: 20498a8084d80fdd55172167fcb795188efad7a9
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Update
+- commits:
+    - body: null
+- commits:
+    - hash: b952e392638ccb722ea33b9043b08fe62d530d4e
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Add events
+- commits:
+    - body: null
+- commits:
+    - hash: 7b7eb2747b99ef52f3a2f8a743147494ec383e11
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Update featured
+- commits:
+    - body: null
+- commits:
+    - hash: b34c3840101205e165925bd15f6da4bd6664666c
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - footers:
+        signed-off-by: Daniel Andrade daniel@balena.io
+- commits:
+    - subject: Add description to events
+- commits:
+    - body: null
+- commits:
+    - hash: f376cd1e89f65234c001cd1f94411226e2b7368e
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Content added
+- commits:
+    - body: null
+- commits:
+    - hash: 0baf6df503979e1ee63293248e7c4e9706c7db91
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Fix super wide mode
+- commits:
+    - body: null
+- commits:
+    - hash: a4faaab4f0b2eca7990399d1a3ee395c256dc2d6
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Add attending icons
+- commits:
+    - body: null
+- commits:
+    - hash: f5c56e2740b6ec243602a7402e4107566e8cc0b5
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Update events
+- commits:
+    - body: null
+- commits:
+    - hash: 4b03aff52bfc2904102d8546e9f7a25cb90f719a
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Add title for project of the month
+- commits:
+    - body: null
+- commits:
+    - hash: 92adcfa27381c0a54ce1f3bcc49b2bc46a248adc
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Finished 2018-12
+- commits:
+    - body: null
+- version: 1.0.0
+- date: 2018-11-12T16:59:29Z
+- commits:
+    - hash: 323a3726d55de83738d5cc359f88832eb89f2c3e
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: First iteration of new newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: 995da6f0614d2c6cc996fda406aada0b1d9b1594
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Remove tags
+- commits:
+    - body: null
+- commits:
+    - hash: 7ebe872c39b682dc770e59a211cda91fdf6d1c34
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Almost ready to push live Nov 2018
+- commits:
+    - body: null
+- commits:
+    - hash: 800429311c5f5dea670c261529322fce3e10e658
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Nov 2018 ready
+- commits:
+    - body: null
+- commits:
+    - hash: 18ba430fc87f777df372b0a28fbd6252f82dd691
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - subject: Fix social mobile alignment
+- commits:
+    - body: null
+- commits:
+    - hash: be3b2fb3b0063e0de567f441c755cb2f0176f4a9
+- commits:
+    - author: Daniel Andrade
+- commits:
+    - footers:
+        change-type: major
+- commits:
+    - footers:
+        signed-off-by: Daniel Andrade daniel@balena.io
+- commits:
+    - subject: New email redesign
+- commits:
+    - body: null
+- commits:
+    - hash: e8bee66be3139751075bd2a2af9bdcfee00349b3
+- commits:
+    - author: Chris Crocker-White
+- commits:
+    - footers:
+        co-authored-by: dansku <daniel@danielandrade.net>
+- commits:
+    - subject: Update font path. Change in the future to new CDN.
+- commits:
+    - body: null
+- version: 0.0.2
+- date: 2018-10-05T15:15:46Z
+- commits:
+    - hash: 2c54872919d50dd8548df7ff30ab591f64529f97
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Gergely Imreh <gergely@resin.io>
+- commits:
+    - subject: "cleanup: General improvements"
+- commits:
+    - body: |-
+        * remove accidental checking
+        * relicence to Apache 2.0
+        * update dependencies
+- commits:
+    - hash: aad635ef0ab83b3dfb29bc6224a92591d1a4cad1
+- commits:
+    - author: Zach Walchuk
+- commits:
+    - subject: june newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: 5ac3e3efa677d68dad2728073353e807ff5fcb7f
+- commits:
+    - author: Zach Walchuk
+- commits:
+    - subject: updates for march
+- commits:
+    - body: null
+- commits:
+    - hash: 7ac643c098bd264300d0d883eed903ffd81c126d
+- commits:
+    - author: Zach Walchuk
+- commits:
+    - subject: may updates
+- commits:
+    - body: null
+- commits:
+    - hash: 06b6e6fc971cb3bba377975622abb8f00537981e
+- commits:
+    - author: Zach Walchuk
+- commits:
+    - subject: fix ad_callout.html
+- commits:
+    - body: null
+- commits:
+    - hash: 6521e8355976b8056e1806cc6c09160252ed4d6d
+- commits:
+    - author: zwalchuk
+- commits:
+    - subject: Merge branch 'master' into 2017may
+- commits:
+    - body: null
+- commits:
+    - hash: 03c32248b0fc5d651b29b67a202e6f89f76b52d4
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: 2017 april newsletter draft
+- commits:
+    - body: null
+- commits:
+    - hash: 2f4b5b64131fe174b1207d1e5dd9a726a0e26129
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: remove tags from posts that are not from our blog
+- commits:
+    - body: null
+- commits:
+    - hash: 04cc9aa04bf49eadec944b811cd54cbb816350a9
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: incorporate feedback
+- commits:
+    - body: null
+- commits:
+    - hash: 81d1e293211cb360ace6feec128ca90f2129e710
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: fix blurb
+- commits:
+    - body: null
+- commits:
+    - hash: 360c292c7b3b15d2292e8f2bfe9b40e328758af0
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: remove some post to prevent main content clipping in Gmail
+- commits:
+    - body: null
+- commits:
+    - hash: e2c62ce6122b67e13472c40695ddfd66b373a08f
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: replace images
+- commits:
+    - body: null
+- commits:
+    - hash: 5a5ffd57bdbc57a4a1d95e2b75648d8a8778f7a7
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: update header image with new design
+- commits:
+    - body: null
+- commits:
+    - hash: b4fa63d9b394122049402618cc8f18e738869d4d
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: "2017march newsletter: work in progress"
+- commits:
+    - body: null
+- commits:
+    - hash: b8fac3a59b6505edf2419ebf92def8ca8fbb7634
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: draft changes
+- commits:
+    - body: null
+- commits:
+    - hash: a3a48c627c8e3c75aa45ee259b84b3dd8b040d40
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: add link to company name in footer
+- commits:
+    - body: "Connects to #6"
+- commits:
+    - hash: ba4d9dab9b68a3ae29ebac5c1d560fb438f5281c
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: 2017 Feb newsletter draft
+- commits:
+    - body: null
+- commits:
+    - hash: 837cf5229398582f4c13a122a33a2bdf085875af
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: add job advertisement to the newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: c4f0d01082d6683367430f293e464925e7d6d3ab
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: grammatical fixes
+- commits:
+    - body: null
+- commits:
+    - hash: 989d733d28890891116bbe71d6f58488d90f14c5
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: add link to forward newsletter to a friend
+- commits:
+    - body: "Connects to #7"
+- commits:
+    - hash: cb0b6305419143292645bb0169b3727353bd06ca
+- commits:
+    - author: gaudi
+- commits:
+    - subject: move title
+- commits:
+    - body: null
+- commits:
+    - hash: 789a860edfd7950516f2cf1526a05af96c5499c3
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: 2017 January newsletter
+- commits:
+    - body: null
+- commits:
+    - hash: cb0b6305419143292645bb0169b3727353bd06ca
+- commits:
+    - author: gaudi
+- commits:
+    - subject: move title
+- commits:
+    - body: null
+- commits:
+    - hash: 9745d3c4db2100627a0fbded5df5eaade7129bc2
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: "Merge pull request #5 from resin-io/2017janFork"
+- commits:
+    - body: move title
+- commits:
+    - hash: 1db4b96311d296747d413801b1546bb6c46882ba
+- commits:
+    - author: gaudi
+- commits:
+    - subject: december
+- commits:
+    - body: null
+- commits:
+    - hash: 2ae3d90a4fb1885cf7024ff4ff260a62c08393c5
+- commits:
+    - author: gaudi
+- commits:
+    - subject: fixes
+- commits:
+    - body: null
+- commits:
+    - hash: 8d8a07df43217bf5a0ffc67f79c6fe8041a97ef6
+- commits:
+    - author: gaudi
+- commits:
+    - subject: feedback
+- commits:
+    - body: null
+- commits:
+    - hash: 88c1d073edae807512cae4c011547afe804bb1b5
+- commits:
+    - author: gaudi
+- commits:
+    - subject: more changes
+- commits:
+    - body: null
+- commits:
+    - hash: c153be720e44867df1cadc9ac99daf5c63cdee22
+- commits:
+    - author: Gergely Imreh
+- commits:
+    - subject: "footer: add postcard call to action"
+- commits:
+    - body: null
