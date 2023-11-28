@@ -1,4 +1,13 @@
 - commits:
+    - subject: "patch: npm upgrade to fix critical vulns"
+      hash: 435c8e131892b54f5206d468808e5a6b5698e933
+      body: ""
+      footer: {}
+      author: JOASSART Edwin
+  version: 2.22.1
+  title: ""
+  date: 2023-11-28T13:58:53.356Z
+- commits:
     - subject: add-flowzone-yml-file
       hash: d8a85ffa0d168594a726a4b312dc791753fd9b12
       body: ""

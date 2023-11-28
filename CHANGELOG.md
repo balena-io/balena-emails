@@ -4,6 +4,11 @@
 
 ## 1.0.0 - 2018-11-12
 
+# v2.22.1
+## (2023-11-28)
+
+* patch: npm upgrade to fix critical vulns [JOASSART Edwin]
+
 # v2.22.0
 ## (2022-11-14)
 
